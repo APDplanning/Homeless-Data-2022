@@ -1,0 +1,3733 @@
+tract_split	Year	City	LACity	Community_Name	totUnsheltPeople	totESPeople	totTHPeople	totPeople
+101110	2022	Los Angeles	1	Tujunga	4.436	0	0	4.436
+101122a	2022	Los Angeles	1	Tujunga	5.93	0	0	5.93
+101122b	2022	Los Angeles	1	Tujunga	1.49	0	0	1.49
+101210	2022	Los Angeles	1	Tujunga	9.436	0	0	9.436
+101220	2022	Los Angeles	1	Tujunga	0	0	0	0
+101300a	2022	Los Angeles	1	Tujunga	13.476	0	0	13.476
+101300b	2022	Los Angeles	1	Tujunga	5.436	0	0	5.436
+101400a	2022	Los Angeles	1	Tujunga	12.72	0	0	12.72
+101400b	2022	Los Angeles	1	Tujunga	38.619	0	0	38.619
+102103	2022	Los Angeles	1	Shadow Hills	2	0	0	2
+102104	2022	Los Angeles	1	Shadow Hills	4.911	0	0	4.911
+102105a	2022	Los Angeles	1	Sun Valley	0	0	0	0
+102105b	2022	Los Angeles	1	Sun Valley	18.568	0	0	18.568
+102107a	2022	Los Angeles	1	Shadow Hills	27.976	0	0	27.976
+102107b	2022	Los Angeles	1	Shadow Hills	0	0	0	0
+103101a	2022	Los Angeles	1	Sunland	1	0	0	1
+103101p	2022	Los Angeles	1	Sunland	24.09	0	0	24.09
+103102a	2022	Los Angeles	1	Tujunga	8.141	0	0	8.141
+103102b	2022	Los Angeles	1	Sunland	3.517	0	0	3.517
+103102c	2022	Los Angeles	1	Sunland	0	0	0	0
+103200a	2022	Los Angeles	1	Shadow Hills	22.929	0	0	22.929
+103200b	2022	Los Angeles	1	Lake View Terrace	50.891	0	0	50.891
+103200c	2022	Los Angeles	1	Sunland	4.386	0	0	4.386
+103200d	2022	Unincorporated	2	Kagel/Lopez Canyons	0	0	0	0
+103300a	2022	Los Angeles	1	Shadow Hills	0	0	0	0
+103300b	2022	Los Angeles	1	Shadow Hills	0	0	0	0
+103400a	2022	Los Angeles	1	Sunland	8.424	0	0	8.424
+103400b	2022	Los Angeles	1	Sunland	4.944	0	0	4.944
+104103	2022	Los Angeles	1	Lake View Terrace	7.351	0	0	7.351
+104105a	2022	Los Angeles	1	Lake View Terrace	0	0	0	0
+104105b	2022	Los Angeles	1	Pacoima	4.401	0	0	4.401
+104108a	2022	Los Angeles	1	Pacoima	7.861	0	0	7.861
+104108b	2022	Los Angeles	1	Lake View Terrace	6.475	0	0	6.475
+104108c	2022	Los Angeles	1	Pacoima	0	0	0	0
+104124a	2022	Los Angeles	1	Lake View Terrace	0	10	0	10
+104124b	2022	Los Angeles	1	Lake View Terrace	0	0	0	0
+104124c	2022	Unincorporated	2	Kagel/Lopez Canyons	0	0	0	0
+104201	2022	Los Angeles	1	Pacoima	95.925	0	0	95.925
+104203	2022	Los Angeles	1	Pacoima	2.93	0	0	2.93
+104204a	2022	Los Angeles	1	Lake View Terrace	5.056	0	0	5.056
+104204b	2022	Los Angeles	1	Pacoima	5.911	0	0	5.911
+104204p	2022	Los Angeles	1	Lake View Terrace	0	0	0	0
+104310a	2022	Los Angeles	1	Pacoima	62.103	0	0	62.103
+104310b	2022	Los Angeles	1	Pacoima	13.101	0	0	13.101
+104320	2022	Los Angeles	1	Pacoima	5.823	55	0	60.823
+104401	2022	Los Angeles	1	Pacoima	6	0	0	6
+104403	2022	Los Angeles	1	Pacoima	39.185	0	0	39.185
+104404	2022	Los Angeles	1	Pacoima	13.158	0	0	13.158
+104500	2022	Los Angeles	1	Pacoima	5.517	0	0	5.517
+104610	2022	Los Angeles	1	Pacoima	1.49	0	0	1.49
+104620	2022	Los Angeles	1	Pacoima	25.297	0	0	25.297
+104701	2022	Los Angeles	1	Pacoima	29.335	0	0	29.335
+104703	2022	Los Angeles	1	Pacoima	103.27	0	0	103.27
+104704	2022	Los Angeles	1	Pacoima	33.637	0	0	33.637
+104810	2022	Los Angeles	1	Pacoima	14.694	0	0	14.694
+104821a	2022	Los Angeles	1	Pacoima	7.056	0	0	7.056
+104821b	2022	Los Angeles	1	Pacoima	1.49	0	0	1.49
+104822	2022	Los Angeles	1	Pacoima	22.979	0	0	22.979
+106010	2022	Los Angeles	1	Sylmar	16.318	0	0	16.318
+106020a	2022	Los Angeles	1	Sylmar	0	0	0	0
+106020b	2022	Los Angeles	1	Sylmar	8.527	0	0	8.527
+106111a	2022	Los Angeles	1	Sylmar	1	0	0	1
+106111b	2022	Los Angeles	1	Sylmar	0	0	0	0
+106112a	2022	Los Angeles	1	Sylmar	0	0	0	0
+106112b	2022	Los Angeles	1	Sylmar	25.853	60	0	85.853
+106113	2022	Los Angeles	1	Sylmar	17.475	0	0	17.475
+106114	2022	Los Angeles	1	Sylmar	18.81	16	0	34.81
+106403	2022	Los Angeles	1	Sylmar	5.98	0	0	5.98
+106405	2022	Los Angeles	1	Sylmar	8.803	0	0	8.803
+106406a	2022	Los Angeles	1	Sylmar	0	0	0	0
+106406b	2022	Los Angeles	1	Sylmar	19.038	0	0	19.038
+106407	2022	Los Angeles	1	Sylmar	1	0	0	1
+106408	2022	Los Angeles	1	Sylmar	7.741	0	0	7.741
+106510a	2022	Los Angeles	1	Sylmar	88.403	0	0	88.403
+106510b	2022	Los Angeles	1	Sylmar	0	0	0	0
+106520a	2022	Los Angeles	1	Sylmar	5.823	0	0	5.823
+106520b	2022	Los Angeles	1	Sylmar	4.386	0	0	4.386
+106603a	2022	Los Angeles	1	Granada Hills	0	0	0	0
+106603b	2022	Unincorporated	2	Steveson Ranch	0	0	0	0
+106604a	2022	Los Angeles	1	Sylmar	21.106	70	0	91.106
+106604b	2022	Los Angeles	1	Sylmar	17.083	0	0	17.083
+106641	2022	Los Angeles	1	Granada Hills	0	0	0	0
+106642a	2022	Los Angeles	1	Granada Hills	4.424	0	0	4.424
+106642b	2022	Los Angeles	1	Granada Hills	0	0	0	0
+106642c	2022	Los Angeles	1	Granada Hills	0	0	0	0
+106643a	2022	Los Angeles	1	Granada Hills	0	0	0	0
+106643b	2022	Los Angeles	1	Granada Hills	0	0	0	0
+106645	2022	Los Angeles	1	Granada Hills	0	0	0	0
+106646	2022	Los Angeles	1	Granada Hills	8.546	0	0	8.546
+106648	2022	Los Angeles	1	Sylmar	4.456	0	0	4.456
+106649	2022	Los Angeles	1	Sylmar	3.37	0	0	3.37
+107010	2022	Los Angeles	1	Sylmar	3.911	0	0	3.911
+107020	2022	Los Angeles	1	Sylmar	22.839	0	0	22.839
+108101	2022	Los Angeles	1	Porter Ranch	1.456	0	0	1.456
+108102	2022	Los Angeles	1	Porter Ranch	4.95	0	0	4.95
+108103a	2022	Los Angeles	1	Porter Ranch	0	0	0	0
+108103b	2022	Los Angeles	1	Porter Ranch	0	0	0	0
+108104	2022	Los Angeles	1	Porter Ranch	1.456	0	0	1.456
+108201a	2022	Los Angeles	1	Porter Ranch	7.204	0	0	7.204
+108201b	2022	Los Angeles	1	Porter Ranch	0	0	0	0
+108202a	2022	Los Angeles	1	Chatsworth	0	0	0	0
+108202b	2022	Los Angeles	1	Chatsworth	0	0	0	0
+109100a	2022	Los Angeles	1	Mission Hills	5.911	0	0	5.911
+109100b	2022	Los Angeles	1	Mission Hills	51.05	13	0	64.05
+109200	2022	Los Angeles	1	Granada Hills	8.734	0	0	8.734
+109300	2022	Los Angeles	1	Granada Hills	13.388	0	0	13.388
+109400	2022	Los Angeles	1	Mission Hills	19.184	0	0	19.184
+109500a	2022	Los Angeles	1	Pacoima	35.608	0	0	35.608
+109500b	2022	Los Angeles	1	Pacoima	0	0	0	0
+109601a	2022	Los Angeles	1	Mission Hills	4.946	0	0	4.946
+109601b	2022	Los Angeles	1	Mission Hills	29.745	0	0	29.745
+109603	2022	Los Angeles	1	Mission Hills	5.141	0	0	5.141
+109604	2022	Los Angeles	1	Mission Hills	9.942	0	0	9.942
+109700	2022	Los Angeles	1	Granada Hills	6.052	0	0	6.052
+109800	2022	Los Angeles	1	North Hills	2.714	0	0	2.714
+111100	2022	Los Angeles	1	Granada Hills	0	0	0	0
+111201	2022	Los Angeles	1	Granada Hills	5.498	0	0	5.498
+111202a	2022	Los Angeles	1	Granada Hills	0	0	0	0
+111202b	2022	Los Angeles	1	Granada Hills	0	0	0	0
+111204a	2022	Los Angeles	1	Porter Ranch	1	0	0	1
+111204b	2022	Los Angeles	1	Northridge	0	0	0	0
+111204c	2022	Los Angeles	1	Porter Ranch	1.456	0	0	1.456
+111205a	2022	Los Angeles	1	Northridge	0	0	0	0
+111205b	2022	Los Angeles	1	Northridge	0	0	0	0
+111206a	2022	Los Angeles	1	Porter Ranch	0	0	0	0
+111206b	2022	Los Angeles	1	Porter Ranch	0	0	0	0
+111301a	2022	Los Angeles	1	Granada Hills	1.456	0	0	1.456
+111301b	2022	Los Angeles	1	Granada Hills	2	0	0	2
+111302	2022	Los Angeles	1	Northridge	7.035	0	0	7.035
+111400a	2022	Los Angeles	1	Granada Hills	44.676	0	0	44.676
+111400b	2022	Los Angeles	1	North Hills	5.658	0	0	5.658
+113101	2022	Los Angeles	1	Chatsworth	6.631	0	0	6.631
+113102a	2022	Los Angeles	1	Chatsworth	0	0	0	0
+113102b	2022	Los Angeles	1	Chatsworth	0	0	0	0
+113102c	2022	Los Angeles	1	Chatsworth	0	0	0	0
+113102d	2022	Los Angeles	1	Chatsworth	0	0	0	0
+113211a	2022	Los Angeles	1	Chatsworth	2.98	0	0	2.98
+113211b	2022	Los Angeles	1	Chatsworth	13.101	0	0	13.101
+113211c	2022	Los Angeles	1	Chatsworth	0	0	0	0
+113211p	2022	Los Angeles	1	Chatsworth	0	0	0	0
+113212	2022	Los Angeles	1	Chatsworth	6.37	29	0	35.37
+113213	2022	Los Angeles	1	Chatsworth	18.845	0	0	18.845
+113231a	2022	Los Angeles	1	West Hills	0	0	0	0
+113231b	2022	Unincorporated	2	Chatsworth	0	0	0	0
+113232	2022	Los Angeles	1	West Hills	2.911	0	0	2.911
+113233	2022	Los Angeles	1	Canoga Park	21.446	0	0	21.446
+113234	2022	Los Angeles	1	Canoga Park	29.917	0	0	29.917
+113235	2022	Unincorporated	2	Chatsworth	0	0	0	0
+113237a	2022	Los Angeles	1	Chatsworth	1.49	0	0	1.49
+113237b	2022	Los Angeles	1	Chatsworth	270.41	0	0	270.41
+113237p	2022	Los Angeles	1	Chatsworth	0	0	0	0
+113301a	2022	Los Angeles	1	Northridge	1	0	0	1
+113301b	2022	Los Angeles	1	Northridge	8.052	0	0	8.052
+113301c	2022	Los Angeles	1	Northridge	1	0	0	1
+113303a	2022	Los Angeles	1	Chatsworth	104.58	0	0	104.58
+113303b	2022	Los Angeles	1	Chatsworth	0	0	0	0
+113321	2022	Los Angeles	1	Chatsworth	147.21	0	0	147.21
+113322a	2022	Los Angeles	1	Chatsworth	0	0	0	0
+113322b	2022	Los Angeles	1	Chatsworth	2.98	0	0	2.98
+113322c	2022	Los Angeles	1	Chatsworth	0	0	0	0
+113401a	2022	Los Angeles	1	Northridge	0	8	0	8
+113401b	2022	Los Angeles	1	Winnetka	0	0	0	0
+113401c	2022	Los Angeles	1	Winnetka	0	0	0	0
+113401d	2022	Los Angeles	1	Winnetka	0	0	0	0
+113421a	2022	Los Angeles	1	Canoga Park	21.09	0	0	21.09
+113421b	2022	Los Angeles	1	Chatsworth	46.901	0	0	46.901
+113421c	2022	Los Angeles	1	Winnetka	1.456	0	0	1.456
+113422a	2022	Los Angeles	1	Canoga Park	0	0	0	0
+113422b	2022	Los Angeles	1	Winnetka	4.259	0	0	4.259
+115101a	2022	Los Angeles	1	Northridge	0	0	0	0
+115101b	2022	Los Angeles	1	Northridge	5.965	0	0	5.965
+115101c	2022	Los Angeles	1	Northridge	0	0	0	0
+115103	2022	Los Angeles	1	Northridge	0	0	0	0
+115104a	2022	Los Angeles	1	Northridge	1.456	0	0	1.456
+115104b	2022	Los Angeles	1	Northridge	0	0	0	0
+115201a	2022	Los Angeles	1	Northridge	0	0	0	0
+115201b	2022	Los Angeles	1	Northridge	5.823	0	0	5.823
+115202a	2022	Los Angeles	1	Northridge	0	0	0	0
+115202b	2022	Los Angeles	1	Northridge	20.659	5	0	25.659
+115202c	2022	Los Angeles	1	Northridge	0	0	0	0
+115202d	2022	Los Angeles	1	Northridge	0	0	0	0
+115301a	2022	Los Angeles	1	Northridge	6.071	0	0	6.071
+115301b	2022	Los Angeles	1	Northridge	1	0	0	1
+115302	2022	Los Angeles	1	Northridge	0	0	0	0
+115401a	2022	Los Angeles	1	Northridge	0	0	0	0
+115401b	2022	Los Angeles	1	Northridge	2.965	0	0	2.965
+115403	2022	Los Angeles	1	Northridge	30.047	0	0	30.047
+115404	2022	Los Angeles	1	Northridge	24.313	0	0	24.313
+117101	2022	Los Angeles	1	North Hills	8.791	0	0	8.791
+117102	2022	Los Angeles	1	North Hills	7.278	0	0	7.278
+117201	2022	Los Angeles	1	North Hills	37.738	0	0	37.738
+117202	2022	Los Angeles	1	North Hills	25.644	0	0	25.644
+117301a	2022	Los Angeles	1	North Hills	0	0	0	0
+117301b	2022	Los Angeles	1	North Hills	1.456	0	0	1.456
+117302a	2022	Los Angeles	1	Northridge	0	0	0	0
+117302b	2022	Los Angeles	1	Northridge	0	0	0	0
+117303a	2022	Los Angeles	1	North Hills	1.456	0	0	1.456
+117303b	2022	Los Angeles	1	North Hills	0	0	0	0
+117404a	2022	Los Angeles	1	North Hills	9.923	0	0	9.923
+117404b	2022	Los Angeles	1	North Hills	18.176	0	0	18.176
+117405	2022	Los Angeles	1	North Hills	36.426	0	0	36.426
+117407	2022	Los Angeles	1	North Hills	25.082	0	0	25.082
+117408	2022	Los Angeles	1	North Hills	5.056	29	0	34.056
+117510	2022	Los Angeles	1	North Hills	1.49	0	38	39.49
+117520	2022	Los Angeles	1	North Hills	19.97	0	0	19.97
+117530a	2022	Los Angeles	1	North Hills	16.961	0	0	16.961
+117530b	2022	Los Angeles	1	North Hills	6.93	0	0	6.93
+119001	2022	Los Angeles	1	Arleta	20.882	0	0	20.882
+119002a	2022	Los Angeles	1	Arleta	24.036	0	0	24.036
+119002b	2022	Los Angeles	1	Arleta	14.826	0	0	14.826
+119201	2022	Los Angeles	1	Arleta	0	0	0	0
+119202a	2022	Los Angeles	1	Arleta	24.142	12	0	36.142
+119202b	2022	Los Angeles	1	Arleta	8.511	0	0	8.511
+119310a	2022	Los Angeles	1	Panorama City	2.456	0	0	2.456
+119310b	2022	Los Angeles	1	Panorama City	5.823	0	0	5.823
+119320	2022	Los Angeles	1	Panorama City	11.146	0	0	11.146
+119340	2022	Los Angeles	1	Panorama City	1.685	0	0	1.685
+119341	2022	Los Angeles	1	Panorama City	17.389	0	0	17.389
+119342	2022	Los Angeles	1	Panorama City	0	0	0	0
+119400	2022	Los Angeles	1	Arleta	13.03	0	0	13.03
+119700a	2022	Los Angeles	1	Arleta	0	0	0	0
+119700b	2022	Los Angeles	1	Arleta	0	0	0	0
+119700c	2022	Los Angeles	1	Panorama City	5.857	0	0	5.857
+119800	2022	Los Angeles	1	Arleta	6.685	0	0	6.685
+119900	2022	Los Angeles	1	Panorama City	7.89	0	0	7.89
+120010a	2022	Los Angeles	1	Panorama City	0	0	0	0
+120010b	2022	Los Angeles	1	Panorama City	0	0	0	0
+120020	2022	Los Angeles	1	Panorama City	0	0	0	0
+120030	2022	Los Angeles	1	Panorama City	10.281	0	0	10.281
+120103	2022	Los Angeles	1	Panorama City	5.965	0	0	5.965
+120104	2022	Los Angeles	1	Panorama City	11.104	0	0	11.104
+120105	2022	Los Angeles	1	Panorama City	1	0	0	1
+120106	2022	Los Angeles	1	Panorama City	8.714	0	0	8.714
+120107	2022	Los Angeles	1	Panorama City	4.685	0	0	4.685
+120108a	2022	Los Angeles	1	Panorama City	1.49	0	0	1.49
+120108b	2022	Los Angeles	1	Panorama City	17.236	0	0	17.236
+120300a	2022	Los Angeles	1	Panorama City	0	0	0	0
+120300b	2022	Los Angeles	1	Panorama City	78.39	0	0	78.39
+120400a	2022	Los Angeles	1	Panorama City	3	0	0	3
+120400b	2022	Los Angeles	1	Panorama City	15.712	0	0	15.712
+121010a	2022	Los Angeles	1	Sun Valley	15.575	0	0	15.575
+121010b	2022	Los Angeles	1	Sun Valley	2.456	0	0	2.456
+121010c	2022	Los Angeles	1	Sun Valley	60.839	0	0	60.839
+121010d	2022	Los Angeles	1	Sun Valley	0	0	0	0
+121020a	2022	Los Angeles	1	Sun Valley	4.367	0	0	4.367
+121020b	2022	Los Angeles	1	Sun Valley	5.517	0	0	5.517
+121101a	2022	Los Angeles	1	Sun Valley	0	0	0	0
+121102a	2022	Los Angeles	1	Shadow Hills	15.722	0	0	15.722
+121102b	2022	Los Angeles	1	Sun Valley	49.66	0	0	49.66
+121102c	2022	Los Angeles	1	Shadow Hills	10.285	0	0	10.285
+121102d	2022	Los Angeles	1	Shadow Hills	18.208	0	0	18.208
+121210a	2022	Los Angeles	1	Pacoima	27.053	0	0	27.053
+121210b	2022	Los Angeles	1	Pacoima	21.989	0	0	21.989
+121221a	2022	Los Angeles	1	Sun Valley	11.601	0	0	11.601
+121221b	2022	Los Angeles	1	Sun Valley	0	0	0	0
+121222	2022	Los Angeles	1	Sun Valley	16.595	0	0	16.595
+121600a	2022	Los Angeles	1	Sun Valley	2.911	0	0	2.911
+121600b	2022	Los Angeles	1	Sun Valley	4.861	23	0	27.861
+121801	2022	Los Angeles	1	Sun Valley	2	0	0	2
+121802a	2022	Los Angeles	1	Sun Valley	102	442	1	551
+121802b	2022	Los Angeles	1	Sun Valley	1.685	0	0	1.685
+121900a	2022	Los Angeles	1	Sun Valley	7.946	0	0	7.946
+121900b	2022	Los Angeles	1	Sun Valley	46.093	0	0	46.093
+122000a	2022	Los Angeles	1	Sun Valley	38.46	53	0	91.46
+122000b	2022	Los Angeles	1	Sun Valley	2.456	0	0	2.456
+122000c	2022	Los Angeles	1	Sun Valley	2	0	0	2
+122120	2022	Los Angeles	1	Sun Valley	0	0	0	0
+122121a	2022	Los Angeles	1	Sun Valley	5.892	0	0	5.892
+122121b	2022	Los Angeles	1	Sun Valley	5.98	0	0	5.98
+122122	2022	Los Angeles	1	Sun Valley	198.02	0	4	202.02
+122200	2022	Los Angeles	1	Sun Valley	0	0	0	0
+122410	2022	Los Angeles	1	Sun Valley	16.843	0	0	16.843
+122420	2022	Los Angeles	1	Sun Valley	12.963	0	0	12.963
+123010a	2022	Los Angeles	1	Sun Valley	121.96	0	0	121.96
+123010b	2022	Los Angeles	1	North Hollywood	60.186	0	0	60.186
+123020a	2022	Los Angeles	1	Sun Valley	0	0	0	0
+123020b	2022	Los Angeles	1	Sun Valley	15.766	0	0	15.766
+123103a	2022	Los Angeles	1	North Hollywood	16.623	0	0	16.623
+123103b	2022	Los Angeles	1	North Hollywood	14.967	0	0	14.967
+123104	2022	Los Angeles	1	North Hollywood	5.401	0	0	5.401
+123203a	2022	Los Angeles	1	North Hollywood	10.085	0	0	10.085
+123203b	2022	Los Angeles	1	North Hollywood	2.911	0	0	2.911
+123204a	2022	Los Angeles	1	North Hollywood	10.355	0	0	10.355
+123204b	2022	Los Angeles	1	North Hollywood	2.95	0	0	2.95
+123205a	2022	Los Angeles	1	North Hollywood	24.671	0	0	24.671
+123205b	2022	Los Angeles	1	North Hollywood	13.787	0	0	13.787
+123206a	2022	Los Angeles	1	North Hollywood	4.367	0	0	4.367
+123206b	2022	Los Angeles	1	North Hollywood	10.027	0	0	10.027
+123301a	2022	Los Angeles	1	North Hollywood	23.424	0	0	23.424
+123301b	2022	Los Angeles	1	North Hollywood	13.799	0	0	13.799
+123303a	2022	Los Angeles	1	Valley Glen	11.231	0	0	11.231
+123303b	2022	Los Angeles	1	Valley Glen	11.656	0	0	11.656
+123304a	2022	Los Angeles	1	Valley Glen	4.259	0	0	4.259
+123304b	2022	Los Angeles	1	Valley Glen	3.259	0	0	3.259
+123304c	2022	Los Angeles	1	Valley Glen	0	0	0	0
+123410	2022	Los Angeles	1	Valley Glen	4.93	0	0	4.93
+123420a	2022	Los Angeles	1	Valley Glen	2	0	0	2
+123420b	2022	Los Angeles	1	Valley Glen	2.49	0	0	2.49
+123510a	2022	Los Angeles	1	Valley Glen	1.49	0	0	1.49
+123510b	2022	Los Angeles	1	Valley Glen	1	0	0	1
+123520	2022	Los Angeles	1	Valley Glen	2.456	0	0	2.456
+123601a	2022	Los Angeles	1	Valley Glen	0	0	0	0
+123601b	2022	Los Angeles	1	Valley Glen	0	0	0	0
+123601c	2022	Los Angeles	1	Sherman Oaks	2	0	0	2
+123602	2022	Los Angeles	1	Valley Glen	0	0	0	0
+123700a	2022	Los Angeles	1	Valley Glen	0	0	0	0
+123700b	2022	Los Angeles	1	Valley Glen	2.911	0	0	2.911
+123800a	2022	Los Angeles	1	Valley Glen	21.001	1	10	32.001
+123800b	2022	Los Angeles	1	Valley Glen	0	52	0	52
+123800c	2022	Los Angeles	1	Valley Glen	4.37	0	0	4.37
+123901a	2022	Los Angeles	1	North Hollywood	34.325	0	0	34.325
+123901b	2022	Los Angeles	1	North Hollywood	7.37	0	0	7.37
+123902a	2022	Los Angeles	1	North Hollywood	7.508	0	0	7.508
+123902b	2022	Los Angeles	1	Valley Glen	0	0	0	0
+124000a	2022	Los Angeles	1	Valley Village	0	0	0	0
+124000b	2022	Los Angeles	1	Valley Village	2.259	0	0	2.259
+124102a	2022	Los Angeles	1	North Hollywood	15.645	0	0	15.645
+124102b	2022	Los Angeles	1	North Hollywood	0	0	0	0
+124103a	2022	Los Angeles	1	North Hollywood	0	0	0	0
+124103b	2022	Los Angeles	1	North Hollywood	5	0	0	5
+124104a	2022	Los Angeles	1	North Hollywood	0	0	0	0
+124104b	2022	Los Angeles	1	North Hollywood	6.401	0	0	6.401
+124105a	2022	Los Angeles	1	North Hollywood	1.456	0	0	1.456
+124105b	2022	Los Angeles	1	North Hollywood	11.322	0	0	11.322
+124201a	2022	Los Angeles	1	North Hollywood	17.857	0	0	17.857
+124201b	2022	Los Angeles	1	North Hollywood	2.911	0	0	2.911
+124203	2022	Los Angeles	1	North Hollywood	1.456	0	0	1.456
+124204	2022	Los Angeles	1	North Hollywood	11.963	0	0	11.963
+124300	2022	Los Angeles	1	North Hollywood	32.69	0	0	32.69
+124400a	2022	Los Angeles	1	Valley Glen	2.685	0	0	2.685
+124400b	2022	Los Angeles	1	Valley Village	0	0	0	0
+124500a	2022	Los Angeles	1	Valley Glen	1.456	0	0	1.456
+124500b	2022	Los Angeles	1	Sherman Oaks	0	0	0	0
+124600	2022	Los Angeles	1	Sherman Oaks	0	0	0	0
+124700a	2022	Los Angeles	1	Sherman Oaks	3.911	0	0	3.911
+124700b	2022	Los Angeles	1	Sherman Oaks	26.608	0	0	26.608
+124902	2022	Los Angeles	1	Valley Village	0	0	0	0
+124903a	2022	Los Angeles	1	Valley Village	1	0	0	1
+124903b	2022	Los Angeles	1	Valley Village	0	0	0	0
+125100a	2022	Los Angeles	1	Valley Village	0	0	0	0
+125100b	2022	Los Angeles	1	Valley Village	10.189	0	0	10.189
+125200a	2022	Los Angeles	1	Valley Village	0	0	0	0
+125200b	2022	Los Angeles	1	Valley Village	10.967	0	0	10.967
+125200c	2022	Los Angeles	1	North Hollywood	5.17	35	0	40.17
+125200d	2022	Los Angeles	1	North Hollywood	16.93	0	0	16.93
+125310a	2022	Los Angeles	1	North Hollywood	79.502	0	0	79.502
+125310b	2022	Los Angeles	1	North Hollywood	0	0	0	0
+125320	2022	Los Angeles	1	North Hollywood	56.004	0	0	56.004
+125401a	2022	Los Angeles	1	North Hollywood	4.93	0	0	4.93
+125401b	2022	Los Angeles	1	North Hollywood	11.89	0	0	11.89
+125402a	2022	Los Angeles	1	North Hollywood	7.573	0	0	7.573
+125402b	2022	Los Angeles	1	North Hollywood	3.714	0	0	3.714
+125501a	2022	Los Angeles	1	North Hollywood	5.141	0	0	5.141
+125501b	2022	Los Angeles	1	North Hollywood	0	0	0	0
+125502a	2022	Los Angeles	1	Toluca Lake	10.278	0	0	10.278
+125502b	2022	Los Angeles	1	Toluca Lake	0	0	0	0
+125600a	2022	Los Angeles	1	Toluca Lake	0	0	0	0
+125600b	2022	Los Angeles	1	Toluca Lake	0	0	0	0
+127102	2022	Los Angeles	1	Van Nuys	0	62	0	62
+127103	2022	Los Angeles	1	Van Nuys	4.517	0	0	4.517
+127104	2022	Los Angeles	1	Van Nuys	0	0	0	0
+127210	2022	Los Angeles	1	Van Nuys	7.382	0	0	7.382
+127220	2022	Los Angeles	1	Van Nuys	11.008	0	0	11.008
+127300	2022	Los Angeles	1	Van Nuys	9.125	0	0	9.125
+127400a	2022	Los Angeles	1	Van Nuys	109.92	0	0	109.92
+127400b	2022	Los Angeles	1	Van Nuys	46.353	0	0	46.353
+127520a	2022	Los Angeles	1	Van Nuys	0	0	0	0
+127520b	2022	Los Angeles	1	Van Nuys	15.37	0	0	15.37
+127603a	2022	Los Angeles	1	Van Nuys	4.367	0	0	4.367
+127603b	2022	Los Angeles	1	Van Nuys	1.49	0	0	1.49
+127604	2022	Los Angeles	1	Van Nuys	20.942	0	0	20.942
+127605a	2022	Los Angeles	1	Van Nuys	2.685	0	0	2.685
+127605b	2022	Los Angeles	1	Van Nuys	9.081	0	0	9.081
+127606a	2022	Los Angeles	1	Van Nuys	51.398	0	0	51.398
+127606b	2022	Los Angeles	1	Van Nuys	2.456	0	0	2.456
+127711	2022	Los Angeles	1	Van Nuys	11.718	0	0	11.718
+127712a	2022	Los Angeles	1	Van Nuys	6.314	0	0	6.314
+127712b	2022	Los Angeles	1	Van Nuys	0	47	0	47
+127803	2022	Los Angeles	1	Van Nuys	12.176	0	0	12.176
+127804a	2022	Los Angeles	1	Van Nuys	3	0	0	3
+127804b	2022	Los Angeles	1	Van Nuys	1	0	0	1
+127805	2022	Los Angeles	1	Van Nuys	13.085	0	0	13.085
+127806	2022	Los Angeles	1	Van Nuys	1.259	0	0	1.259
+127910	2022	Los Angeles	1	Van Nuys	4.596	40	0	44.596
+127920	2022	Los Angeles	1	Van Nuys	1.685	0	0	1.685
+128101	2022	Los Angeles	1	Valley Glen	2.259	0	0	2.259
+128102	2022	Los Angeles	1	Van Nuys	9.855	0	0	9.855
+128210a	2022	Los Angeles	1	Van Nuys	1.259	35	0	36.259
+128210b	2022	Los Angeles	1	Van Nuys	13.034	49	0	62.034
+128220	2022	Los Angeles	1	Valley Glen	1.685	0	0	1.685
+128302	2022	Los Angeles	1	Van Nuys	15.21	0	0	15.21
+128303	2022	Los Angeles	1	Van Nuys	0	0	0	0
+128400a	2022	Los Angeles	1	Van Nuys	5.386	0	0	5.386
+128400b	2022	Los Angeles	1	Van Nuys	27.448	0	0	27.448
+128500a	2022	Los Angeles	1	Sherman Oaks	2.456	0	0	2.456
+128500b	2022	Los Angeles	1	Van Nuys	2.685	0	0	2.685
+128601a	2022	Los Angeles	1	Van Nuys	49.341	0	0	49.341
+128601b	2022	Los Angeles	1	Valley Glen	0	0	0	0
+128602a	2022	Los Angeles	1	Valley Glen	1.456	0	0	1.456
+128602b	2022	Los Angeles	1	Sherman Oaks	0	0	0	0
+128702a	2022	Los Angeles	1	Sherman Oaks	61.761	0	0	61.761
+128702b	2022	Los Angeles	1	Sherman Oaks	0	0	0	0
+128801	2022	Los Angeles	1	Sherman Oaks	2.259	0	0	2.259
+128802	2022	Los Angeles	1	Sherman Oaks	1	0	0	1
+128910a	2022	Los Angeles	1	Sherman Oaks	16.12	0	0	16.12
+128910b	2022	Los Angeles	1	Sherman Oaks	1.456	0	0	1.456
+131010	2022	Los Angeles	1	Reseda	6.884	0	0	6.884
+131020	2022	Los Angeles	1	Reseda	14.992	0	0	14.992
+131100	2022	Los Angeles	1	Lake Balboa	22.56	0	0	22.56
+131200	2022	Los Angeles	1	Lake Balboa	0	0	0	0
+131300	2022	Los Angeles	1	Reseda	10.209	0	0	10.209
+131400	2022	Los Angeles	1	Reseda	2.911	7	0	9.911
+131600a	2022	Los Angeles	1	Reseda	0	0	0	0
+131600b	2022	Los Angeles	1	Reseda	2.95	0	0	2.95
+131600c	2022	Los Angeles	1	Reseda	11.645	0	0	11.645
+131701	2022	Los Angeles	1	Reseda	3.911	0	0	3.911
+131702	2022	Los Angeles	1	Reseda	2.475	0	0	2.475
+131800	2022	Los Angeles	1	Reseda	41.749	50	0	91.749
+131900	2022	Los Angeles	1	Lake Balboa	0	0	0	0
+132001	2022	Los Angeles	1	Lake Balboa	12.243	0	0	12.243
+132002	2022	Los Angeles	1	Lake Balboa	11.683	0	0	11.683
+132101	2022	Los Angeles	1	Lake Balboa	1	0	0	1
+132102a	2022	Los Angeles	1	Van Nuys	0	0	0	0
+132102b	2022	Los Angeles	1	Lake Balboa	4.367	7	0	11.367
+132300	2022	Los Angeles	1	Reseda	34.261	0	0	34.261
+132501	2022	Los Angeles	1	Reseda	2.456	0	0	2.456
+132502a	2022	Los Angeles	1	Reseda	5	5	0	10
+132502b	2022	Los Angeles	1	Reseda	40.403	43	0	83.403
+132700a	2022	Los Angeles	1	Reseda	32.973	0	0	32.973
+132700b	2022	Los Angeles	1	Reseda	17.571	8	0	25.571
+132700c	2022	Los Angeles	1	Encino	1.456	0	0	1.456
+132900a	2022	Los Angeles	1	Tarzana	10.243	0	0	10.243
+132900b	2022	Los Angeles	1	Encino	0	0	0	0
+133000	2022	Los Angeles	1	Reseda	16.224	6	0	22.224
+133100a	2022	Los Angeles	1	Tarzana	1.456	38	0	39.456
+133100b	2022	Los Angeles	1	Reseda	16.857	4	0	20.857
+134001a	2022	Los Angeles	1	Canoga Park	23.722	0	0	23.722
+134001b	2022	Los Angeles	1	Canoga Park	3.517	0	0	3.517
+134002a	2022	Los Angeles	1	Winnetka	2.456	0	0	2.456
+134002b	2022	Los Angeles	1	Winnetka	0	0	0	0
+134101	2022	Los Angeles	1	Winnetka	1.456	0	0	1.456
+134103	2022	Los Angeles	1	Winnetka	0	0	0	0
+134104	2022	Los Angeles	1	Winnetka	1.456	0	0	1.456
+134201a	2022	Los Angeles	1	Canoga Park	73.815	0	0	73.815
+134201b	2022	Los Angeles	1	Winnetka	0	0	0	0
+134302	2022	Los Angeles	1	West Hills	0	0	0	0
+134303a	2022	Los Angeles	1	West Hills	2.911	0	0	2.911
+134303b	2022	Los Angeles	1	Canoga Park	1	0	0	1
+134303c	2022	Los Angeles	1	West Hills	0	0	0	0
+134304	2022	Los Angeles	1	Canoga Park	0	0	0	0
+134305	2022	Los Angeles	1	Canoga Park	0	0	0	0
+134306	2022	Los Angeles	1	Canoga Park	12.772	40	0	52.772
+134421	2022	Los Angeles	1	West Hills	5.892	0	0	5.892
+134422a	2022	Los Angeles	1	West Hills	1.456	0	0	1.456
+134422b	2022	Los Angeles	1	West Hills	1	0	0	1
+134423	2022	Los Angeles	1	West Hills	0	0	0	0
+134424a	2022	Los Angeles	1	West Hills	0	0	0	0
+134424b	2022	Los Angeles	1	West Hills	0	0	0	0
+134424c	2022	Unincorporated	2	Chatsworth	0	0	0	0
+134520a	2022	Los Angeles	1	Canoga Park	22.863	0	0	22.863
+134520b	2022	Los Angeles	1	Canoga Park	59.608	0	0	59.608
+134521	2022	Los Angeles	1	Canoga Park	38.512	0	0	38.512
+134522	2022	Los Angeles	1	Canoga Park	0	0	0	0
+134710a	2022	Los Angeles	1	Winnetka	0	0	0	0
+134710b	2022	Los Angeles	1	Winnetka	4	0	0	4
+134720	2022	Los Angeles	1	Winnetka	2.456	0	0	2.456
+134800	2022	Los Angeles	1	Winnetka	27.664	0	0	27.664
+134901a	2022	Los Angeles	1	Winnetka	3.685	0	0	3.685
+134901b	2022	Los Angeles	1	Tarzana	5.823	0	0	5.823
+134901c	2022	Los Angeles	1	Reseda	2.456	4	0	6.456
+134903	2022	Los Angeles	1	Canoga Park	86.73	0	0	86.73
+134904	2022	Los Angeles	1	Winnetka	15.436	0	0	15.436
+134905	2022	Los Angeles	1	Woodland Hills	4.826	0	0	4.826
+135102a	2022	Los Angeles	1	West Hills	5.776	0	0	5.776
+135102b	2022	Los Angeles	1	Woodland Hills	1.456	0	0	1.456
+135111a	2022	Los Angeles	1	Canoga Park	11.683	0	0	11.683
+135111b	2022	Los Angeles	1	Canoga Park	1.456	0	0	1.456
+135113	2022	Los Angeles	1	Woodland Hills	1.456	0	0	1.456
+135114a	2022	Los Angeles	1	Woodland Hills	2.911	0	0	2.911
+135114b	2022	Los Angeles	1	Woodland Hills	5.842	0	0	5.842
+135114c	2022	Los Angeles	1	Canoga Park	7.119	0	0	7.119
+135201a	2022	Los Angeles	1	West Hills	0	0	0	0
+135201b	2022	Los Angeles	1	Woodland Hills	1.456	0	0	1.456
+135202a	2022	Los Angeles	1	West Hills	11.067	0	0	11.067
+135202b	2022	Los Angeles	1	Woodland Hills	0	0	0	0
+135203a	2022	Los Angeles	1	Woodland Hills	0	0	0	0
+135203b	2022	Los Angeles	1	West Hills	3.944	0	0	3.944
+135203c	2022	Unincorporated	2	Westhills	0	0	0	0
+137000	2022	Los Angeles	1	Woodland Hills	0	0	0	0
+137103	2022	Los Angeles	1	Woodland Hills	10.278	0	0	10.278
+137104a	2022	Los Angeles	1	Woodland Hills	0	0	0	0
+137104b	2022	Los Angeles	1	Woodland Hills	2.944	0	0	2.944
+137201a	2022	Los Angeles	1	Woodland Hills	10.314	0	0	10.314
+137201b	2022	Los Angeles	1	Woodland Hills	41.56	0	0	41.56
+137301	2022	Los Angeles	1	Woodland Hills	1.456	0	0	1.456
+137302a	2022	Los Angeles	1	Woodland Hills	6.861	0	0	6.861
+137302b	2022	Los Angeles	1	Woodland Hills	1.456	0	0	1.456
+137401a	2022	Los Angeles	1	Woodland Hills	0	0	0	0
+137401b	2022	Los Angeles	1	Woodland Hills	0	0	0	0
+137402a	2022	Los Angeles	1	Woodland Hills	2.911	0	0	2.911
+137402b	2022	Los Angeles	1	Woodland Hills	1.456	0	0	1.456
+137501a	2022	Los Angeles	1	Woodland Hills	0	0	0	0
+137501b	2022	Los Angeles	1	Woodland Hills	2.911	0	0	2.911
+137502a	2022	Los Angeles	1	Woodland Hills	1	0	0	1
+137502b	2022	Los Angeles	1	Woodland Hills	1	0	0	1
+137502c	2022	Los Angeles	1	Woodland Hills	3.776	0	0	3.776
+137504	2022	Los Angeles	1	Woodland Hills	0	0	0	0
+138000a	2022	Los Angeles	1	Woodland Hills	0	0	0	0
+138000b	2022	Los Angeles	1	Woodland Hills	0	0	0	0
+139001	2022	Los Angeles	1	Encino	3.16	0	0	3.16
+139200a	2022	Los Angeles	1	Encino	1	0	0	1
+139200b	2022	Los Angeles	1	Tarzana	1	0	0	1
+139200c	2022	Los Angeles	1	Encino	0	0	0	0
+139301a	2022	Los Angeles	1	Tarzana	13.258	0	0	13.258
+139301b	2022	Los Angeles	1	Woodland Hills	2.456	0	0	2.456
+139302a	2022	Los Angeles	1	Tarzana	0	0	0	0
+139302b	2022	Los Angeles	1	Tarzana	4.944	4	0	8.944
+139303a	2022	Los Angeles	1	Tarzana	16.111	0	0	16.111
+139303b	2022	Los Angeles	1	Tarzana	10.876	0	0	10.876
+139401	2022	Los Angeles	1	Tarzana	18.208	0	0	18.208
+139402a	2022	Los Angeles	1	Tarzana	1	0	0	1
+139402b	2022	Los Angeles	1	Tarzana	1.259	0	0	1.259
+139502a	2022	Los Angeles	1	Tarzana	3.685	0	0	3.685
+139502b	2022	Los Angeles	1	Encino	0	0	0	0
+139503	2022	Los Angeles	1	Encino	0	0	0	0
+139504	2022	Los Angeles	1	Encino	13.316	0	0	13.316
+139600a	2022	Los Angeles	1	Encino	3.776	0	0	3.776
+139600b	2022	Los Angeles	1	Encino	0	0	0	0
+139701a	2022	Los Angeles	1	Encino	2.911	0	0	2.911
+139701b	2022	Los Angeles	1	Encino	0	0	0	0
+139702a	2022	Los Angeles	1	Encino	0	0	0	0
+139702b	2022	Los Angeles	1	Encino	0	0	0	0
+139703a	2022	Los Angeles	1	Encino	0	0	0	0
+139703b	2022	Los Angeles	1	Tarzana	0	0	0	0
+139801	2022	Los Angeles	1	Tarzana	1	0	0	1
+139802	2022	Los Angeles	1	Tarzana	0	0	0	0
+141101	2022	Los Angeles	1	Sherman Oaks	1	0	0	1
+141102	2022	Los Angeles	1	Sherman Oaks	1	0	0	1
+141201a	2022	Los Angeles	1	Sherman Oaks	34.669	0	0	34.669
+141201b	2022	Los Angeles	1	Sherman Oaks	19.251	0	0	19.251
+141202	2022	Los Angeles	1	Sherman Oaks	2	0	0	2
+141302	2022	Los Angeles	1	Sherman Oaks	2	0	0	2
+141303	2022	Los Angeles	1	Sherman Oaks	2	0	0	2
+141304	2022	Los Angeles	1	Sherman Oaks	19.426	0	0	19.426
+141400a	2022	Los Angeles	1	Encino	4.141	17	0	21.141
+141400b	2022	Los Angeles	1	Encino	0	0	0	0
+141500	2022	Los Angeles	1	Encino	0	0	0	0
+141600a	2022	Los Angeles	1	Sherman Oaks	0	0	0	0
+141600b	2022	Los Angeles	1	Sherman Oaks	0	0	0	0
+141700a	2022	Los Angeles	1	Sherman Oaks	0	0	0	0
+141700b	2022	Los Angeles	1	Sherman Oaks	0	0	0	0
+141700c	2022	Los Angeles	1	Sherman Oaks	0	0	0	0
+143100	2022	Los Angeles	1	Toluca Lake	16.858	0	0	16.858
+143200a	2022	Los Angeles	1	Studio City	20.582	0	0	20.582
+143200b	2022	Los Angeles	1	Studio City	0	0	0	0
+143200c	2022	Los Angeles	1	Studio City	13.789	0	0	13.789
+143300a	2022	Los Angeles	1	Studio City	7.125	0	0	7.125
+143300b	2022	Los Angeles	1	Studio City	7	0	0	7
+143300c	2022	Los Angeles	1	Valley Village	1.475	0	0	1.475
+143400a	2022	Los Angeles	1	Studio City	0	0	0	0
+143400b	2022	Los Angeles	1	Studio City	13.793	0	0	13.793
+143400c	2022	Los Angeles	1	Studio City	2	0	0	2
+143400d	2022	Los Angeles	1	Valley Village	3	0	0	3
+143400e	2022	Los Angeles	1	Sherman Oaks	0	0	0	0
+143500a	2022	Los Angeles	1	Studio City	1.259	0	0	1.259
+143500b	2022	Los Angeles	1	Sherman Oaks	0	0	0	0
+143602	2022	Los Angeles	1	Studio City	15.426	0	0	15.426
+143603a	2022	Los Angeles	1	Studio City	15.631	0	0	15.631
+143603b	2022	Los Angeles	1	Studio City	2	0	0	2
+143604a	2022	Los Angeles	1	Studio City	3.944	0	0	3.944
+143604b	2022	Los Angeles	1	Studio City	1	0	0	1
+143700a	2022	Los Angeles	1	Hollywood Hills	1	0	0	1
+143700b	2022	Los Angeles	1	Hollywood Hills	0	0	0	0
+143700c	2022	Los Angeles	1	Studio City	0	0	0	0
+143800a	2022	Los Angeles	1	Studio City	2	0	0	2
+143800b	2022	Los Angeles	1	Studio City	13.476	0	0	13.476
+143901a	2022	Los Angeles	1	Studio City	2	0	0	2
+143901b	2022	Los Angeles	1	Studio City	3.141	0	0	3.141
+143902a	2022	Los Angeles	1	Sherman Oaks	1	0	0	1
+143902b	2022	Los Angeles	1	Sherman Oaks	0	0	0	0
+181000a	2022	Los Angeles	1	Eagle Rock	3.606	0	0	3.606
+181000b	2022	Los Angeles	1	Eagle Rock	29.445	0	0	29.445
+181300a	2022	Los Angeles	1	Eagle Rock	0	0	0	0
+181300b	2022	Los Angeles	1	Eagle Rock	27.88	0	0	27.88
+181400	2022	Los Angeles	1	Eagle Rock	16.129	0	0	16.129
+181500a	2022	Los Angeles	1	Eagle Rock	12.65	0	0	12.65
+181500b	2022	Los Angeles	1	Eagle Rock	0	0	0	0
+181600	2022	Los Angeles	1	Eagle Rock	12.015	0	0	12.015
+183101	2022	Los Angeles	1	Highland Park	16.202	0	0	16.202
+183103a	2022	Los Angeles	1	Highland Park	7.679	0	0	7.679
+183103b	2022	Los Angeles	1	Highland Park	19.974	0	0	19.974
+183103c	2022	Los Angeles	1	Montecito Heights	10.413	0	0	10.413
+183104	2022	Los Angeles	1	Highland Park	1.86	0	0	1.86
+183220	2022	Los Angeles	1	Highland Park	34.889	0	0	34.889
+183221a	2022	Los Angeles	1	Highland Park	4.985	0	0	4.985
+183221b	2022	Los Angeles	1	Highland Park	0	0	0	0
+183222a	2022	Los Angeles	1	Eagle Rock	1.86	0	0	1.86
+183222b	2022	Los Angeles	1	Highland Park	0	0	0	0
+183300	2022	Los Angeles	1	Highland Park	12.311	0	0	12.311
+183401a	2022	Los Angeles	1	Highland Park	0	0	0	0
+183401b	2022	Los Angeles	1	Highland Park	0	0	0	0
+183401c	2022	Los Angeles	1	Eagle Rock	0	0	0	0
+183402a	2022	Los Angeles	1	Highland Park	1.86	0	0	1.86
+183402b	2022	Los Angeles	1	Eagle Rock	5.579	0	0	5.579
+183510a	2022	Los Angeles	1	Highland Park	1.86	0	0	1.86
+183510b	2022	Los Angeles	1	Highland Park	0	0	0	0
+183520a	2022	Los Angeles	1	Highland Park	0	0	0	0
+183520b	2022	Los Angeles	1	Highland Park	0	0	0	0
+183610a	2022	Los Angeles	1	Highland Park	1.86	0	0	1.86
+183610b	2022	Los Angeles	1	Highland Park	8.875	0	0	8.875
+183620	2022	Los Angeles	1	Highland Park	22.72	0	0	22.72
+183701a	2022	Los Angeles	1	Highland Park	2.86	0	0	2.86
+183701b	2022	Los Angeles	1	Highland Park	0	0	0	0
+183702	2022	Los Angeles	1	Montecito Heights	8.032	69	0	77.032
+183810	2022	Los Angeles	1	Highland Park	0	0	0	0
+183820a	2022	Los Angeles	1	Highland Park	15.002	0	0	15.002
+183820b	2022	Los Angeles	1	Highland Park	1.592	0	0	1.592
+185100a	2022	Los Angeles	1	Mount Washington	1	0	0	1
+185100b	2022	Los Angeles	1	Mount Washington	0	0	0	0
+185100c	2022	Los Angeles	1	Highland Park	3.761	0	0	3.761
+185100d	2022	Los Angeles	1	Mount Washington	0	0	0	0
+185100e	2022	Los Angeles	1	Mount Washington	5.352	0	0	5.352
+185202a	2022	Los Angeles	1	Mount Washington	3.873	0	0	3.873
+185202b	2022	Los Angeles	1	Mount Washington	0	0	0	0
+185202c	2022	Los Angeles	1	Mount Washington	0	0	0	0
+185203a	2022	Los Angeles	1	Mount Washington	3.24	0	0	3.24
+185203b	2022	Los Angeles	1	Cypress Park	3.466	0	0	3.466
+185204a	2022	Los Angeles	1	Mount Washington	0	0	0	0
+185204b	2022	Los Angeles	1	Mount Washington	0	0	0	0
+185310	2022	Los Angeles	1	Cypress Park	61.393	0	0	61.393
+185320	2022	Los Angeles	1	Cypress Park	61.642	0	0	61.642
+186100a	2022	Los Angeles	1	Glassell Park	16.116	0	0	16.116
+186100b	2022	Los Angeles	1	Eagle Rock	0	0	0	0
+186201a	2022	Los Angeles	1	Eagle Rock	1	0	0	1
+186201b	2022	Los Angeles	1	Eagle Rock	3.592	0	0	3.592
+186202a	2022	Los Angeles	1	Glassell Park	0	0	0	0
+186202b	2022	Los Angeles	1	Glassell Park	0	0	0	0
+186203a	2022	Los Angeles	1	Mount Washington	0	0	0	0
+186203b	2022	Los Angeles	1	Highland Park	4.199	0	0	4.199
+186301	2022	Los Angeles	1	Glassell Park	13.452	0	0	13.452
+186302a	2022	Los Angeles	1	Glassell Park	25.634	0	0	25.634
+186302b	2022	Los Angeles	1	Glassell Park	0	0	0	0
+186401	2022	Los Angeles	1	Glassell Park	80.008	0	0	80.008
+186403a	2022	Los Angeles	1	Glassell Park	9.03	0	0	9.03
+186403b	2022	Los Angeles	1	Glassell Park	2	0	0	2
+186404a	2022	Los Angeles	1	Glassell Park	8.211	0	0	8.211
+186404b	2022	Los Angeles	1	Glassell Park	8.171	0	0	8.171
+187101	2022	Los Angeles	1	Atwater Village	9.032	0	0	9.032
+187102a	2022	Los Angeles	1	Atwater Village	3.213	0	0	3.213
+187102b	2022	Los Angeles	1	Atwater Village	38.388	0	0	38.388
+187102c	2022	Los Angeles	1	Glassell Park	14.032	0	0	14.032
+187102d	2022	Los Angeles	1	Glassell Park	0	0	0	0
+187200a	2022	Los Angeles	1	Elysian Valley	0	0	0	0
+187200b	2022	Los Angeles	1	Elysian Valley	6.311	0	0	6.311
+187200c	2022	Los Angeles	1	Elysian Valley	5.621	0	0	5.621
+187300	2022	Los Angeles	1	Silver Lake	11.877	0	0	11.877
+188100	2022	Los Angeles	1	Atwater Village	28.43	0	0	28.43
+188201a	2022	Los Angeles	1	Los Feliz	21.653	23	0	44.653
+188201b	2022	Los Angeles	1	Silver Lake	9.93	0	0	9.93
+188202	2022	Los Angeles	1	Los Feliz	0	0	0	0
+188300	2022	Los Angeles	1	Atwater Village	5.987	0	0	5.987
+189101a	2022	Los Angeles	1	Los Feliz	12.548	0	0	12.548
+189101b	2022	Los Angeles	1	Los Feliz	2	0	0	2
+189102	2022	Los Angeles	1	Los Feliz	0	0	0	0
+189201a	2022	Los Angeles	1	Los Feliz	1	0	0	1
+189201b	2022	Los Angeles	1	Los Feliz	3.86	0	0	3.86
+189202	2022	Los Angeles	1	Los Feliz	8.93	0	0	8.93
+189300a	2022	Los Angeles	1	Hollywood Hills	8.847	0	0	8.847
+189300b	2022	Los Angeles	1	Hollywood Hills	3.185	0	0	3.185
+189300c	2022	Los Angeles	1	Los Feliz	0	0	0	0
+189400a	2022	Los Angeles	1	Hollywood Hills	0	0	0	0
+189400b	2022	Los Angeles	1	Hollywood Hills	1.86	0	0	1.86
+189500a	2022	Los Angeles	1	Hollywood Hills	0	0	0	0
+189500b	2022	Los Angeles	1	Hollywood Hills	11.638	0	0	11.638
+189600a	2022	Los Angeles	1	Hollywood Hills	45.815	0	0	45.815
+189600b	2022	Los Angeles	1	Hollywood Hills	31.938	0	0	31.938
+189600c	2022	Los Angeles	1	Hollywood Hills	0	0	0	0
+189701a	2022	Los Angeles	1	Hollywood Hills	17.073	0	0	17.073
+189701b	2022	Los Angeles	1	Hollywood Hills	6.536	0	0	6.536
+189701c	2022	Los Angeles	1	Hollywood Hills	2.592	0	0	2.592
+189701d	2022	Los Angeles	1	Hollywood Hills	1	0	0	1
+189702	2022	Los Angeles	1	Hollywood Hills	28.457	0	0	28.457
+189800	2022	Los Angeles	1	Hollywood	10.381	0	0	10.381
+189902a	2022	Los Angeles	1	Hollywood	15.592	0	0	15.592
+189902b	2022	Los Angeles	1	Hollywood	6.761	16	0	22.761
+189903	2022	Los Angeles	1	Hollywood	1.86	0	0	1.86
+189904	2022	Los Angeles	1	Hollywood	5	0	0	5
+189905a	2022	Los Angeles	1	Hollywood	15.735	0	0	15.735
+189905b	2022	Los Angeles	1	Hollywood	0	67	0	67
+190100a	2022	Los Angeles	1	Hollywood	26.792	0	0	26.792
+190100b	2022	Los Angeles	1	Hollywood	14.142	0	0	14.142
+190201a	2022	Los Angeles	1	Hollywood	35.755	0	0	35.755
+190201b	2022	Los Angeles	1	Hollywood	16.032	0	0	16.032
+190202	2022	Los Angeles	1	Hollywood	36.36	0	0	36.36
+190301a	2022	Los Angeles	1	Hollywood	41.972	0	0	41.972
+190301b	2022	Los Angeles	1	Hollywood	89.47	8	4	101.47
+190401	2022	Los Angeles	1	Los Feliz	3.86	0	0	3.86
+190402	2022	Los Angeles	1	Los Feliz	2.606	0	0	2.606
+190510a	2022	Los Angeles	1	Hollywood	38.517	0	0	38.517
+190510b	2022	Los Angeles	1	East Hollywood	6.142	0	0	6.142
+190520	2022	Los Angeles	1	East Hollywood	8.634	0	0	8.634
+190700	2022	Los Angeles	1	Hollywood	112.01	14	14	140.01
+190801a	2022	Los Angeles	1	Hollywood	13.342	0	0	13.342
+190801b	2022	Los Angeles	1	Hollywood	31.36	12	0	43.36
+190802	2022	Los Angeles	1	Hollywood	42.998	0	0	42.998
+190901	2022	Los Angeles	1	Hollywood	20.553	45	28	93.553
+190902a	2022	Los Angeles	1	Hollywood	9.412	0	0	9.412
+190902b	2022	Los Angeles	1	Hollywood	2.381	0	0	2.381
+191000a	2022	Los Angeles	1	Hollywood	84.439	0	0	84.439
+191000b	2022	Los Angeles	1	Hollywood	166.2	36	22	224.2
+191000c	2022	Los Angeles	1	Hollywood	4.606	0	0	4.606
+191110a	2022	Los Angeles	1	East Hollywood	3	0	0	3
+191110b	2022	Los Angeles	1	East Hollywood	7.777	0	0	7.777
+191120a	2022	Los Angeles	1	East Hollywood	2.606	0	0	2.606
+191120b	2022	Los Angeles	1	East Hollywood	1	0	0	1
+191120c	2022	Los Angeles	1	East Hollywood	8.819	0	0	8.819
+191201	2022	Los Angeles	1	East Hollywood	50.414	0	0	50.414
+191203a	2022	Los Angeles	1	East Hollywood	2	0	0	2
+191203b	2022	Los Angeles	1	East Hollywood	5.072	0	0	5.072
+191204	2022	Los Angeles	1	East Hollywood	4	0	0	4
+191301a	2022	Los Angeles	1	Silver Lake	5.847	0	0	5.847
+191301b	2022	Los Angeles	1	East Hollywood	19.116	0	0	19.116
+191302a	2022	Los Angeles	1	East Hollywood	10.693	0	0	10.693
+191302b	2022	Los Angeles	1	East Hollywood	8.761	0	0	8.761
+191302c	2022	Los Angeles	1	Silver Lake	5.142	0	0	5.142
+191410a	2022	Los Angeles	1	East Hollywood	4	0	0	4
+191410b	2022	Los Angeles	1	East Hollywood	54.514	0	0	54.514
+191420a	2022	Los Angeles	1	East Hollywood	0	0	0	0
+191420b	2022	Los Angeles	1	East Hollywood	51.788	0	0	51.788
+191500	2022	Los Angeles	1	East Hollywood	29.062	0	0	29.062
+191610a	2022	Los Angeles	1	East Hollywood	22.628	0	0	22.628
+191610b	2022	Los Angeles	1	East Hollywood	3.213	0	0	3.213
+191620	2022	Los Angeles	1	East Hollywood	6.818	0	0	6.818
+191710	2022	Los Angeles	1	Hollywood	11.043	0	0	11.043
+191720	2022	Los Angeles	1	Hollywood	28.325	0	0	28.325
+191810a	2022	Los Angeles	1	Hollywood	47.945	0	0	47.945
+191810b	2022	Los Angeles	1	Hollywood	46.279	0	0	46.279
+191820a	2022	Los Angeles	1	Hollywood	0	0	0	0
+191820b	2022	Los Angeles	1	Hollywood	5.325	0	0	5.325
+191820c	2022	Los Angeles	1	Hollywood	1	0	0	1
+191901	2022	Los Angeles	1	Hollywood	48.746	31	34	113.75
+191902	2022	Los Angeles	1	Hollywood	13.058	0	0	13.058
+192001	2022	Los Angeles	1	Fairfax	19.723	0	0	19.723
+192002	2022	Los Angeles	1	Fairfax	8.592	0	0	8.592
+192300	2022	Los Angeles	1	Hancock Park	14.496	0	0	14.496
+192410	2022	Los Angeles	1	Larchmont	1.492	0	0	1.492
+192420a	2022	Los Angeles	1	Larchmont	0	0	0	0
+192420b	2022	Los Angeles	1	Larchmont	11.961	0	0	11.961
+192510a	2022	Los Angeles	1	East Hollywood	3.86	0	0	3.86
+192510b	2022	Los Angeles	1	East Hollywood	12.115	0	0	12.115
+192520a	2022	Los Angeles	1	East Hollywood	1.492	0	0	1.492
+192520b	2022	Los Angeles	1	East Hollywood	0	0	0	0
+192610a	2022	Los Angeles	1	East Hollywood	20.748	0	0	20.748
+192610b	2022	Los Angeles	1	East Hollywood	6.439	0	0	6.439
+192620a	2022	Los Angeles	1	East Hollywood	8.961	0	0	8.961
+192620b	2022	Los Angeles	1	East Hollywood	2.873	0	0	2.873
+192700a	2022	Los Angeles	1	East Hollywood	16.245	0	0	16.245
+192700b	2022	Los Angeles	1	East Hollywood	51.913	40	53	144.91
+194101	2022	Los Angeles	1	Hollywood Hills West	0	0	0	0
+194102a	2022	Los Angeles	1	Hollywood Hills West	0	0	0	0
+194102b	2022	Los Angeles	1	Hollywood Hills West	0	0	0	0
+194102c	2022	Los Angeles	1	Hollywood Hills West	0	0	0	0
+194200a	2022	Los Angeles	1	Hollywood Hills West	0	0	0	0
+194200b	2022	Los Angeles	1	Hollywood Hills West	0	0	0	0
+194300	2022	Los Angeles	1	Hollywood Hills West	0	0	0	0
+194401a	2022	Los Angeles	1	Beverly Grove	21.117	0	0	21.117
+194401b	2022	Los Angeles	1	Beverly Grove	0	0	0	0
+194402a	2022	Los Angeles	1	Beverly Grove	1	0	0	1
+194402b	2022	Los Angeles	1	Beverly Grove	5.466	0	0	5.466
+194500	2022	Los Angeles	1	Beverly Grove	25.922	0	0	25.922
+195100a	2022	Los Angeles	1	Silver Lake	0	0	0	0
+195100b	2022	Los Angeles	1	Silver Lake	1	0	0	1
+195201	2022	Los Angeles	1	Los Feliz	0	0	0	0
+195202	2022	Los Angeles	1	Los Feliz	14.509	0	0	14.509
+195300	2022	Los Angeles	1	Los Feliz	14.594	0	0	14.594
+195400	2022	Los Angeles	1	Silver Lake	57.07	0	0	57.07
+195500a	2022	Los Angeles	1	Silver Lake	0	0	0	0
+195500b	2022	Los Angeles	1	Echo Park	6.142	44	0	50.142
+195500c	2022	Los Angeles	1	Silver Lake	6.903	0	0	6.903
+195600a	2022	Los Angeles	1	Echo Park	38.543	0	0	38.543
+195600b	2022	Los Angeles	1	Echo Park	18.735	0	0	18.735
+195710a	2022	Los Angeles	1	Westlake	46.31	0	0	46.31
+195710b	2022	Los Angeles	1	Echo Park	0	0	0	0
+195710c	2022	Los Angeles	1	Echo Park	13.353	0	0	13.353
+195720a	2022	Los Angeles	1	Echo Park	16.017	0	0	16.017
+195720b	2022	Los Angeles	1	Echo Park	15.481	0	0	15.481
+195802a	2022	Los Angeles	1	Westlake	13.424	0	0	13.424
+195802b	2022	Los Angeles	1	Silver Lake	8.032	0	0	8.032
+195802c	2022	Los Angeles	1	Westlake	0	0	0	0
+195802d	2022	Los Angeles	1	Westlake	21.809	0	0	21.809
+195803a	2022	Los Angeles	1	Silver Lake	3.24	0	0	3.24
+195803b	2022	Los Angeles	1	Silver Lake	10.593	0	0	10.593
+195804a	2022	Los Angeles	1	Silver Lake	2.606	0	0	2.606
+195804b	2022	Los Angeles	1	Echo Park	2.873	0	0	2.873
+195901	2022	Los Angeles	1	Silver Lake	1	0	0	1
+195902a	2022	Los Angeles	1	Silver Lake	1	0	0	1
+195902b	2022	Los Angeles	1	Silver Lake	0	0	0	0
+195903a	2022	Los Angeles	1	Silver Lake	0	0	0	0
+195903b	2022	Los Angeles	1	Silver Lake	0	0	0	0
+197200a	2022	Los Angeles	1	Elysian Valley	0	0	0	0
+197200b	2022	Los Angeles	1	Elysian Valley	7.932	0	0	7.932
+197200c	2022	Los Angeles	1	Elysian Valley	0	0	0	0
+197300	2022	Los Angeles	1	Echo Park	2	0	0	2
+197410a	2022	Los Angeles	1	Echo Park	32.966	0	0	32.966
+197410b	2022	Los Angeles	1	Echo Park	9.31	0	0	9.31
+197410c	2022	Los Angeles	1	Echo Park	0	0	0	0
+197420	2022	Los Angeles	1	Echo Park	27.355	56	0	83.355
+197500	2022	Los Angeles	1	Echo Park	63.891	0	0	63.891
+197600a	2022	Los Angeles	1	Echo Park	27.059	0	0	27.059
+197600b	2022	Los Angeles	1	Echo Park	6.211	0	0	6.211
+197600c	2022	Los Angeles	1	Downtown	8.819	0	0	8.819
+197700a	2022	Los Angeles	1	Chinatown	4.987	0	0	4.987
+197700b	2022	Los Angeles	1	Elysian Park	0	0	0	0
+197700p	2022	Los Angeles	1	Echo Park	0	0	0	0
+199000a	2022	Los Angeles	1	Lincoln Heights	145.74	0	0	145.74
+199000b	2022	Los Angeles	1	Cypress Park	0	0	0	0
+199000c	2022	Los Angeles	1	Lincoln Heights	68.146	0	0	68.146
+199000d	2022	Los Angeles	1	Lincoln Heights	14.413	0	0	14.413
+199110a	2022	Los Angeles	1	Montecito Heights	10.426	0	0	10.426
+199110b	2022	Los Angeles	1	Lincoln Heights	5.719	0	0	5.719
+199120	2022	Los Angeles	1	Lincoln Heights	89.268	0	0	89.268
+199201a	2022	Los Angeles	1	Lincoln Heights	0	0	0	0
+199201b	2022	Los Angeles	1	Lincoln Heights	5.969	22	0	27.969
+199202a	2022	Los Angeles	1	Montecito Heights	1.86	0	0	1.86
+199202b	2022	Los Angeles	1	Montecito Heights	3.719	0	0	3.719
+199202c	2022	Los Angeles	1	Montecito Heights	10.411	0	0	10.411
+199300a	2022	Los Angeles	1	Montecito Heights	34.845	0	0	34.845
+199300b	2022	Los Angeles	1	Montecito Heights	3.719	0	0	3.719
+199300c	2022	Los Angeles	1	Montecito Heights	3.352	0	0	3.352
+199400a	2022	Los Angeles	1	Highland Park	21.352	0	0	21.352
+199400b	2022	Los Angeles	1	Montecito Heights	6.621	0	0	6.621
+199400c	2022	Los Angeles	1	Montecito Heights	0	0	0	0
+199700	2022	Los Angeles	1	Lincoln Heights	91.889	0	0	91.889
+199800	2022	Los Angeles	1	Lincoln Heights	3	0	0	3
+199900	2022	Los Angeles	1	Lincoln Heights	83.137	0	0	83.137
+201110	2022	Los Angeles	1	El Sereno	7.071	0	0	7.071
+201120	2022	Los Angeles	1	El Sereno	31.075	32	0	63.075
+201200	2022	Los Angeles	1	El Sereno	4.466	0	0	4.466
+201301	2022	Los Angeles	1	Montecito Heights	17.808	0	0	17.808
+201302a	2022	Los Angeles	1	Montecito Heights	0	0	0	0
+201302b	2022	Los Angeles	1	Montecito Heights	0	0	0	0
+201401	2022	Los Angeles	1	El Sereno	21.947	0	0	21.947
+201402	2022	Los Angeles	1	El Sereno	1.86	0	0	1.86
+201501	2022	Los Angeles	1	El Sereno	7.071	38	0	45.071
+201503a	2022	Los Angeles	1	El Sereno	2.592	0	0	2.592
+201503b	2022	Los Angeles	1	El Sereno	0	0	0	0
+201504	2022	Los Angeles	1	El Sereno	12.355	0	0	12.355
+201601	2022	Los Angeles	1	El Sereno	4.719	0	0	4.719
+201602	2022	Los Angeles	1	El Sereno	1.86	0	0	1.86
+201700a	2022	Los Angeles	1	El Sereno	15.269	0	0	15.269
+201700b	2022	Los Angeles	1	El Sereno	14.607	0	0	14.607
+203100	2022	Los Angeles	1	Boyle Heights	15.467	0	0	15.467
+203200a	2022	Los Angeles	1	Boyle Heights	5.085	0	0	5.085
+203200b	2022	Los Angeles	1	Boyle Heights	13.258	0	0	13.258
+203300a	2022	Los Angeles	1	Boyle Heights	88.996	18	0	107
+203300b	2022	Los Angeles	1	Boyle Heights	16.577	0	0	16.577
+203500a	2022	Los Angeles	1	Boyle Heights	14.835	0	0	14.835
+203500b	2022	Los Angeles	1	Lincoln Heights	1.606	0	0	1.606
+203500c	2022	Los Angeles	1	Boyle Heights	2.987	0	0	2.987
+203600	2022	Los Angeles	1	Boyle Heights	1.606	7	0	8.606
+203710a	2022	Los Angeles	1	Boyle Heights	1.492	0	0	1.492
+203710b	2022	Los Angeles	1	Boyle Heights	0	0	0	0
+203720a	2022	Los Angeles	1	Boyle Heights	1.86	0	0	1.86
+203720b	2022	Los Angeles	1	Boyle Heights	4.099	0	0	4.099
+203800a	2022	Los Angeles	1	Boyle Heights	13.407	0	0	13.407
+203800b	2022	Los Angeles	1	Boyle Heights	8.196	0	0	8.196
+203900	2022	Los Angeles	1	Boyle Heights	65.436	0	0	65.436
+204110a	2022	Los Angeles	1	Boyle Heights	0	0	0	0
+204110b	2022	Los Angeles	1	Boyle Heights	44.005	0	0	44.005
+204120a	2022	Los Angeles	1	Boyle Heights	0	0	0	0
+204120b	2022	Los Angeles	1	Boyle Heights	0	0	0	0
+204200a	2022	Los Angeles	1	Boyle Heights	2.985	0	0	2.985
+204200b	2022	Los Angeles	1	Boyle Heights	3.719	0	0	3.719
+204300	2022	Los Angeles	1	Boyle Heights	20.677	0	0	20.677
+204410a	2022	Los Angeles	1	Boyle Heights	35.889	0	0	35.889
+204410b	2022	Los Angeles	1	Boyle Heights	215.63	0	0	215.63
+204420a	2022	Los Angeles	1	Boyle Heights	0	0	0	0
+204420b	2022	Los Angeles	1	Boyle Heights	0	71	0	71
+204600	2022	Los Angeles	1	Boyle Heights	28.048	0	0	28.048
+204700a	2022	Los Angeles	1	Boyle Heights	34.486	0	0	34.486
+204700b	2022	Los Angeles	1	Boyle Heights	11.536	0	0	11.536
+204810	2022	Los Angeles	1	Boyle Heights	35.246	0	0	35.246
+204820a	2022	Los Angeles	1	Boyle Heights	0	0	0	0
+204820b	2022	Los Angeles	1	Boyle Heights	0	0	0	0
+204910	2022	Los Angeles	1	Boyle Heights	6.844	0	0	6.844
+204920	2022	Los Angeles	1	Boyle Heights	231.7	0	0	231.7
+205110	2022	Los Angeles	1	Boyle Heights	4.987	0	0	4.987
+205120a	2022	Los Angeles	1	Boyle Heights	71.172	0	0	71.172
+205120b	2022	Los Angeles	1	Boyle Heights	161.76	0	0	161.76
+206010a	2022	Los Angeles	1	Chinatown	21.723	0	0	21.723
+206010b	2022	Los Angeles	1	Chinatown	21.905	0	0	21.905
+206010c	2022	Los Angeles	1	Elysian Park	1	0	0	1
+206020a	2022	Los Angeles	1	Chinatown	9.748	158	0	167.75
+206020b	2022	Los Angeles	1	Downtown	124.02	0	0	124.02
+206031a	2022	Los Angeles	1	Downtown	3	0	0	3
+206031b	2022	Los Angeles	1	Downtown	258.36	0	0	258.36
+206032	2022	Los Angeles	1	Boyle Heights	5	39	20	64
+206050	2022	Los Angeles	1	Boyle Heights	135.79	0	0	135.79
+206200a	2022	Los Angeles	1	Downtown	229.35	203	134	566.35
+206200b	2022	Los Angeles	1	Downtown	71.026	0	0	71.026
+206200c	2022	Los Angeles	1	Downtown	213.95	0	0	213.95
+206200d	2022	Los Angeles	1	Downtown	3	0	0	3
+206300a	2022	Los Angeles	1	Downtown	200.1	477	480	1217.1
+206300b	2022	Los Angeles	1	Downtown	1049.8	277	41	1383.8
+206300c	2022	Los Angeles	1	Downtown	204.37	0	0	204.37
+207101	2022	Los Angeles	1	Downtown	42.922	0	0	42.922
+207102a	2022	Los Angeles	1	Chinatown	19.213	25	0	44.213
+207102b	2022	Los Angeles	1	Downtown	37.994	0	0	37.994
+207103a	2022	Los Angeles	1	Chinatown	12.918	0	0	12.918
+207103b	2022	Los Angeles	1	Chinatown	0	0	0	0
+207301a	2022	Los Angeles	1	Downtown	20	0	0	20
+207301b	2022	Los Angeles	1	Downtown	45.825	0	0	45.825
+207301c	2022	Los Angeles	1	Downtown	14.973	0	0	14.973
+207301d	2022	Los Angeles	1	Downtown	496.09	0	0	496.09
+207302a	2022	Los Angeles	1	Downtown	76.032	0	0	76.032
+207302b	2022	Los Angeles	1	Downtown	68.568	0	0	68.568
+207400a	2022	Los Angeles	1	Downtown	82.852	25	0	107.85
+207400b	2022	Los Angeles	1	Downtown	53.787	0	0	53.787
+207501	2022	Los Angeles	1	Downtown	16.78	0	0	16.78
+207502a	2022	Los Angeles	1	Downtown	35.684	0	0	35.684
+207502b	2022	Los Angeles	1	Downtown	1	0	0	1
+207710a	2022	Los Angeles	1	Downtown	111.73	37	0	148.73
+207710b	2022	Los Angeles	1	Downtown	24	0	0	24
+207710c	2022	Los Angeles	1	Downtown	41.987	0	0	41.987
+207900a	2022	Los Angeles	1	Downtown	29.381	0	0	29.381
+207900b	2022	Los Angeles	1	Downtown	11.466	0	0	11.466
+207900c	2022	Los Angeles	1	Downtown	55.855	0	0	55.855
+208000a	2022	Los Angeles	1	Westlake	8.538	0	0	8.538
+208000b	2022	Los Angeles	1	Westlake	29.387	0	0	29.387
+208000c	2022	Los Angeles	1	Echo Park	30.414	13	0	43.414
+208301	2022	Los Angeles	1	Westlake	8.018	0	0	8.018
+208302a	2022	Los Angeles	1	Westlake	16.975	0	0	16.975
+208302b	2022	Los Angeles	1	Westlake	9.438	46	49	104.44
+208401a	2022	Los Angeles	1	Westlake	13.976	0	0	13.976
+208401b	2022	Los Angeles	1	Westlake	13.423	0	0	13.423
+208402a	2022	Los Angeles	1	Westlake	0	0	0	0
+208402b	2022	Los Angeles	1	Westlake	26.763	0	0	26.763
+208501a	2022	Los Angeles	1	Westlake	13.412	0	0	13.412
+208501b	2022	Los Angeles	1	Westlake	4.873	0	0	4.873
+208502a	2022	Los Angeles	1	Westlake	7.213	41	0	48.213
+208502b	2022	Los Angeles	1	Westlake	3.492	0	0	3.492
+208610a	2022	Los Angeles	1	Westlake	1	0	0	1
+208610b	2022	Los Angeles	1	Westlake	10.523	0	102	112.52
+208620a	2022	Los Angeles	1	Westlake	4.86	0	0	4.86
+208620b	2022	Los Angeles	1	Westlake	2.86	0	0	2.86
+208620c	2022	Los Angeles	1	Westlake	1	0	0	1
+208620d	2022	Los Angeles	1	Westlake	0	0	0	0
+208710	2022	Los Angeles	1	Westlake	5.466	0	0	5.466
+208720a	2022	Los Angeles	1	Westlake	20.342	0	0	20.342
+208720b	2022	Los Angeles	1	Westlake	4.142	0	0	4.142
+208801a	2022	Los Angeles	1	Westlake	86.912	0	0	86.912
+208801b	2022	Los Angeles	1	Westlake	0	0	0	0
+208802a	2022	Los Angeles	1	Westlake	16.992	83	0	99.992
+208802b	2022	Los Angeles	1	Westlake	11.507	0	0	11.507
+208902a	2022	Los Angeles	1	Westlake	56.987	0	0	56.987
+208902b	2022	Los Angeles	1	Westlake	49.013	0	0	49.013
+208903a	2022	Los Angeles	1	Westlake	0	0	0	0
+208903b	2022	Los Angeles	1	Westlake	71.439	25	0	96.439
+208904a	2022	Los Angeles	1	Westlake	93.597	0	0	93.597
+208904b	2022	Los Angeles	1	Westlake	10.676	0	0	10.676
+209102a	2022	Los Angeles	1	Westlake	7.987	0	0	7.987
+209102b	2022	Los Angeles	1	Westlake	4.381	0	0	4.381
+209102c	2022	Los Angeles	1	Westlake	7.213	0	0	7.213
+209103	2022	Los Angeles	1	Westlake	2.86	0	0	2.86
+209104	2022	Los Angeles	1	Westlake	11.426	0	100	111.43
+209200a	2022	Los Angeles	1	Westlake	32.531	0	0	32.531
+209200b	2022	Los Angeles	1	Westlake	9	0	0	9
+209300a	2022	Los Angeles	1	Westlake	40.387	0	0	40.387
+209300b	2022	Los Angeles	1	Westlake	20.242	0	0	20.242
+209300c	2022	Los Angeles	1	Westlake	14.426	0	0	14.426
+209401a	2022	Los Angeles	1	Westlake	44.546	0	0	44.546
+209401b	2022	Los Angeles	1	Westlake	32.543	0	0	32.543
+209402a	2022	Los Angeles	1	Westlake	48.811	0	0	48.811
+209402b	2022	Los Angeles	1	Westlake	19.185	0	0	19.185
+209403	2022	Los Angeles	1	Westlake	23.017	42	0	65.017
+209510a	2022	Los Angeles	1	Pico-Union	6.086	0	0	6.086
+209510b	2022	Los Angeles	1	Westlake	49.309	0	0	49.309
+209520a	2022	Los Angeles	1	Pico-Union	68.552	0	0	68.552
+209520b	2022	Los Angeles	1	Westlake	49.887	0	0	49.887
+209810	2022	Los Angeles	1	Pico-Union	5.1	0	0	5.1
+209820a	2022	Los Angeles	1	Pico-Union	3.86	14	0	17.86
+209820b	2022	Los Angeles	1	Pico-Union	0	0	0	0
+210010a	2022	Los Angeles	1	Pico-Union	10.679	0	24	34.679
+210010b	2022	Los Angeles	1	Westlake	77.636	0	0	77.636
+211000a	2022	Los Angeles	1	Hancock Park	10.761	0	0	10.761
+211000b	2022	Los Angeles	1	Hancock Park	3	2	0	5
+211120a	2022	Los Angeles	1	Koreatown	30.967	0	0	30.967
+211120b	2022	Los Angeles	1	Koreatown	1.86	0	0	1.86
+211120c	2022	Los Angeles	1	Westlake	20.852	36	0	56.852
+211121a	2022	Los Angeles	1	Westlake	10.579	0	0	10.579
+211121b	2022	Los Angeles	1	Westlake	8.761	22	0	30.761
+211122a	2022	Los Angeles	1	Koreatown	42.481	0	0	42.481
+211122b	2022	Los Angeles	1	Koreatown	20.192	0	0	20.192
+211201	2022	Los Angeles	1	Koreatown	2.761	0	0	2.761
+211202	2022	Los Angeles	1	Koreatown	0	0	0	0
+211310a	2022	Los Angeles	1	Koreatown	4.777	0	0	4.777
+211310b	2022	Los Angeles	1	Koreatown	9.438	0	0	9.438
+211320	2022	Los Angeles	1	Koreatown	1.592	0	0	1.592
+211320b	2022	Los Angeles	1	Koreatown	1	0	0	1
+211410a	2022	Los Angeles	1	Koreatown	0	0	0	0
+211410b	2022	Los Angeles	1	Koreatown	4.606	0	0	4.606
+211420a	2022	Los Angeles	1	Koreatown	10.913	0	0	10.913
+211420b	2022	Los Angeles	1	Koreatown	2	0	0	2
+211500	2022	Los Angeles	1	Windsor Square	0	0	0	0
+211701	2022	Los Angeles	1	Windsor Square	6.24	0	0	6.24
+211703a	2022	Los Angeles	1	Koreatown	2.606	0	0	2.606
+211703b	2022	Los Angeles	1	Koreatown	5.847	0	0	5.847
+211704a	2022	Los Angeles	1	Koreatown	1	0	0	1
+211704b	2022	Los Angeles	1	Koreatown	2.987	0	0	2.987
+211802a	2022	Los Angeles	1	Koreatown	1.381	0	0	1.381
+211802b	2022	Los Angeles	1	Koreatown	15.652	0	0	15.652
+211803	2022	Los Angeles	1	Koreatown	0	0	0	0
+211804a	2022	Los Angeles	1	Koreatown	11.692	0	0	11.692
+211804b	2022	Los Angeles	1	Koreatown	1.86	0	0	1.86
+211910	2022	Los Angeles	1	Koreatown	7.368	0	0	7.368
+211921	2022	Los Angeles	1	Koreatown	1	0	0	1
+211922	2022	Los Angeles	1	Koreatown	4.099	0	0	4.099
+212101a	2022	Los Angeles	1	Koreatown	1	0	0	1
+212101b	2022	Los Angeles	1	Koreatown	31.344	0	0	31.344
+212102	2022	Los Angeles	1	Koreatown	19.723	0	0	19.723
+212202	2022	Los Angeles	1	Westlake	10.071	0	0	10.071
+212203a	2022	Los Angeles	1	Koreatown	12.837	0	0	12.837
+212203b	2022	Los Angeles	1	Koreatown	0	0	0	0
+212204a	2022	Los Angeles	1	Westlake	31.265	0	0	31.265
+212204b	2022	Los Angeles	1	Westlake	7.072	0	0	7.072
+212303	2022	Los Angeles	1	Koreatown	1	0	0	1
+212304	2022	Los Angeles	1	Koreatown	25.991	0	0	25.991
+212305	2022	Los Angeles	1	Koreatown	9.242	0	0	9.242
+212306a	2022	Los Angeles	1	Koreatown	15.677	0	0	15.677
+212306b	2022	Los Angeles	1	Koreatown	0	0	0	0
+212410	2022	Los Angeles	1	Koreatown	0	0	0	17
+212420	2022	Los Angeles	1	Koreatown	1.492	0	0	1.492
+212501	2022	Los Angeles	1	Koreatown	0	0	0	0
+212502a	2022	Los Angeles	1	Koreatown	6.213	0	0	6.213
+212502b	2022	Los Angeles	1	Koreatown	29.177	0	0	29.177
+212610a	2022	Los Angeles	1	Koreatown	0	0	0	0
+212610b	2022	Los Angeles	1	Koreatown	1.86	0	0	1.86
+212620a	2022	Los Angeles	1	Koreatown	0	0	0	0
+212620b	2022	Los Angeles	1	Koreatown	5.944	0	0	5.944
+212701a	2022	Los Angeles	1	Koreatown	1.86	0	0	1.86
+212701b	2022	Los Angeles	1	Arlington Heights	1.86	0	0	1.86
+212702a	2022	Los Angeles	1	Mid-Wilshire	4.24	0	0	4.24
+212702b	2022	Los Angeles	1	Mid-Wilshire	0	0	0	0
+212800	2022	Los Angeles	1	Mid-Wilshire	1.606	0	0	1.606
+212900a	2022	Los Angeles	1	Arlington Heights	1.86	0	0	1.86
+212900b	2022	Los Angeles	1	Arlington Heights	0	0	0	0
+213100a	2022	Los Angeles	1	Harvard Heights	0	0	0	0
+213100b	2022	Los Angeles	1	Koreatown	25.532	0	0	25.532
+213201a	2022	Los Angeles	1	Harvard Heights	11.819	0	0	11.819
+213201b	2022	Los Angeles	1	Harvard Heights	13.792	0	0	13.792
+213202a	2022	Los Angeles	1	Harvard Heights	2	0	0	2
+213202b	2022	Los Angeles	1	Harvard Heights	0	0	0	0
+213310a	2022	Los Angeles	1	Koreatown	15.369	0	0	15.369
+213310b	2022	Los Angeles	1	Pico-Union	4	0	0	4
+213320a	2022	Los Angeles	1	Koreatown	26.092	0	0	26.092
+213320b	2022	Los Angeles	1	Pico-Union	18.737	0	0	18.737
+213401	2022	Los Angeles	1	Westlake	12.887	0	0	12.887
+213402a	2022	Los Angeles	1	Pico-Union	39.105	0	0	39.105
+213402b	2022	Los Angeles	1	Pico-Union	14.946	0	0	14.946
+214000	2022	Los Angeles	1	Fairfax	21.018	0	0	21.018
+214100	2022	Los Angeles	1	Hancock Park	7.213	0	0	7.213
+214400a	2022	Los Angeles	1	Fairfax	3	0	0	3
+214400b	2022	Los Angeles	1	Fairfax	0	0	0	0
+214501a	2022	Los Angeles	1	Fairfax	4	0	0	4
+214501b	2022	Unincorporated	1	Miracle Mile	5	0	0	5
+214502a	2022	Los Angeles	1	Mid-Wilshire	1.592	0	0	1.592
+214502b	2022	Los Angeles	1	Mid-Wilshire	0	0	0	0
+214503a	2022	Los Angeles	1	Mid-Wilshire	0	0	0	0
+214503b	2022	Los Angeles	1	Mid-Wilshire	0	0	0	0
+214600	2022	Los Angeles	1	Beverly Grove	25.623	0	0	25.623
+214700	2022	Los Angeles	1	Beverly Grove	2.381	0	0	2.381
+214800	2022	Los Angeles	1	Beverly Grove	44.965	0	0	44.965
+214901a	2022	Los Angeles	1	Beverly Grove	0	0	0	0
+214901b	2022	Los Angeles	1	Beverly Grove	2.987	0	0	2.987
+214902a	2022	Los Angeles	1	Beverly Grove	0	0	0	0
+214902b	2022	Los Angeles	1	Beverly Grove	14.284	0	0	14.284
+215101a	2022	Los Angeles	1	Mid-Wilshire	2.606	0	0	2.606
+215101b	2022	Los Angeles	1	Mid-Wilshire	13.368	0	0	13.368
+215102a	2022	Los Angeles	1	Mid-Wilshire	17.032	0	0	17.032
+215102b	2022	Los Angeles	1	Mid-Wilshire	6.213	0	0	6.213
+216100a	2022	Los Angeles	1	Mid-Wilshire	0	0	0	0
+216100b	2022	Los Angeles	1	Mid-Wilshire	0	0	0	0
+216100c	2022	Los Angeles	1	Mid-Wilshire	0	0	0	0
+216200a	2022	Los Angeles	1	Mid-Wilshire	4.86	17	0	21.86
+216200b	2022	Los Angeles	1	Mid-Wilshire	2	0	0	2
+216200c	2022	Los Angeles	1	Mid-Wilshire	0	0	0	0
+216200d	2022	Los Angeles	1	Mid-Wilshire	2.86	0	0	2.86
+216300	2022	Los Angeles	1	Mid-Wilshire	7.606	0	0	7.606
+216401a	2022	Los Angeles	1	South Robertson	0	0	0	0
+216401b	2022	Los Angeles	1	South Robertson	0	0	0	0
+216402a	2022	Los Angeles	1	South Robertson	2.459	0	0	2.459
+216402b	2022	Los Angeles	1	South Robertson	0	0	0	0
+216700	2022	Los Angeles	1	Mid-City	15.948	0	0	15.948
+216800	2022	Los Angeles	1	Carthay	3.381	0	0	3.381
+216900	2022	Los Angeles	1	Mid-City	1.86	0	0	1.86
+217001a	2022	Los Angeles	1	South Robertson	1.571	0	0	1.571
+217001b	2022	Los Angeles	1	South Robertson	0	0	0	0
+217002	2022	Los Angeles	1	South Robertson	13.88	39	7	73.88
+217100a	2022	Los Angeles	1	Mid-Wilshire	13.242	0	0	13.242
+217100b	2022	Los Angeles	1	Mid-Wilshire	0	0	0	0
+217200a	2022	Los Angeles	1	Mid-Wilshire	4.944	0	0	4.944
+217200b	2022	Los Angeles	1	Mid-City	49.117	0	0	49.117
+217200c	2022	Los Angeles	1	Mid-Wilshire	1.592	0	0	1.592
+218110a	2022	Los Angeles	1	Arlington Heights	14.185	0	0	14.185
+218110b	2022	Los Angeles	1	Mid-City	1.606	0	0	1.606
+218120a	2022	Los Angeles	1	Arlington Heights	12.773	0	0	12.773
+218120b	2022	Los Angeles	1	Arlington Heights	18.302	0	0	18.302
+218210a	2022	Los Angeles	1	Mid-City	0	5	0	5
+218210b	2022	Los Angeles	1	Mid-City	1.86	0	0	1.86
+218220	2022	Los Angeles	1	Mid-City	1.381	0	0	1.381
+218300	2022	Los Angeles	1	Mid-City	16.863	19	0	35.863
+218400	2022	Los Angeles	1	Mid-City	4.403	0	0	4.403
+218500	2022	Los Angeles	1	Mid-City	8.861	71	0	79.861
+218600a	2022	Los Angeles	1	Mid-City	3.205	0	0	3.205
+218600b	2022	Los Angeles	1	Mid-City	0	0	0	0
+218701a	2022	Los Angeles	1	Arlington Heights	1	0	0	1
+218701b	2022	Los Angeles	1	Mid-City	1.529	13	0	14.529
+218702a	2022	Los Angeles	1	West Adams	65.022	0	0	65.022
+218702b	2022	Los Angeles	1	Jefferson Park	0	6	10	16
+218800a	2022	Los Angeles	1	Arlington Heights	9.591	0	0	9.591
+218800b	2022	Los Angeles	1	Arlington Heights	1	0	0	1
+218900	2022	Los Angeles	1	Jefferson Park	7.161	0	0	7.161
+219010a	2022	Los Angeles	1	Jefferson Park	1	0	0	1
+219010b	2022	Los Angeles	1	Jefferson Park	6.607	0	0	6.607
+219020	2022	Los Angeles	1	Jefferson Park	16.023	0	13	29.023
+219300	2022	Los Angeles	1	Jefferson Park	4.807	0	0	4.807
+219500	2022	Los Angeles	1	Baldwin Hills/Crenshaw	4.406	0	0	4.406
+219700a	2022	Los Angeles	1	West Adams	20.556	17	0	37.556
+219700b	2022	Los Angeles	1	West Adams	30.127	0	0	30.127
+219800a	2022	Los Angeles	1	West Adams	0	0	0	0
+219800b	2022	Los Angeles	1	West Adams	10.211	0	0	10.211
+219901a	2022	Los Angeles	1	West Adams	8.336	0	0	8.336
+219901b	2022	Los Angeles	1	West Adams	40.865	0	0	40.865
+219902a	2022	Los Angeles	1	West Adams	0	0	0	0
+219902b	2022	Los Angeles	1	West Adams	27.889	0	0	27.889
+220000	2022	Los Angeles	1	West Adams	64.139	0	0	64.139
+220100	2022	Los Angeles	1	Baldwin Hills/Crenshaw	8.587	0	0	8.587
+221110a	2022	Los Angeles	1	Pico-Union	5.381	0	0	5.381
+221110b	2022	Los Angeles	1	Pico-Union	0	0	0	0
+221120a	2022	Los Angeles	1	Pico-Union	15.71	0	0	15.71
+221120b	2022	Los Angeles	1	Pico-Union	3	0	0	3
+221210a	2022	Los Angeles	1	Harvard Heights	20.269	0	0	20.269
+221210b	2022	Los Angeles	1	Harvard Heights	13.37	0	0	13.37
+221220	2022	Los Angeles	1	Pico-Union	51.563	0	0	51.563
+221302a	2022	Los Angeles	1	Arlington Heights	8.552	0	0	8.552
+221302b	2022	Los Angeles	1	Harvard Heights	8.858	5	0	13.858
+221303a	2022	Los Angeles	1	Harvard Heights	7.397	0	0	7.397
+221303b	2022	Los Angeles	1	Harvard Heights	3.185	0	0	3.185
+221304a	2022	Los Angeles	1	Harvard Heights	1.592	0	0	1.592
+221304b	2022	Los Angeles	1	Arlington Heights	0	0	0	0
+221401a	2022	Los Angeles	1	Jefferson Park	1.328	0	0	1.328
+221401b	2022	Los Angeles	1	Jefferson Park	13.589	0	0	13.589
+221402	2022	Los Angeles	1	Harvard Heights	51.676	0	0	51.676
+221500a	2022	Los Angeles	1	Adams-Normandie	20.531	0	0	20.531
+221500b	2022	Los Angeles	1	Adams-Normandie	7.109	0	0	7.109
+221601a	2022	Los Angeles	1	Adams-Normandie	40.76	0	0	40.76
+221601b	2022	Los Angeles	1	Adams-Normandie	63.85	0	0	63.85
+221602	2022	Los Angeles	1	Pico-Union	9.914	0	0	9.914
+221710a	2022	Los Angeles	1	University Park	14.832	0	0	14.832
+221710b	2022	Los Angeles	1	University Park	1.529	0	0	1.529
+221810a	2022	Los Angeles	1	Adams-Normandie	1	0	0	1
+221810b	2022	Los Angeles	1	University Park	7.005	0	0	7.005
+221820	2022	Los Angeles	1	University Park	2	0	0	2
+221900a	2022	Los Angeles	1	Adams-Normandie	0	0	0	0
+221900b	2022	Los Angeles	1	University Park	0	0	0	0
+222001a	2022	Los Angeles	1	Jefferson Park	0	0	0	0
+222001b	2022	Los Angeles	1	Jefferson Park	0	0	0	0
+222002	2022	Los Angeles	1	Exposition Park	7.807	24	0	31.807
+222100	2022	Los Angeles	1	Adams-Normandie	10.611	0	0	10.611
+222200	2022	Los Angeles	1	Adams-Normandie	13.872	0	0	13.872
+222500	2022	Los Angeles	1	Exposition Park	15.807	0	0	15.807
+222600	2022	Los Angeles	1	Exposition Park	3.205	0	0	3.205
+222700	2022	Los Angeles	1	University Park	4	0	0	4
+224010a	2022	Los Angeles	1	Downtown	47.16	0	0	47.16
+224010b	2022	Los Angeles	1	Downtown	38.683	0	0	38.683
+224010c	2022	Los Angeles	1	Downtown	30.787	0	0	30.787
+224020b	2022	Los Angeles	1	Historic South-Central	116.58	14	0	130.58
+224020c	2022	Los Angeles	1	Historic South-Central	57.649	68	0	125.65
+224020d	2022	Los Angeles	1	Historic South-Central	4	0	0	4
+224020e	2022	Los Angeles	1	Downtown	49.973	0	0	49.973
+224200a	2022	Los Angeles	1	Pico-Union	1.606	9	0	10.606
+224200b	2022	Los Angeles	1	Pico-Union	26.315	0	0	26.315
+224310a	2022	Los Angeles	1	Pico-Union	1	0	0	1
+224310b	2022	Los Angeles	1	Pico-Union	4	18	0	22
+224320a	2022	Los Angeles	1	Pico-Union	5.606	0	0	5.606
+224320b	2022	Los Angeles	1	Pico-Union	4.466	0	0	4.466
+224410	2022	Los Angeles	1	University Park	21.237	0	0	21.237
+224420a	2022	Los Angeles	1	University Park	0	0	0	0
+224600	2022	Los Angeles	1	Historic South-Central	148.66	49	11	208.66
+224700	2022	Los Angeles	1	University Park	37.376	24	0	61.376
+226001a	2022	Los Angeles	1	Downtown	173.84	0	0	173.84
+226001b	2022	Los Angeles	1	Historic South-Central	41.31	0	0	41.31
+226002a	2022	Los Angeles	1	Downtown	10.805	0	0	10.805
+226002b	2022	Los Angeles	1	Downtown	723.37	0	0	723.37
+226002c	2022	Los Angeles	1	Downtown	76.088	0	0	76.088
+226002d	2022	Los Angeles	1	Downtown	68.441	0	0	68.441
+226410a	2022	Los Angeles	1	Historic South-Central	6	0	0	6
+226410b	2022	Los Angeles	1	Historic South-Central	8	0	0	8
+226420a	2022	Los Angeles	1	Historic South-Central	3	0	0	3
+226420b	2022	Los Angeles	1	Historic South-Central	2	0	0	2
+226420c	2022	Los Angeles	1	Historic South-Central	2	0	0	2
+226700	2022	Los Angeles	1	Historic South-Central	43.654	0	0	43.654
+227010	2022	Los Angeles	1	Central-Alameda	88.238	0	0	88.238
+227020a	2022	Los Angeles	1	Central-Alameda	7.336	0	0	7.336
+227020b	2022	Los Angeles	1	Central-Alameda	3.131	0	0	3.131
+228100a	2022	Los Angeles	1	Central-Alameda	22.288	0	0	22.288
+228100b	2022	Los Angeles	1	Central-Alameda	9.308	0	0	9.308
+228210a	2022	Los Angeles	1	Central-Alameda	2.53	0	0	2.53
+228210b	2022	Los Angeles	1	Central-Alameda	19.927	0	0	19.927
+228210c	2022	Los Angeles	1	Central-Alameda	2.529	0	0	2.529
+228220a	2022	Los Angeles	1	Central-Alameda	16.696	0	0	16.696
+228220b	2022	Los Angeles	1	Central-Alameda	50.169	0	0	50.169
+228310a	2022	Los Angeles	1	Historic South-Central	39.436	0	0	39.436
+228310b	2022	Los Angeles	1	Historic South-Central	42.163	0	0	42.163
+228320a	2022	Los Angeles	1	Historic South-Central	1.529	0	0	1.529
+228320b	2022	Los Angeles	1	Historic South-Central	0	0	0	0
+228410a	2022	Los Angeles	1	Historic South-Central	6.733	0	0	6.733
+228410b	2022	Los Angeles	1	Historic South-Central	6.809	0	0	6.809
+228420a	2022	Los Angeles	1	Historic South-Central	15.53	0	0	15.53
+228420b	2022	Los Angeles	1	Historic South-Central	0	0	0	0
+228500	2022	Los Angeles	1	South Park	0	33	0	33
+228600	2022	Los Angeles	1	South Park	115.66	2	0	117.66
+228710a	2022	Los Angeles	1	Central-Alameda	2.403	0	0	2.403
+228710b	2022	Los Angeles	1	Central-Alameda	17.118	20	0	37.118
+228720	2022	Los Angeles	1	Central-Alameda	29.318	0	0	29.318
+228800	2022	Los Angeles	1	Central-Alameda	66.281	0	0	66.281
+228900a	2022	Los Angeles	1	Central-Alameda	66.916	0	0	66.916
+228900b	2022	Los Angeles	1	Central-Alameda	23.064	0	0	23.064
+229100a	2022	Los Angeles	1	Central-Alameda	27.899	0	0	27.899
+229100b	2022	Los Angeles	1	Central-Alameda	22.141	0	0	22.141
+229200a	2022	Los Angeles	1	South Park	4.807	13	0	17.807
+229200b	2022	Los Angeles	1	South Park	4.382	0	0	4.382
+229300	2022	Los Angeles	1	South Park	19.675	0	0	19.675
+229410	2022	Los Angeles	1	South Park	73.007	0	0	73.007
+229420	2022	Los Angeles	1	South Park	48.944	0	0	48.944
+231100a	2022	Los Angeles	1	Historic South-Central	0	0	0	0
+231100b	2022	Los Angeles	1	Historic South-Central	177.28	33	0	210.28
+231100c	2022	Los Angeles	1	Exposition Park	2	0	0	2
+231210a	2022	Los Angeles	1	Exposition Park	7.409	6	2	15.409
+231210b	2022	Los Angeles	1	Exposition Park	0	0	0	0
+231220	2022	Los Angeles	1	Exposition Park	18.668	0	0	18.668
+231300	2022	Los Angeles	1	Exposition Park	35.154	0	0	35.154
+231400a	2022	Los Angeles	1	Exposition Park	0	0	0	0
+231400b	2022	Los Angeles	1	Exposition Park	0	0	0	0
+231500	2022	Los Angeles	1	Vermont Square	14.107	0	0	14.107
+231600a	2022	Los Angeles	1	Vermont Square	0	15	8	23
+231600b	2022	Los Angeles	1	Vermont Square	1	0	0	1
+231710a	2022	Los Angeles	1	Vermont Square	44.521	23	0	67.521
+231710b	2022	Los Angeles	1	Vermont Square	70.906	0	0	70.906
+231720a	2022	Los Angeles	1	Vermont Square	7.382	0	0	7.382
+231720b	2022	Los Angeles	1	Vermont Square	77.73	0	0	77.73
+231800a	2022	Los Angeles	1	Historic South-Central	6.531	0	0	6.531
+231800b	2022	Los Angeles	1	Historic South-Central	6.602	20	0	26.602
+231900a	2022	Los Angeles	1	South Park	18.784	15	0	33.784
+231900b	2022	Los Angeles	1	South Park	13.505	0	0	13.505
+232110	2022	Los Angeles	1	Vermont Square	12.409	51	0	63.409
+232120a	2022	Los Angeles	1	Vermont Square	17.077	17	0	34.077
+232120b	2022	Los Angeles	1	Vermont Square	9.32	0	0	9.32
+232200a	2022	Los Angeles	1	Vermont Square	8.382	0	0	8.382
+232200b	2022	Los Angeles	1	Vermont Square	0	1	0	1
+232300a	2022	Los Angeles	1	Vermont Square	3.177	13	0	16.177
+232300b	2022	Los Angeles	1	Vermont Square	0	0	0	0
+232400	2022	Los Angeles	1	Vermont Square	46.806	68	0	114.81
+232500	2022	Los Angeles	1	Chesterfield Square	29.003	101	49	179
+232600a	2022	Los Angeles	1	Harvard Park	6	0	0	6
+232600b	2022	Los Angeles	1	Vermont-Slauson	9.539	0	0	9.539
+232700a	2022	Los Angeles	1	Vermont-Slauson	3.205	50	18	71.205
+232700b	2022	Los Angeles	1	Vermont-Slauson	1.602	0	0	1.602
+232800a	2022	Los Angeles	1	South Park	35.731	0	0	35.731
+232800b	2022	Los Angeles	1	South Park	18.328	0	0	18.328
+234000a	2022	Los Angeles	1	Leimert Park	0	15	0	15
+234000b	2022	Los Angeles	1	Leimert Park	7.535	0	0	7.535
+234200a	2022	Los Angeles	1	Leimert Park	29.897	0	0	29.897
+234200b	2022	Los Angeles	1	Leimert Park	0	0	0	0
+234300	2022	Los Angeles	1	Leimert Park	29.296	0	0	29.296
+234501	2022	Los Angeles	1	Hyde Park	4.005	0	0	4.005
+234502	2022	Los Angeles	1	Hyde Park	10.807	0	0	10.807
+234600a	2022	Los Angeles	1	Hyde Park	10.994	0	0	10.994
+234600b	2022	Los Angeles	1	Hyde Park	20.825	46	0	66.825
+234700	2022	Los Angeles	1	Hyde Park	2.602	0	0	2.602
+234800	2022	Los Angeles	1	Hyde Park	2.779	0	0	2.779
+234901a	2022	Los Angeles	1	Hyde Park	46.729	0	0	46.729
+234901b	2022	Los Angeles	1	Hyde Park	1.602	0	0	1.602
+234902a	2022	Los Angeles	1	Hyde Park	4.533	0	0	4.533
+234902b	2022	Los Angeles	1	Hyde Park	4.807	0	0	4.807
+234902c	2022	Los Angeles	1	Hyde Park	7.735	0	0	7.735
+235100	2022	Los Angeles	1	Hyde Park	1	0	0	1
+235201	2022	Los Angeles	1	Hyde Park	0	0	0	0
+235202	2022	Los Angeles	1	Hyde Park	8.411	0	0	8.411
+236000a	2022	Los Angeles	1	Baldwin Hills/Crenshaw	4.131	0	0	4.131
+236000b	2022	Los Angeles	1	Baldwin Hills/Crenshaw	12.533	0	0	12.533
+236000c	2022	Los Angeles	1	Baldwin Hills/Crenshaw	70.065	0	0	70.065
+236000d	2022	Los Angeles	1	Baldwin Hills/Crenshaw	6.531	0	0	6.531
+236000e	2022	Unincorporated	2	Ladera Heights	8.708	0	0	8.708
+236100	2022	Los Angeles	1	Baldwin Hills/Crenshaw	47.412	0	0	47.412
+236202a	2022	Los Angeles	1	Baldwin Hills/Crenshaw	12.061	0	0	12.061
+236202b	2022	Los Angeles	1	Baldwin Hills/Crenshaw	12.533	0	0	12.533
+236203a	2022	Los Angeles	1	Baldwin Hills/Crenshaw	0	0	0	0
+236203b	2022	Los Angeles	1	Baldwin Hills/Crenshaw	0	0	0	0
+236204	2022	Los Angeles	1	Baldwin Hills/Crenshaw	35.402	0	0	35.402
+236400	2022	Los Angeles	1	Baldwin Hills/Crenshaw	1.602	0	0	1.602
+237101	2022	Los Angeles	1	Vermont-Slauson	0	22	0	22
+237102a	2022	Los Angeles	1	Vermont-Slauson	0	0	0	0
+237102b	2022	Los Angeles	1	Vermont-Slauson	7.131	0	0	7.131
+237201a	2022	Los Angeles	1	Vermont-Slauson	2	66	14	82
+237201b	2022	Los Angeles	1	Harvard Park	0	0	0	0
+237202	2022	Los Angeles	1	Chesterfield Square	212.81	34	0	246.81
+237300	2022	Los Angeles	1	Chesterfield Square	0	0	0	0
+237401	2022	Los Angeles	1	Vermont-Slauson	0	0	27	27
+237402	2022	Los Angeles	1	Harvard Park	7.613	0	0	7.613
+237500a	2022	Los Angeles	1	Vermont-Slauson	13.05	0	0	13.05
+237500b	2022	Los Angeles	1	Vermont-Slauson	3.529	26	0	29.529
+237600	2022	Los Angeles	1	Vermont-Slauson	0	0	0	0
+237710a	2022	Los Angeles	1	Vermont Knolls	19.032	0	0	19.032
+237710b	2022	Los Angeles	1	Vermont Knolls	6.804	0	0	6.804
+237720a	2022	Los Angeles	1	Vermont Knolls	10.235	0	0	10.235
+237720b	2022	Los Angeles	1	Vermont Knolls	11.284	0	0	11.284
+237800	2022	Los Angeles	1	Vermont Knolls	1.602	0	0	1.602
+237900	2022	Los Angeles	1	Manchester Square	11.201	0	0	11.201
+238000a	2022	Los Angeles	1	Gramercy Park	26.406	0	0	26.406
+238000b	2022	Los Angeles	1	Gramercy Park	13.614	0	0	13.614
+238100	2022	Los Angeles	1	Manchester Square	10.614	24	0	34.614
+238200	2022	Los Angeles	1	Vermont Knolls	38.58	927	0	965.58
+238310a	2022	Los Angeles	1	Vermont Knolls	10.344	0	0	10.344
+238310b	2022	Los Angeles	1	Vermont Knolls	8	0	0	8
+238320a	2022	Los Angeles	1	Vermont Knolls	28.92	0	0	28.92
+238320b	2022	Los Angeles	1	Vermont Knolls	1.177	0	0	1.177
+238400	2022	Los Angeles	1	Gramercy Park	43.817	0	0	43.817
+239201a	2022	Los Angeles	1	Florence	2	0	0	2
+239201b	2022	Los Angeles	1	Florence	34.52	0	0	34.52
+239202a	2022	Los Angeles	1	Florence	39.137	0	0	39.137
+239202b	2022	Los Angeles	1	Florence	70.102	0	0	70.102
+239310a	2022	Los Angeles	1	Florence	72.133	0	0	72.133
+239310b	2022	Los Angeles	1	Florence	4.131	0	0	4.131
+239320	2022	Los Angeles	1	Florence	4.529	0	0	4.529
+239330	2022	Los Angeles	1	Florence	322.23	0	0	322.23
+239501	2022	Los Angeles	1	Florence	33.678	0	0	33.678
+239502	2022	Los Angeles	1	Florence	4.406	23	12	39.406
+239601a	2022	Los Angeles	1	Florence	0	0	0	0
+239601b	2022	Los Angeles	1	Florence	26.321	12	0	38.321
+239602a	2022	Los Angeles	1	Florence	0	0	0	0
+239602b	2022	Los Angeles	1	Florence	16.825	0	0	16.825
+239701a	2022	Los Angeles	1	Florence	6.262	0	0	6.262
+239701b	2022	Los Angeles	1	Florence	26.138	17	0	43.138
+239702a	2022	Los Angeles	1	Florence	53.244	0	0	53.244
+239702b	2022	Los Angeles	1	Florence	165.64	39	0	204.64
+239801	2022	Los Angeles	1	Florence	76.766	18	3	97.766
+239802a	2022	Los Angeles	1	Florence	24.98	0	9	33.98
+239802b	2022	Los Angeles	1	Florence	13.376	0	0	13.376
+240010	2022	Los Angeles	1	Green Meadows	0	0	0	0
+240020	2022	Los Angeles	1	Green Meadows	6.76	28	106	140.76
+240200	2022	Los Angeles	1	Broadway-Manchester	60.391	84	0	144.39
+240300	2022	Los Angeles	1	Vermont Vista	7.208	30	0	37.208
+240401	2022	Los Angeles	1	Vermont Vista	14.41	15	0	29.41
+240402a	2022	Los Angeles	1	Vermont Vista	2.529	0	0	2.529
+240402b	2022	Los Angeles	1	Vermont Vista	14	0	0	14
+240500	2022	Los Angeles	1	Broadway-Manchester	30.949	52	0	82.949
+240600	2022	Los Angeles	1	Green Meadows	0	0	0	0
+240700	2022	Los Angeles	1	Green Meadows	16.402	0	0	16.402
+240800	2022	Los Angeles	1	Green Meadows	21.95	78	0	99.95
+240900a	2022	Los Angeles	1	Green Meadows	16.038	0	0	16.038
+240900b	2022	Los Angeles	1	Green Meadows	21.768	0	0	21.768
+241001	2022	Los Angeles	1	Green Meadows	12	0	0	12
+241002a	2022	Los Angeles	1	Green Meadows	316	17	0	333
+241002b	2022	Los Angeles	1	Green Meadows	53.093	0	0	53.093
+241110a	2022	Los Angeles	1	Broadway-Manchester	6.354	44	0	50.354
+241110b	2022	Los Angeles	1	Broadway-Manchester	6.005	0	0	6.005
+241120a	2022	Los Angeles	1	Broadway-Manchester	34.344	0	14	48.344
+241120b	2022	Los Angeles	1	Broadway-Manchester	0	0	0	0
+241201a	2022	Los Angeles	1	Vermont Vista	2.73	0	64	66.73
+241201b	2022	Los Angeles	1	Vermont Vista	31.414	0	0	31.414
+241202a	2022	Los Angeles	1	Vermont Vista	21.266	0	0	21.266
+241202b	2022	Los Angeles	1	Vermont Vista	4.382	15	0	19.382
+241300	2022	Los Angeles	1	Vermont Vista	12	0	0	12
+241400	2022	Los Angeles	1	Broadway-Manchester	15.011	0	0	15.011
+242000	2022	Los Angeles	1	Watts	10	0	0	10
+242100	2022	Los Angeles	1	Watts	18.477	0	0	18.477
+242200	2022	Los Angeles	1	Watts	32.992	25	0	57.992
+242300	2022	Los Angeles	1	Watts	41.885	0	0	41.885
+242600a	2022	Los Angeles	1	Watts	2.177	0	0	2.177
+242600b	2022	Los Angeles	1	Watts	1	0	0	1
+242700	2022	Los Angeles	1	Watts	49.556	0	0	49.556
+243000	2022	Los Angeles	1	Watts	6.71	0	0	6.71
+243100	2022	Los Angeles	1	Watts	0	0	0	0
+261101a	2022	Los Angeles	1	Hollywood Hills West	0	0	0	0
+261101b	2022	Los Angeles	1	Bel-Air	0	0	0	0
+261101c	2022	Unincorporated	2	Franklin Canyon	0	0	0	0
+261102a	2022	Los Angeles	1	Bel-Air	0	0	0	0
+261102b	2022	Los Angeles	1	Bel-Air	0	0	0	0
+261200a	2022	Los Angeles	1	Bel-Air	0	0	0	0
+261200b	2022	Los Angeles	1	Bel-Air	0	0	0	0
+262100a	2022	Los Angeles	1	Bel-Air	0	0	0	0
+262100b	2022	Los Angeles	1	Bel-Air	0	0	0	0
+262100c	2022	Los Angeles	1	Bel-Air	0	0	0	0
+262200a	2022	Los Angeles	1	Bel-Air	0	0	0	0
+262200b	2022	Los Angeles	1	Bel-Air	0	0	0	0
+262301	2022	Los Angeles	1	Brentwood	7.364	0	0	7.364
+262302a	2022	Los Angeles	1	Brentwood	0	0	0	0
+262302b	2022	Los Angeles	1	Brentwood	6.713	0	0	6.713
+262303a	2022	Los Angeles	1	Brentwood	0	0	0	0
+262303b	2022	Los Angeles	1	Brentwood	0	0	0	0
+262400a	2022	Los Angeles	1	Brentwood	0	0	0	0
+262400b	2022	Los Angeles	1	Brentwood	0	0	0	0
+262501a	2022	Los Angeles	1	Pacific Palisades	2.945	0	0	2.945
+262501b	2022	Los Angeles	1	Pacific Palisades	1	0	0	1
+262601	2022	Los Angeles	1	Pacific Palisades	0	0	0	0
+262604a	2022	Los Angeles	1	Pacific Palisades	20.283	0	0	20.283
+262604b	2022	Los Angeles	1	Pacific Palisades	5.405	0	0	5.405
+262604c	2022	Los Angeles	1	Pacific Palisades	0	0	0	0
+262704	2022	Los Angeles	1	Pacific Palisades	44.123	0	0	44.123
+262706a	2022	Los Angeles	1	Pacific Palisades	0	0	0	0
+262706b	2022	Los Angeles	1	Pacific Palisades	0	0	0	0
+262802a	2022	Los Angeles	1	Pacific Palisades	1	0	0	1
+262802b	2022	Los Angeles	1	Pacific Palisades	0	0	0	0
+262802c	2022	Los Angeles	1	Pacific Palisades	3.571	0	0	3.571
+264000a	2022	Los Angeles	1	Brentwood	0	0	0	0
+264000b	2022	Los Angeles	1	Brentwood	0	0	0	0
+264000c	2022	Los Angeles	1	Brentwood	0	0	0	0
+264102	2022	Los Angeles	1	Brentwood	0	0	0	0
+264103	2022	Los Angeles	1	Brentwood	0	0	0	0
+264301	2022	Los Angeles	1	Brentwood	5.989	0	0	5.989
+264302	2022	Los Angeles	1	Brentwood	9.978	0	0	9.978
+265100a	2022	Los Angeles	1	Westwood	2.459	0	0	2.459
+265100b	2022	Los Angeles	1	Westwood	0	0	0	0
+265201	2022	Los Angeles	1	Westwood	4	0	0	4
+265202	2022	Los Angeles	1	Westwood	37.422	0	0	37.422
+265301	2022	Los Angeles	1	Westwood	3.473	0	0	3.473
+265303	2022	Los Angeles	1	Westwood	9.042	0	0	9.042
+265304	2022	Los Angeles	1	Westwood	1.473	0	0	1.473
+265305	2022	Los Angeles	1	Westwood	11.149	0	0	11.149
+265410b	2022	Los Angeles	1	Brentwood	3.462	0	0	3.462
+265410c	2022	Los Angeles	1	Brentwood	0	0	0	0
+265420	2022	Los Angeles	1	Westwood	6.081	0	0	6.081
+265510a	2022	Los Angeles	1	Westwood	10.142	0	0	10.142
+265510b	2022	Los Angeles	1	Westwood	20.713	0	0	20.713
+265520a	2022	Los Angeles	1	West Los Angeles	10.952	0	0	10.952
+265520b	2022	Los Angeles	1	Westwood	23.531	0	0	23.531
+265601	2022	Los Angeles	1	Westwood	5.473	0	0	5.473
+265602	2022	Los Angeles	1	Westwood	0	0	0	0
+265700	2022	Los Angeles	1	Westwood	10	0	0	10
+267100	2022	Los Angeles	1	West Los Angeles	15.165	0	0	15.165
+267200a	2022	Los Angeles	1	West Los Angeles	7.473	0	0	7.473
+267200b	2022	Los Angeles	1	West Los Angeles	1	0	0	1
+267200c	2022	Los Angeles	1	West Los Angeles	15.913	0	0	15.913
+267300a	2022	Los Angeles	1	West Los Angeles	18.022	0	0	18.022
+267300b	2022	Los Angeles	1	West Los Angeles	17.689	0	0	17.689
+267402a	2022	Los Angeles	1	West Los Angeles	1	0	0	1
+267402b	2022	Los Angeles	1	West Los Angeles	2	0	0	2
+267403a	2022	Los Angeles	1	West Los Angeles	7.19	0	0	7.19
+267403b	2022	Los Angeles	1	West Los Angeles	4.65	0	0	4.65
+267404	2022	Los Angeles	1	West Los Angeles	2.919	0	0	2.919
+267501a	2022	Los Angeles	1	West Los Angeles	9.027	0	0	9.027
+267501b	2022	Los Angeles	1	West Los Angeles	3.204	0	0	3.204
+267502a	2022	Los Angeles	1	West Los Angeles	2.989	0	0	2.989
+267502b	2022	Los Angeles	1	West Los Angeles	1.459	0	0	1.459
+267600	2022	Los Angeles	1	West Los Angeles	23.542	0	0	23.542
+267700	2022	Los Angeles	1	West Los Angeles	45.832	0	0	45.832
+267800a	2022	Los Angeles	1	West Los Angeles	28.433	0	0	28.433
+267800b	2022	Los Angeles	1	West Los Angeles	2.571	0	28	30.571
+267901	2022	Los Angeles	1	West Los Angeles	3	0	0	3
+267902	2022	Los Angeles	1	West Los Angeles	2.459	0	0	2.459
+269000a	2022	Los Angeles	1	West Los Angeles	2.418	0	0	2.418
+269000b	2022	Los Angeles	1	West Los Angeles	3.945	0	0	3.945
+269100	2022	Los Angeles	1	South Robertson	0	0	0	0
+269300a	2022	Los Angeles	1	West Los Angeles	8	0	0	8
+269300b	2022	Los Angeles	1	West Los Angeles	8.405	0	0	8.405
+269500	2022	Los Angeles	1	West Los Angeles	0	0	0	0
+269601a	2022	Los Angeles	1	Mid-City	5.204	0	0	5.204
+269601b	2022	Los Angeles	1	Mid-City	4.731	0	0	4.731
+269602a	2022	Los Angeles	1	Mid-City	0	0	0	0
+269602b	2022	Los Angeles	1	Mid-City	0	0	0	0
+269700	2022	Los Angeles	1	Mid-City	15.095	0	0	15.095
+269800	2022	Los Angeles	1	Palms	8.298	0	0	8.298
+269903	2022	Los Angeles	1	Palms	1	0	0	1
+269904a	2022	Los Angeles	1	Palms	16.924	0	0	16.924
+269904b	2022	Los Angeles	1	Palms	2	0	0	2
+269905a	2022	Los Angeles	1	Palms	10.546	0	0	10.546
+269905b	2022	Los Angeles	1	Culver City	21.668	0	0	21.668
+269906	2022	Los Angeles	1	Palms	2.932	0	0	2.932
+269907	2022	Los Angeles	1	Palms	6.462	0	0	6.462
+270100a	2022	Los Angeles	1	Palms	62.317	0	0	62.317
+270100b	2022	Los Angeles	1	Palms	4.449	0	0	4.449
+270200a	2022	Los Angeles	1	Mid-City	41.797	0	0	41.797
+270200b	2022	Los Angeles	1	Mid-City	25.372	0	0	25.372
+270200c	2022	Los Angeles	1	Mid-City	2	0	0	2
+270300a	2022	Los Angeles	1	Mid-City	20.61	0	0	20.61
+270300b	2022	Los Angeles	1	Mid-City	52.871	0	0	52.871
+271100	2022	Los Angeles	1	West Los Angeles	34.084	0	0	34.084
+271200	2022	Los Angeles	1	West Los Angeles	45.946	0	0	45.946
+271300a	2022	Los Angeles	1	West Los Angeles	23.188	0	0	23.188
+271300b	2022	Los Angeles	1	West Los Angeles	5.673	0	0	5.673
+271400	2022	Los Angeles	1	Mar Vista	4.921	0	0	4.921
+271500	2022	Los Angeles	1	Mar Vista	10.269	0	0	10.269
+271600a	2022	Los Angeles	1	Mar Vista	0	0	0	0
+271600b	2022	Los Angeles	1	Mar Vista	3.571	0	0	3.571
+271701a	2022	Los Angeles	1	Palms	6.764	0	0	6.764
+271701b	2022	Los Angeles	1	West Los Angeles	16.487	0	0	16.487
+271702a	2022	Los Angeles	1	West Los Angeles	9.342	0	0	9.342
+271702b	2022	Los Angeles	1	Palms	2	0	0	2
+271801a	2022	Los Angeles	1	Palms	22.833	0	0	22.833
+271801b	2022	Los Angeles	1	Palms	10.492	0	0	10.492
+271802a	2022	Los Angeles	1	Palms	0	0	0	0
+271802b	2022	Los Angeles	1	Palms	3.473	0	0	3.473
+271901a	2022	Los Angeles	1	Mar Vista	38.237	0	0	38.237
+271901b	2022	Los Angeles	1	Mar Vista	2.731	0	0	2.731
+271902	2022	Los Angeles	1	Mar Vista	3.462	0	0	3.462
+272100	2022	Los Angeles	1	Mar Vista	6.451	0	0	6.451
+272201a	2022	Los Angeles	1	Mar Vista	0	0	0	0
+272201b	2022	Los Angeles	1	Mar Vista	10.3	0	11	21.3
+272202a	2022	Los Angeles	1	Mar Vista	0	0	0	0
+272202b	2022	Los Angeles	1	Mar Vista	0	0	0	0
+272301a	2022	Los Angeles	1	Mar Vista	0	0	0	0
+272301b	2022	Los Angeles	1	Mar Vista	0	0	0	0
+272301c	2022	Los Angeles	1	Mar Vista	1.731	0	0	1.731
+272302a	2022	Los Angeles	1	Mar Vista	9.028	0	0	9.028
+272302b	2022	Los Angeles	1	Mar Vista	3.459	0	0	3.459
+273100	2022	Los Angeles	1	Venice	43.547	0	0	43.547
+273200	2022	Los Angeles	1	Venice	77.364	19	0	96.364
+273300	2022	Los Angeles	1	Venice	137.3	0	0	137.3
+273402	2022	Los Angeles	1	Venice	0	77	0	77
+273502	2022	Los Angeles	1	Venice	88.034	0	12	100.03
+273600	2022	Los Angeles	1	Venice	126.09	0	0	126.09
+273700	2022	Los Angeles	1	Venice	49.144	0	0	49.144
+273800a	2022	Los Angeles	1	Venice	52.51	0	2	54.51
+273800b	2022	Los Angeles	1	Mar Vista	0	0	0	0
+273902	2022	Los Angeles	1	Venice	115.72	0	0	115.72
+274100	2022	Los Angeles	1	Venice	5.462	26	0	31.462
+274202a	2022	Los Angeles	1	Venice	1	0	0	1
+275101	2022	Los Angeles	1	Del Rey	0	0	0	0
+275102a	2022	Los Angeles	1	Del Rey	0	0	0	0
+275102b	2022	Los Angeles	1	Del Rey	2.932	0	0	2.932
+275200a	2022	Los Angeles	1	Del Rey	5.836	0	0	5.836
+275200b	2022	Los Angeles	1	Del Rey	16.762	0	0	16.762
+275302	2022	Los Angeles	1	Del Rey	79.851	0	0	79.851
+275311	2022	Los Angeles	1	Del Rey	39.89	0	0	39.89
+275400a	2022	Los Angeles	1	Del Rey	6.891	0	0	6.891
+275400b	2022	Los Angeles	1	Del Rey	9.854	0	0	9.854
+275500a	2022	Los Angeles	1	Del Rey	7.652	0	0	7.652
+275500b	2022	Los Angeles	1	Del Rey	22.825	0	0	22.825
+275602a	2022	Los Angeles	1	Playa Vista	2.731	0	0	2.731
+275602b	2022	Los Angeles	1	Playa Vista	64.174	0	0	64.174
+275602c	2022	Unincorporated	1	Del Rey	0	0	0	0
+275603	2022	Los Angeles	1	Playa Vista	30.114	0	0	30.114
+276000a	2022	Los Angeles	1	Westchester/Playa	0	0	0	0
+276000b	2022	Los Angeles	1	Westchester/Playa	0	0	0	0
+276100	2022	Los Angeles	1	Westchester/Playa	0	0	0	0
+276400	2022	Los Angeles	1	Westchester/Playa	0	0	0	0
+276500	2022	Los Angeles	1	Westchester/Playa	17.41	0	8	25.41
+276601a	2022	Los Angeles	1	Westchester/Playa	10.77	0	0	10.77
+276601b	2022	Los Angeles	1	Westchester/Playa	10.269	0	0	10.269
+276603a	2022	Los Angeles	1	Westchester/Playa	1	0	0	1
+276603b	2022	Los Angeles	1	Westchester/Playa	9.313	0	0	9.313
+276604a	2022	Los Angeles	1	Westchester/Playa	46.805	0	0	46.805
+276604b	2022	Los Angeles	1	Westchester/Playa	9.854	0	0	9.854
+277000a	2022	Los Angeles	1	Westchester/Playa	1.418	0	0	1.418
+277000b	2022	Los Angeles	1	Westchester/Playa	10.989	0	0	10.989
+277100	2022	Los Angeles	1	Westchester/Playa	24.673	0	0	24.673
+277200	2022	Los Angeles	1	Westchester/Playa	0	30	0	30
+277400	2022	Los Angeles	1	Westchester/Playa	3.836	0	0	3.836
+278001	2022	Los Angeles	1	Westchester/Playa	82.386	0	0	82.386
+278102a	2022	Los Angeles	1	Westchester/Playa	14.863	0	0	14.863
+291110	2022	Los Angeles	1	Harbor Gateway North and South	19.002	0	0	19.002
+291120	2022	Los Angeles	1	Harbor Gateway North and South	30.399	0	0	30.399
+291130	2022	Los Angeles	1	Harbor Gateway North and South	23.459	0	0	23.459
+291210	2022	Los Angeles	1	Harbor Gateway North and South	48.127	0	0	48.127
+291220	2022	Los Angeles	1	Harbor Gateway North and South	12.816	0	0	12.816
+291300a	2022	Los Angeles	1	Harbor Gateway North and South	1.737	0	0	1.737
+291300b	2022	Los Angeles	1	Harbor Gateway North and South	23.671	0	0	23.671
+292000a	2022	Los Angeles	1	Harbor Gateway North and South	21.933	0	0	21.933
+292000b	2022	Los Angeles	1	Harbor Gateway North and South	6.248	0	0	6.248
+292000c	2022	Unincorporated	1	Harbor Gateway	0	0	0	0
+293201	2022	Los Angeles	1	Harbor Gateway North and South	36.48	0	0	36.48
+293202	2022	Los Angeles	1	Harbor Gateway North and South	1.737	0	0	1.737
+293301	2022	Los Angeles	1	Harbor City	6.949	0	0	6.949
+293302	2022	Los Angeles	1	Harbor City	11.362	0	0	11.362
+293304a	2022	Los Angeles	1	Harbor City	0	0	0	0
+293304b	2022	Los Angeles	1	Harbor City	0	0	0	0
+293306	2022	Los Angeles	1	Harbor City	2	0	0	2
+293307a	2022	Los Angeles	1	Harbor City	17.727	0	0	17.727
+293307b	2022	Los Angeles	1	Harbor City	5.423	0	0	5.423
+294110	2022	Los Angeles	1	Wilmington	0	0	0	0
+294120	2022	Los Angeles	1	Wilmington	40.394	0	0	40.394
+294200	2022	Los Angeles	1	Wilmington	18.32	0	0	18.32
+294301a	2022	Los Angeles	1	Wilmington	4.379	0	0	4.379
+294301b	2022	Los Angeles	1	Wilmington	11.204	0	0	11.204
+294302	2022	Los Angeles	1	Wilmington	0	0	0	0
+294410a	2022	Los Angeles	1	Harbor City	53.889	0	0	53.889
+294410b	2022	Los Angeles	1	Harbor City	7.699	0	0	7.699
+294421	2022	Los Angeles	1	Harbor City	27.552	0	0	27.552
+294510	2022	Los Angeles	1	Wilmington	0	0	0	0
+294520a	2022	Los Angeles	1	Wilmington	3.737	0	0	3.737
+294520b	2022	Los Angeles	1	Wilmington	15.795	0	0	15.795
+294610	2022	Los Angeles	1	Wilmington	1.686	0	0	1.686
+294620	2022	Los Angeles	1	Wilmington	45.91	0	0	45.91
+294701a	2022	Los Angeles	1	Wilmington	45.078	0	0	45.078
+294701b	2022	Los Angeles	1	Wilmington	169.46	108	2	279.46
+294810a	2022	Los Angeles	1	Wilmington	3.605	0	0	3.605
+294810b	2022	Los Angeles	1	Wilmington	14.186	0	0	14.186
+294820a	2022	Los Angeles	1	Wilmington	8.551	0	0	8.551
+294820b	2022	Los Angeles	1	Wilmington	42.987	0	0	42.987
+294830	2022	Los Angeles	1	Wilmington	40.004	0	0	40.004
+294900	2022	Los Angeles	1	Wilmington	30.806	0	0	30.806
+295103	2022	Los Angeles	1	San Pedro	21.437	0	0	21.437
+296210	2022	Los Angeles	1	San Pedro	12.034	54	0	66.034
+296220	2022	Los Angeles	1	San Pedro	12.44	0	0	12.44
+296300	2022	Los Angeles	1	San Pedro	6.897	0	0	6.897
+296401	2022	Los Angeles	1	San Pedro	0	0	0	0
+296402	2022	Los Angeles	1	San Pedro	1.19	0	0	1.19
+296500	2022	Los Angeles	1	San Pedro	10.372	0	0	10.372
+296600	2022	Los Angeles	1	San Pedro	25.268	0	15	40.268
+296901	2022	Los Angeles	1	San Pedro	0	0	6	6
+296902	2022	Los Angeles	1	San Pedro	7.025	26	0	33.025
+297000	2022	Los Angeles	1	San Pedro	9.846	0	0	9.846
+297110a	2022	Los Angeles	1	San Pedro	53.622	40	0	93.622
+297110b	2022	Los Angeles	1	San Pedro	22.232	0	0	22.232
+297120	2022	Los Angeles	1	San Pedro	21.604	0	0	21.604
+297201a	2022	Los Angeles	1	San Pedro	0	0	0	0
+297201b	2022	Los Angeles	1	San Pedro	3.474	0	0	3.474
+297202	2022	Los Angeles	1	San Pedro	7.569	0	5	12.569
+297300	2022	Los Angeles	1	San Pedro	7.16	0	0	7.16
+297400	2022	Los Angeles	1	San Pedro	1.686	0	0	1.686
+297500a	2022	Los Angeles	1	San Pedro	0	0	0	0
+297500b	2022	Los Angeles	1	San Pedro	6.846	0	0	6.846
+297601	2022	Los Angeles	1	San Pedro	0	0	0	0
+297602	2022	Los Angeles	1	San Pedro	11.859	0	0	11.859
+300100a	2022	Unincorporated	2	La Crescenta-Montrose	0	0	0	0
+300100b	2022	Unincorporated	2	La Crescenta-Montrose	0	0	0	0
+300200a	2022	Unincorporated	2	La Crescenta-Montrose	0	0	0	0
+300200b	2022	Unincorporated	2	La Crescenta-Montrose	0	0	0	0
+300501a	2022	Unincorporated	2	La Crescenta-Montrose	0	0	0	0
+300501c	2022	La Canada Flintridge	2	La Canada Flintridge	0	0	0	0
+300502a	2022	Unincorporated	2	La Crescenta-Montrose	0	0	0	0
+300502b	2022	Unincorporated	2	La Crescenta-Montrose	0	0	0	0
+300502c	2022	La Canada Flintridge	2	La Canada Flintridge	0	0	0	0
+310100a	2022	Burbank	2	Burbank	0	0	0	0
+310100b	2022	Burbank	2	Burbank	0	0	0	0
+310201a	2022	Burbank	2	Burbank	2.911	0	0	2.911
+310201b	2022	Burbank	2	Burbank	0	0	0	0
+310202	2022	Burbank	2	Burbank	0	0	0	0
+310300	2022	Burbank	2	Burbank	1.456	0	0	1.456
+310400a	2022	Burbank	2	Burbank	2.95	0	0	2.95
+310400b	2022	Burbank	2	Burbank	0	0	0	0
+310501a	2022	Burbank	2	Burbank	9.154	0	0	9.154
+310501b	2022	Burbank	2	Burbank	4.421	0	21	25.421
+310601a	2022	Burbank	2	Burbank	19.051	0	12	31.051
+310601b	2022	Burbank	2	Burbank	0	0	0	0
+310602	2022	Burbank	2	Burbank	5.596	0	0	5.596
+310701	2022	Burbank	2	Burbank	5.175	0	0	5.175
+310702a	2022	Burbank	2	Burbank	7.95	0	0	7.95
+310702b	2022	Burbank	2	Burbank	0	0	0	0
+310703	2022	Burbank	2	Burbank	12.106	0	0	12.106
+310800a	2022	Burbank	2	Burbank	0	0	0	0
+310800b	2022	Burbank	2	Burbank	7.14	11	13	31.14
+310900a	2022	Burbank	2	Burbank	2.946	0	0	2.946
+310900b	2022	Burbank	2	Burbank	4.49	0	0	4.49
+311000	2022	Burbank	2	Burbank	32.06	0	14	46.06
+311100a	2022	Burbank	2	Burbank	1.49	0	0	1.49
+311100b	2022	Burbank	2	Burbank	1.49	0	0	1.49
+311200	2022	Burbank	2	Burbank	6.98	0	0	6.98
+311300	2022	Burbank	2	Burbank	1.685	0	0	1.685
+311400	2022	Burbank	2	Burbank	5.845	0	0	5.845
+311500a	2022	Burbank	2	Burbank	16.802	0	0	16.802
+311500b	2022	Burbank	2	Burbank	0	0	0	0
+311500c	2022	Burbank	2	Burbank	0	0	0	0
+311600a	2022	Burbank	2	Burbank	2	0	0	2
+311600b	2022	Burbank	2	Burbank	2	0	0	2
+311700a	2022	Burbank	2	Burbank	2	0	0	2
+311700b	2022	Burbank	2	Burbank	4.95	0	0	4.95
+311801a	2022	Burbank	2	Burbank	0	0	0	0
+311801b	2022	Burbank	2	Burbank	2.685	0	6	8.685
+311802	2022	Burbank	2	Burbank	1.259	0	0	1.259
+320000	2022	Unincorporated	2	Universal City	0	0	0	0
+320100a	2022	San Fernando	2	San Fernando	0	0	0	0
+320100b	2022	San Fernando	2	San Fernando	1.475	0	0	1.475
+320201	2022	San Fernando	2	San Fernando	1	0	0	1
+320202a	2022	San Fernando	2	San Fernando	0	0	0	0
+320202b	2022	San Fernando	2	San Fernando	0	0	0	0
+320300a	2022	San Fernando	2	San Fernando	11.702	0	0	11.702
+320300b	2022	San Fernando	2	San Fernando	1	0	0	1
+400204b	2022	La Verne	2	La Verne	0	0	0	0
+400204c	2022	La Verne	2	La Verne	0	0	0	0
+400204d	2022	Unincorporated	2	Unincorporated La Verne	0	0	0	0
+400205a	2022	Unincorporated	2	Unincorporated La Verne	0	0	0	0
+400205b	2022	Claremont	2	Claremont	0	0	0	0
+400205c	2022	Unincorporated	2	Unincorporated Claremont	0	0	0	0
+400205d	2022	Unincorporated	2	Unincorporated Padua Hills	0	0	0	0
+400205e	2022	La Verne	2	La Verne	0	0	0	0
+400205f	2022	Unincorporated	2	Unincorporated Claremont	0	0	0	0
+400206a	2022	Unincorporated	2	Unincorporated Claremont	0	0	0	0
+400206b	2022	Claremont	2	Claremont	0	0	0	0
+400206c	2022	Claremont	2	Claremont	0	0	0	0
+400207a	2022	La Verne	2	La Verne	0	0	0	0
+400207b	2022	San Dimas	2	San Dimas	0	0	0	0
+400207c	2022	San Dimas	2	San Dimas	0	0	0	0
+400207d	2022	La Verne	2	La Verne	1.951	0	0	1.951
+400302a	2022	La Verne	2	La Verne	0	0	0	0
+400302b	2022	Unincorporated	2	Unincorporated La Verne	0	0	0	0
+400302c	2022	La Verne	2	La Verne	0	0	0	0
+400304	2022	San Dimas	2	San Dimas	0	0	0	0
+400402a	2022	Glendora	2	Glendora	0	0	0	0
+400402b	2022	Glendora	2	Glendora	1	0	0	1
+400403a	2022	Unincorporated	2	Angeles National Forest	0	0	0	0
+400403b	2022	San Dimas	2	San Dimas	0	0	0	0
+400403c	2022	San Dimas	2	San Dimas	0	0	0	0
+400403p	2022	San Dimas	2	San Dimas	0	0	0	0
+400404a	2022	Glendora	2	Glendora	0	0	0	0
+400404b	2022	Glendora	2	Glendora	0	0	0	0
+400404c	2022	Unincorporated	2	Unincorporated Glendora	2.203	0	0	2.203
+400404p	2022	Glendora	2	Glendora	0	0	0	0
+400501a	2022	Glendora	2	Glendora	0	0	0	0
+400501b	2022	Glendora	2	Glendora	0	0	0	0
+400501c	2022	Unincorporated	2	Unincorporated Glendora	0	0	0	0
+400501d	2022	Glendora	2	Glendora	0	0	0	0
+400501e	2022	Unincorporated	2	Unincorporated Glendora	0	0	0	0
+400501p	2022	Glendora	2	Glendora	0	0	0	0
+400602a	2022	Azusa	2	Azusa	11.336	38	0	49.336
+400602b	2022	Azusa	2	Azusa	3	0	0	3
+400603a	2022	Azusa	2	Azusa	0	0	0	0
+400603b	2022	Azusa	2	Azusa	64.697	0	0	64.697
+400604a	2022	Azusa	2	Azusa	27.355	0	0	27.355
+400604b	2022	Unincorporated	2	Unincorporated  Azusa	0	0	0	0
+400604c	2022	Unincorporated	2	Unincorporated  Azusa	0	0	0	0
+400604d	2022	Glendora	2	Glendora	0	0	0	0
+400800a	2022	Glendora	2	Glendora	1	0	0	1
+400800b	2022	Azusa	2	Azusa	1	0	0	1
+400900a	2022	Glendora	2	Glendora	0	0	0	0
+400900b	2022	Glendora	2	Glendora	2.453	0	0	2.453
+400900c	2022	Unincorporated	2	Unincorporated Glendora	0	0	0	0
+400900d	2022	Unincorporated	2	Unincorporated Glendora	0	0	0	0
+401001	2022	Glendora	2	Glendora	0	0	0	0
+401002a	2022	Glendora	2	Glendora	0	0	0	0
+401002b	2022	Glendora	2	Glendora	0	0	0	0
+401002c	2022	Glendora	2	Glendora	3	0	0	3
+401101a	2022	Glendora	2	Glendora	0	0	0	0
+401101b	2022	Glendora	2	Glendora	5.645	0	0	5.645
+401102a	2022	Glendora	2	Glendora	3.203	0	0	3.203
+401102b	2022	Glendora	2	Glendora	1	0	0	1
+401201a	2022	Glendora	2	Glendora	1.951	0	0	1.951
+401201b	2022	Glendora	2	Glendora	0	0	0	0
+401202a	2022	San Dimas	2	San Dimas	16.481	0	0	16.481
+401202b	2022	Glendora	2	Glendora	51.988	0	0	51.988
+401203a	2022	Glendora	2	Glendora	3.203	0	0	3.203
+401203b	2022	Glendora	2	Glendora	0	0	0	0
+401303a	2022	Unincorporated	2	Unincorporated Covina	0	0	0	0
+401303b	2022	San Dimas	2	San Dimas	0	0	0	0
+401304a	2022	San Dimas	2	San Dimas	0	0	0	0
+401304b	2022	San Dimas	2	San Dimas	0	0	0	0
+401304c	2022	San Dimas	2	San Dimas	0	0	0	0
+401304d	2022	San Dimas	2	San Dimas	0	0	0	0
+401304e	2022	San Dimas	2	San Dimas	1.453	0	0	1.453
+401304f	2022	La Verne	2	La Verne	0	0	0	0
+401304g	2022	Pomona	2	Pomona	0	0	0	0
+401311	2022	San Dimas	2	San Dimas	2	0	0	2
+401312a	2022	San Dimas	2	San Dimas	0	0	0	0
+401312b	2022	San Dimas	2	San Dimas	0	0	0	0
+401312h	2022	San Dimas	2	San Dimas	0	0	0	0
+401500a	2022	La Verne	2	La Verne	0	0	0	0
+401500b	2022	La Verne	2	La Verne	4.203	0	0	4.203
+401500c	2022	La Verne	2	La Verne	0	0	0	0
+401601a	2022	Unincorporated	2	Unincorporated La Verne	0	0	0	0
+401601b	2022	La Verne	2	La Verne	0	0	0	0
+401601c	2022	La Verne	2	La Verne	33.413	0	0	33.413
+401602a	2022	La Verne	2	La Verne	0	0	0	0
+401602b	2022	La Verne	2	La Verne	0	0	0	0
+401603a	2022	La Verne	2	La Verne	1.203	0	0	1.203
+401603b	2022	La Verne	2	La Verne	0	0	0	0
+401701a	2022	Claremont	2	Claremont	0	0	0	0
+401701b	2022	Unincorporated	2	Unincorporated Pomona	0	0	0	0
+401701c	2022	Pomona	2	Pomona	0	0	0	0
+401703	2022	Pomona	2	Pomona	13	0	0	13
+401704a	2022	Pomona	2	Pomona	4.336	15	0	19.336
+401704b	2022	Unincorporated	2	Unincorporated Pomona	0	0	0	0
+401800a	2022	Claremont	2	Claremont	0	0	0	0
+401800b	2022	Claremont	2	Claremont	3.788	0	0	3.788
+401901	2022	Claremont	2	Claremont	3.453	0	0	3.453
+401902a	2022	Claremont	2	Claremont	2	0	0	2
+401902b	2022	Claremont	2	Claremont	1	0	0	1
+402001	2022	Claremont	2	Claremont	5	0	0	5
+402002	2022	Claremont	2	Claremont	10.74	0	0	10.74
+402101	2022	Pomona	2	Pomona	0	37	0	37
+402102a	2022	Pomona	2	Pomona	7.192	32	0	39.192
+402102b	2022	Pomona	2	Pomona	6.951	0	0	6.951
+402200a	2022	Pomona	2	Pomona	28	0	0	28
+402200b	2022	Pomona	2	Pomona	24.499	0	0	24.499
+402301	2022	Pomona	2	Pomona	64.822	0	0	64.822
+402303	2022	Pomona	2	Pomona	39.261	0	0	39.261
+402304	2022	Pomona	2	Pomona	7	0	0	7
+402402a	2022	Pomona	2	Pomona	4.404	0	0	4.404
+402402b	2022	Pomona	2	Pomona	25.86	0	0	25.86
+402403a	2022	Pomona	2	Pomona	9.909	0	0	9.909
+402403b	2022	Pomona	2	Pomona	0	0	0	0
+402404a	2022	Pomona	2	Pomona	6.622	0	0	6.622
+402404b	2022	Unincorporated	2	Unincorporated Pomona	5.874	0	0	5.874
+402404c	2022	Walnut	2	Walnut	0	0	0	0
+402405	2022	Pomona	2	Pomona	0	0	0	0
+402406	2022	Pomona	2	Pomona	11.453	0	0	11.453
+402501	2022	Pomona	2	Pomona	17.756	0	0	17.756
+402502a	2022	Pomona	2	Pomona	2	0	0	2
+402502b	2022	Pomona	2	Pomona	0	0	0	0
+402600a	2022	Pomona	2	Pomona	0	0	0	0
+402600b	2022	Pomona	2	Pomona	14.931	36	0	50.931
+402702	2022	Pomona	2	Pomona	6	0	24	30
+402703	2022	Pomona	2	Pomona	0	0	0	0
+402705	2022	Pomona	2	Pomona	0	0	0	0
+402706	2022	Pomona	2	Pomona	0	0	0	0
+402801a	2022	Pomona	2	Pomona	17.753	0	0	17.753
+402801b	2022	Pomona	2	Pomona	9.74	85	0	94.74
+402803	2022	Pomona	2	Pomona	7	0	0	7
+402804	2022	Pomona	2	Pomona	1.203	0	0	1.203
+402902a	2022	Pomona	2	Pomona	24	0	0	24
+402902b	2022	Pomona	2	Pomona	1.336	30	0	31.336
+402903	2022	Pomona	2	Pomona	1	0	0	1
+402904	2022	Pomona	2	Pomona	3.192	0	0	3.192
+403000a	2022	Pomona	2	Pomona	31.571	0	0	31.571
+403000b	2022	Pomona	2	Pomona	0	0	0	0
+403200	2022	Pomona	2	Pomona	0	0	0	0
+403303a	2022	Industry	2	Industry	14.195	0	0	14.195
+403303b	2022	Diamond Bar	2	Diamond Bar	0	0	0	0
+403303c	2022	Unincorporated	2	Unincorporated Walnut	0	0	0	0
+403303d	2022	Unincorporated	2	Rowland Heights	0	0	0	0
+403304a	2022	Unincorporated	2	Rowland Heights	1.453	0	0	1.453
+403304b	2022	Diamond Bar	2	Diamond Bar	1.336	0	0	1.336
+403305	2022	Diamond Bar	2	Diamond Bar	1.336	0	0	1.336
+403312a	2022	Diamond Bar	2	Diamond Bar	5.731	0	0	5.731
+403312b	2022	Industry	2	Industry	0	0	0	0
+403312c	2022	Pomona	2	Pomona	0	0	0	0
+403312d	2022	Industry	2	Industry	1	0	0	1
+403316a	2022	Diamond Bar	2	Diamond Bar	0	0	0	0
+403316b	2022	Diamond Bar	2	Diamond Bar	19.794	0	0	19.794
+403317a	2022	Pomona	2	Pomona	0	0	0	0
+403317b	2022	Pomona	2	Pomona	16.98	0	0	16.98
+403318a	2022	Pomona	2	Pomona	12.404	0	0	12.404
+403318b	2022	Pomona	2	Pomona	0	0	0	0
+403319a	2022	Diamond Bar	2	Diamond Bar	0	0	0	0
+403319b	2022	Diamond Bar	2	Diamond Bar	0	0	0	0
+403320a	2022	Diamond Bar	2	Diamond Bar	0	0	0	0
+403320b	2022	Diamond Bar	2	Diamond Bar	0	0	0	0
+403321a	2022	Diamond Bar	2	Diamond Bar	9.358	0	0	9.358
+403321b	2022	Diamond Bar	2	Diamond Bar	0	0	0	0
+403321c	2022	Pomona	2	Pomona	7.943	0	0	7.943
+403322a	2022	Diamond Bar	2	Diamond Bar	0	0	0	0
+403322b	2022	Diamond Bar	2	Diamond Bar	0	0	0	0
+403323a	2022	Diamond Bar	2	Diamond Bar	0	0	0	0
+403323b	2022	Diamond Bar	2	Diamond Bar	2.336	0	0	2.336
+403324a	2022	Diamond Bar	2	Diamond Bar	0	0	0	0
+403324b	2022	Diamond Bar	2	Diamond Bar	0	0	0	0
+403324c	2022	Unincorporated	2	Rowland Heights	0	0	0	0
+403325a	2022	Diamond Bar	2	Diamond Bar	0	0	0	0
+403325b	2022	Unincorporated	2	Rowland Heights	0	0	0	0
+403401a	2022	Walnut	2	Walnut	0	0	0	0
+403401b	2022	Walnut	2	Walnut	0	0	0	0
+403401c	2022	Walnut	2	Walnut	0	0	0	0
+403401d	2022	Walnut	2	Walnut	0	0	0	0
+403402a	2022	Walnut	2	Walnut	0	0	0	0
+403402b	2022	Walnut	2	Walnut	0	0	0	0
+403403a	2022	Walnut	2	Walnut	0	0	0	0
+403403b	2022	Walnut	2	Walnut	0	0	0	0
+403404a	2022	Walnut	2	Walnut	0	0	0	0
+403404b	2022	Walnut	2	Walnut	0	0	0	0
+403405	2022	Walnut	2	Walnut	0	0	0	0
+403406	2022	Walnut	2	Walnut	4.788	0	0	4.788
+403407a	2022	Walnut	2	Walnut	0	0	0	0
+403407b	2022	Walnut	2	Walnut	0	0	0	0
+403408a	2022	Walnut	2	Walnut	0	0	0	0
+403408b	2022	Walnut	2	Walnut	0	0	0	0
+403500a	2022	West Covina	2	West Covina	12.22	0	0	12.22
+403500b	2022	Unincorporated	2	Unincorporated Covina	1.951	0	0	1.951
+403500c	2022	Walnut	2	Walnut	0	0	0	0
+403600a	2022	West Covina	2	West Covina	0	0	0	0
+403600b	2022	Unincorporated	2	Unincorporated Covina	0	0	0	0
+403600c	2022	Covina	2	Covina	0	0	0	0
+403600d	2022	Unincorporated	2	Unincorporated Covina	0	0	0	0
+403600e	2022	Covina	2	Covina	0	0	0	0
+403600f	2022	Unincorporated	2	Unincorporated Covina	0	0	0	0
+403702a	2022	Covina	2	Covina	0	0	0	0
+403702b	2022	Covina	2	Covina	0	0	0	0
+403702c	2022	Unincorporated	2	Covina (Charter Oak)	0	0	0	0
+403703a	2022	Covina	2	Covina	0	0	0	0
+403703b	2022	Unincorporated	2	Covina (Charter Oak)	0	0	0	0
+403703c	2022	San Dimas	2	San Dimas	0	0	0	0
+403721a	2022	Covina	2	Covina	0	0	0	0
+403721b	2022	Covina	2	Covina	0	0	0	0
+403721c	2022	Unincorporated	2	Covina (Charter Oak)	0	0	0	0
+403722a	2022	Covina	2	Covina	3.336	0	0	3.336
+403722b	2022	Covina	2	Covina	0	0	0	0
+403722c	2022	Unincorporated	2	Unincorporated Covina	0	0	0	0
+403801a	2022	Unincorporated	2	Covina (Charter Oak)	8.161	0	0	8.161
+403801b	2022	Covina	2	Covina	1.951	0	0	1.951
+403801c	2022	Unincorporated	2	Covina (Charter Oak)	4.154	0	0	4.154
+403801d	2022	Covina	2	Covina	6.825	0	0	6.825
+403801e	2022	Unincorporated	2	Covina (Charter Oak)	0	0	0	0
+403802a	2022	Covina	2	Covina	10.857	0	0	10.857
+403802b	2022	Unincorporated	2	Covina (Charter Oak)	25.197	0	0	25.197
+403802c	2022	San Dimas	2	San Dimas	0	0	0	0
+403901a	2022	Unincorporated	2	Unincorporated Glendora	0	0	0	0
+403901b	2022	Glendora	2	Glendora	10.029	0	0	10.029
+403902a	2022	Glendora	2	Glendora	0	0	0	0
+403902b	2022	Glendora	2	Glendora	0	0	0	0
+404000a	2022	Azusa	2	Azusa	0	0	0	0
+404000b	2022	Unincorporated	2	Unincorporated Azusa	6.645	0	0	6.645
+404100a	2022	Azusa	2	Azusa	3.192	0	0	3.192
+404100b	2022	Unincorporated	2	Unincorporated Azusa	0	0	0	0
+404201a	2022	Azusa	2	Azusa	25.27	0	0	25.27
+404202a	2022	Unincorporated	2	Unincorporated Azusa	0	0	0	0
+404202b	2022	Azusa	2	Azusa	0	0	3	3
+404301	2022	Azusa	2	Azusa	19.336	0	0	19.336
+404302	2022	Azusa	2	Azusa	13.934	0	0	13.934
+404401	2022	Azusa	2	Azusa	1.192	0	0	1.192
+404402a	2022	Azusa	2	Azusa	4.951	0	0	4.951
+404402b	2022	Azusa	2	Azusa	1	0	0	1
+404501a	2022	Azusa	2	Azusa	0	0	0	0
+404501b	2022	Unincorporated	2	Unincorporated Azusa	0	0	0	0
+404503a	2022	Unincorporated	2	Unincorporated Azusa	2	0	0	2
+404503b	2022	Azusa	2	Azusa	0	0	0	0
+404504a	2022	Azusa	2	Azusa	2.453	0	0	2.453
+404504b	2022	Unincorporated	2	Unincorporated Azusa	1.951	0	0	1.951
+404600a	2022	Irwindale	2	Irwindale	3.287	0	0	3.287
+404600b	2022	Irwindale	2	Irwindale	210.15	0	0	210.15
+404701	2022	Baldwin Park	2	Baldwin Park	28.419	0	0	28.419
+404702	2022	Baldwin Park	2	Baldwin Park	9.857	0	0	9.857
+404703a	2022	Baldwin Park	2	Baldwin Park	19.716	0	0	19.716
+404703b	2022	Baldwin Park	2	Baldwin Park	0	0	0	0
+404801	2022	Baldwin Park	2	Baldwin Park	10.003	0	0	10.003
+404802	2022	Baldwin Park	2	Baldwin Park	5.854	102	0	107.85
+404803	2022	Baldwin Park	2	Baldwin Park	3	0	0	3
+404901	2022	Baldwin Park	2	Baldwin Park	0	0	0	0
+404902	2022	Baldwin Park	2	Baldwin Park	3.336	0	0	3.336
+404903	2022	Baldwin Park	2	Baldwin Park	8.719	0	0	8.719
+405001	2022	Baldwin Park	2	Baldwin Park	7.238	0	0	7.238
+405002a	2022	Baldwin Park	2	Baldwin Park	0	0	0	0
+405002b	2022	Baldwin Park	2	Baldwin Park	0	0	0	0
+405101	2022	Baldwin Park	2	Baldwin Park	5.951	0	0	5.951
+405102	2022	Baldwin Park	2	Baldwin Park	25.697	0	0	25.697
+405201	2022	Baldwin Park	2	Baldwin Park	10	0	0	10
+405202	2022	Baldwin Park	2	Baldwin Park	23.606	0	0	23.606
+405203	2022	Baldwin Park	2	Baldwin Park	4.622	0	0	4.622
+405301a	2022	West Covina	2	West Covina	0	0	0	0
+405301b	2022	Unincorporated	2	Unincorporated Covina	0	0	0	0
+405302a	2022	West Covina	2	West Covina	0	0	0	0
+405302b	2022	West Covina	2	West Covina	1.951	0	0	1.951
+405400a	2022	Unincorporated	2	Unincorporated Covina	4.903	0	0	4.903
+405400b	2022	Unincorporated	2	Unincorporated Covina	7.057	0	0	7.057
+405400c	2022	Covina	2	Covina	0	0	0	0
+405400d	2022	Unincorporated	2	Unincorporated Covina	0	0	0	0
+405500a	2022	West Covina	2	West Covina	0	0	0	0
+405500b	2022	West Covina	2	West Covina	1.951	0	0	1.951
+405500c	2022	Unincorporated	2	Unincorporated Covina	1.951	0	0	1.951
+405600a	2022	West Covina	2	West Covina	1	0	0	1
+405600b	2022	West Covina	2	West Covina	0	0	0	0
+405600c	2022	West Covina	2	West Covina	0	0	0	0
+405701a	2022	Covina	2	Covina	1.336	0	0	1.336
+405701b	2022	Unincorporated	2	Unincorporated Covina	0	0	0	0
+405702a	2022	Covina	2	Covina	7.406	0	3	10.406
+405702b	2022	Unincorporated	2	Unincorporated Covina	0	0	0	0
+405800a	2022	Unincorporated	2	Unincorporated Covina	0	0	0	0
+405800b	2022	Covina	2	Covina	1.192	0	0	1.192
+405900a	2022	Covina	2	Covina	3.903	0	0	3.903
+405900b	2022	Unincorporated	2	Covina (Charter Oak)	7.805	0	0	7.805
+405900c	2022	Unincorporated	2	Covina (Charter Oak)	0	0	0	0
+406000a	2022	Covina	2	Covina	3.453	0	0	3.453
+406000b	2022	Unincorporated	2	Covina (Charter Oak)	0	0	0	0
+406000c	2022	Covina	2	Covina	0	0	0	0
+406101a	2022	Unincorporated	2	Covina (Charter Oak)	0	0	0	0
+406101b	2022	Covina	2	Covina	4	0	0	4
+406101c	2022	Covina	2	Covina	0	0	0	0
+406102a	2022	Covina	2	Covina	5	0	0	5
+406102b	2022	Covina	2	Covina	0	0	0	0
+406200a	2022	West Covina	2	West Covina	3.905	0	0	3.905
+406200b	2022	Covina	2	Covina	0	0	0	0
+406300a	2022	West Covina	2	West Covina	0	0	0	0
+406300b	2022	Unincorporated	2	Unincorporated Covina	0	0	0	0
+406300c	2022	West Covina	2	West Covina	0	0	0	0
+406300d	2022	West Covina	2	West Covina	0	0	0	0
+406402	2022	West Covina	2	West Covina	0	0	0	0
+406411	2022	West Covina	2	West Covina	0	0	0	0
+406412	2022	West Covina	2	West Covina	0	0	0	0
+406500a	2022	West Covina	2	West Covina	0	0	0	0
+406500b	2022	West Covina	2	West Covina	0	0	0	0
+406601a	2022	West Covina	2	West Covina	0	0	0	0
+406601b	2022	West Covina	2	West Covina	4.453	0	0	4.453
+406601c	2022	Unincorporated	2	Valinda	1	0	0	1
+406602a	2022	West Covina	2	West Covina	0	0	0	0
+406602b	2022	West Covina	2	West Covina	0	0	0	0
+406602c	2022	Unincorporated	2	Valinda	0	0	0	0
+406701	2022	West Covina	2	West Covina	3.905	0	0	3.905
+406702a	2022	West Covina	2	West Covina	2.203	0	0	2.203
+406702b	2022	West Covina	2	West Covina	0	0	0	0
+406800a	2022	West Covina	2	West Covina	0	0	0	0
+406800b	2022	West Covina	2	West Covina	0	0	0	0
+406901a	2022	Baldwin Park	2	Baldwin Park	0	0	0	0
+406901b	2022	Unincorporated	2	Bassett	2.203	0	0	2.203
+406901c	2022	La Puente	2	La Puente	6.406	0	0	6.406
+406901d	2022	West Covina	2	West Covina	2.192	0	0	2.192
+406902a	2022	West Covina	2	West Covina	0	0	0	0
+406902b	2022	Unincorporated	2	Bassett	3.287	0	0	3.287
+406902c	2022	La Puente	2	La Puente	9.203	0	0	9.203
+406902d	2022	West Covina	2	West Covina	0	0	0	0
+407001a	2022	Baldwin Park	2	Baldwin Park	6.951	0	0	6.951
+407001b	2022	Unincorporated	2	Bassett	1.951	0	0	1.951
+407001c	2022	Industry	2	Industry	0	0	0	0
+407002a	2022	Unincorporated	2	Bassett	5.453	0	0	5.453
+407002b	2022	Industry	2	Industry	18.771	0	0	18.771
+407002c	2022	Unincorporated	2	Bassett	0	0	0	0
+407002d	2022	Industry	2	Industry	0	0	0	0
+407002e	2022	Industry	2	La Puente	0	0	0	0
+407101	2022	La Puente	2	La Puente	3.951	0	0	3.951
+407102	2022	La Puente	2	La Puente	0	0	0	0
+407200a	2022	La Puente	2	La Puente	0	0	0	0
+407200b	2022	La Puente	2	La Puente	80.836	0	0	80.836
+407301a	2022	La Puente	2	La Puente	0	0	0	0
+407301b	2022	Unincorporated	2	West Puente Valley	2.453	0	0	2.453
+407302	2022	Unincorporated	2	West Puente Valley	15.114	0	0	15.114
+407400	2022	West Covina	2	West Covina	2	0	0	2
+407501a	2022	Unincorporated	2	West Puente Valley	0	0	0	0
+407501b	2022	La Puente	2	La Puente	0	0	0	0
+407501c	2022	Unincorporated	2	Valinda	0	0	0	0
+407502	2022	Unincorporated	2	Valinda	0	0	0	0
+407601	2022	La Puente	2	La Puente	9	0	0	9
+407602	2022	La Puente	2	La Puente	3	0	0	3
+407701	2022	La Puente	2	La Puente	2	0	0	2
+407702a	2022	La Puente	2	La Puente	4.336	0	0	4.336
+407702b	2022	La Puente	2	La Puente	1	0	0	1
+407702c	2022	La Puente	2	La Puente	1	0	0	1
+407801	2022	Unincorporated	2	Valinda	0	0	0	0
+407802a	2022	Unincorporated	2	Valinda	1.951	0	0	1.951
+407802b	2022	Industry	2	Industry	2.453	0	0	2.453
+407900a	2022	Unincorporated	2	Valinda	0	0	0	0
+407900b	2022	West Covina	2	West Covina	1.951	0	0	1.951
+408003a	2022	Unincorporated	2	Valinda	0	0	0	0
+408003b	2022	West Covina	2	West Covina	0	0	0	0
+408004	2022	West Covina	2	West Covina	6.903	0	66	72.903
+408005a	2022	West Covina	2	West Covina	0	0	0	0
+408005b	2022	West Covina	2	West Covina	0	0	0	0
+408006	2022	West Covina	2	West Covina	0	0	0	0
+408133a	2022	Unincorporated	2	San Jose Hills	0	0	0	0
+408133b	2022	West Covina	2	West Covina	0	0	0	0
+408134	2022	West Covina	2	West Covina	0	0	0	0
+408135	2022	West Covina	2	West Covina	0	0	0	0
+408136	2022	West Covina	2	West Covina	0	0	0	0
+408137a	2022	West Covina	2	West Covina	1	0	0	1
+408137b	2022	Unincorporated	2	San Jose Hills	0	0	0	0
+408138	2022	Unincorporated	2	San Jose Hills	0	0	0	0
+408139	2022	Unincorporated	2	San Jose Hills	0	0	0	0
+408140a	2022	Unincorporated	2	San Jose Hills	2.951	0	0	2.951
+408140b	2022	Industry	2	Industry	0	0	0	0
+408141a	2022	Unincorporated	2	San Jose Hills	0	0	0	0
+408141b	2022	West Covina	2	West Covina	0	0	0	0
+408202a	2022	Industry	2	Industry	21.292	0	0	21.292
+408202b	2022	Unincorporated	2	Avocado Heights	7.644	0	0	7.644
+408202c	2022	Unincorporated	2	Avocado Heights	1.951	0	0	1.951
+408202d	2022	Unincorporated	2	Hacienda Heights	0	0	0	0
+408202e	2022	Industry	2	Industry	16.96	0	0	16.96
+408211a	2022	Unincorporated	2	Rowland Heights	15.45	0	0	15.45
+408211b	2022	Industry	2	Industry	53.178	0	0	53.178
+408212a	2022	Industry	2	Industry	0	0	0	0
+408212b	2022	Unincorporated	2	Rowland Heights	25.515	0	0	25.515
+408301a	2022	Industry	2	Industry	42.02	0	0	42.02
+408301b	2022	Unincorporated	2	Avocado Heights	19.303	0	0	19.303
+408301c	2022	Unincorporated	2	Avocado Heights	4.154	0	0	4.154
+408301d	2022	Industry	2	Industry	0	0	0	0
+408302a	2022	Industry	2	Industry	28.06	0	0	28.06
+408302b	2022	Unincorporated	2	Avocado Heights	21.371	0	0	21.371
+408302c	2022	Unincorporated	2	Avocado Heights	2.671	0	0	2.671
+408303d	2022	Unincorporated	2	Avocado Heights	0	0	0	0
+408401	2022	Unincorporated	2	Hacienda Heights	12.211	0	0	12.211
+408402a	2022	Industry	2	Industry	0	0	0	0
+408402b	2022	Unincorporated	2	Hacienda Heights	0	0	0	0
+408402c	2022	Unincorporated	2	Hacienda Heights	0	119	0	119
+408501	2022	Unincorporated	2	Hacienda Heights	1	0	0	1
+408503a	2022	Unincorporated	2	Hacienda Heights	0	0	0	0
+408503b	2022	Unincorporated	2	Hacienda Heights	0	0	0	0
+408504a	2022	Unincorporated	2	Hacienda Heights	0	0	0	0
+408504b	2022	Unincorporated	2	Hacienda Heights	3	0	0	3
+408505a	2022	Unincorporated	2	Hacienda Heights	3.903	0	0	3.903
+408505b	2022	Unincorporated	2	Hacienda Heights	7.189	0	0	7.189
+408623	2022	Unincorporated	2	Hacienda Heights	0	0	0	0
+408624	2022	Unincorporated	2	Hacienda Heights	0	0	0	0
+408625a	2022	Unincorporated	2	Hacienda Heights	0	0	0	0
+408625b	2022	Unincorporated	2	Hacienda Heights	1.951	0	0	1.951
+408625c	2022	Unincorporated	2	Hacienda Heights	0	0	0	0
+408626a	2022	Unincorporated	2	Rowland Heights	2	0	0	2
+408626b	2022	Unincorporated	2	Rowland Heights	0	0	0	0
+408627	2022	Unincorporated	2	Rowland Heights	0	0	0	0
+408628a	2022	Unincorporated	2	Hacienda Heights	6.903	0	0	6.903
+408628b	2022	La Habra Heights	2	La Habra Heights	0	0	0	0
+408629	2022	Unincorporated	2	Hacienda Heights	0	0	0	0
+408630a	2022	Unincorporated	2	Hacienda Heights	11.476	0	0	11.476
+408630b	2022	Unincorporated	2	Hacienda Heights	3.903	0	0	3.903
+408631	2022	Unincorporated	2	Hacienda Heights	3.951	0	0	3.951
+408703a	2022	Unincorporated	2	Rowland Heights	0	0	0	0
+408703b	2022	Unincorporated	2	Rowland Heights	2	0	0	2
+408703c	2022	Diamond Bar	2	Diamond Bar	0	0	0	0
+408703d	2022	La Habra Heights	2	La Habra Heights	0	0	0	0
+408704	2022	Unincorporated	2	Rowland Heights	0	0	0	0
+408705a	2022	Unincorporated	2	Rowland Heights	3.903	0	0	3.903
+408705b	2022	Unincorporated	2	Rowland Heights	0	0	0	0
+408706	2022	Unincorporated	2	Rowland Heights	0	0	0	0
+408722	2022	Unincorporated	2	Rowland Heights	2.336	0	0	2.336
+408723	2022	Unincorporated	2	Rowland Heights	0	0	0	0
+408724a	2022	Unincorporated	2	Rowland Heights	2	0	0	2
+408724b	2022	Unincorporated	2	Rowland Heights	0	0	0	0
+408800a	2022	Pomona	2	Pomona	18	0	0	18
+408800b	2022	Pomona	2	Pomona	10.768	0	0	10.768
+430002a	2022	Duarte	2	Duarte	1	0	0	1
+430002b	2022	Duarte	2	Duarte	4.336	0	0	4.336
+430003a	2022	Duarte	2	Duarte	1	0	0	1
+430003b	2022	Duarte	2	Duarte	0	0	0	0
+430003c	2022	Duarte	2	Duarte	0	0	0	0
+430101a	2022	Duarte	2	Duarte	4.203	0	0	4.203
+430101b	2022	Duarte	2	Duarte	0	0	0	0
+430102	2022	Duarte	2	Duarte	0	0	0	0
+430200a	2022	Bradbury	2	Bradbury	0	0	0	0
+430200b	2022	Bradbury	2	Bradbury	0	0	0	0
+430200c	2022	Unincorporated	2	Unincorporated Bradbury	0	0	0	0
+430301a	2022	Monrovia	2	Monrovia	0	0	0	0
+430301b	2022	Monrovia	2	Monrovia	0	0	0	0
+430301c	2022	Monrovia	2	Monrovia	0	0	0	0
+430302a	2022	Monrovia	2	Monrovia	0	0	0	0
+430302b	2022	Monrovia	2	Monrovia	22.238	0	0	22.238
+430400	2022	Arcadia	2	Arcadia	29.576	0	0	29.576
+430501a	2022	Sierra Madre	2	Sierra Madre	0	0	0	0
+430501b	2022	Sierra Madre	2	Sierra Madre	0	0	0	0
+430502a	2022	Sierra Madre	2	Sierra Madre	0	0	0	0
+430502b	2022	Sierra Madre	2	Sierra Madre	0	0	0	0
+430600a	2022	Arcadia	2	Arcadia	0	0	0	0
+430600b	2022	Arcadia	2	Arcadia	0	0	0	0
+430600c	2022	Arcadia	2	Arcadia	0	0	0	0
+430701a	2022	Arcadia	2	Arcadia	0	0	0	0
+430701b	2022	Arcadia	2	Arcadia	0	0	0	0
+430721a	2022	Arcadia	2	Arcadia	1.336	0	0	1.336
+430721b	2022	Arcadia	2	Arcadia	53.053	0	0	53.053
+430721c	2022	Arcadia	2	Arcadia	0	0	0	0
+430723	2022	Arcadia	2	Arcadia	4.404	0	0	4.404
+430724	2022	Arcadia	2	Arcadia	0	0	0	0
+430801a	2022	Arcadia	2	Arcadia	15.287	0	0	15.287
+430801b	2022	Arcadia	2	Arcadia	21.825	0	0	21.825
+430802a	2022	Arcadia	2	Arcadia	1.336	0	0	1.336
+430802b	2022	Arcadia	2	Arcadia	0	0	0	0
+430803a	2022	Arcadia	2	Arcadia	4.527	0	0	4.527
+430803b	2022	Arcadia	2	Arcadia	0	0	0	0
+430901	2022	Monrovia	2	Monrovia	3.656	0	0	3.656
+430902	2022	Monrovia	2	Monrovia	2.336	0	0	2.336
+431001a	2022	Monrovia	2	Monrovia	7.192	0	0	7.192
+431001b	2022	Monrovia	2	Monrovia	3.336	0	0	3.336
+431002	2022	Monrovia	2	Monrovia	9.616	0	0	9.616
+431100a	2022	Monrovia	2	Monrovia	4	0	0	4
+431100b	2022	Monrovia	2	Monrovia	5.49	0	0	5.49
+431100c	2022	Unincorporated	2	Unincorporated Monrovia	5.825	0	0	5.825
+431200a	2022	Monrovia	2	Monrovia	0	0	0	0
+431200b	2022	Unincorporated	2	Unincorporated Monrovia	6.309	0	0	6.309
+431200c	2022	Unincorporated	2	Unincorporated Duarte	0	0	0	0
+431300a	2022	Arcadia	2	Arcadia	0	0	0	0
+431300b	2022	Unincorporated	2	Unincorporated Monrovia	0	0	0	0
+431300c	2022	Monrovia	2	Monrovia	0	0	0	0
+431400a	2022	Unincorporated	2	Unincorporated Arcadia	0	0	0	0
+431400b	2022	Monrovia	2	Monrovia	0	0	0	0
+431400c	2022	Unincorporated	2	Unincorporated Arcadia	0	0	0	0
+431400d	2022	Monrovia	2	Monrovia	17.667	0	0	17.667
+431501a	2022	Temple City	2	Temple City	3.453	0	0	3.453
+431501b	2022	El Monte	2	El Monte	2	0	0	2
+431502a	2022	Unincorporated	2	Unincorporated Arcadia	0	0	0	0
+431502b	2022	Arcadia	2	Arcadia	31.066	0	0	31.066
+431600	2022	Arcadia	2	Arcadia	1	0	0	1
+431700a	2022	Arcadia	2	Arcadia	1.951	0	0	1.951
+431700b	2022	Arcadia	2	Arcadia	8.241	0	0	8.241
+431800a	2022	Arcadia	2	Arcadia	0	0	0	0
+431800b	2022	Unincorporated	2	North San Gabriel	3.903	0	0	3.903
+431800c	2022	Temple City	2	Temple City	0	0	0	0
+431900a	2022	Temple City	2	Temple City	9.358	0	0	9.358
+431900b	2022	Arcadia	2	Arcadia	0	0	0	0
+432000a	2022	Temple City	2	Temple City	1.951	0	0	1.951
+432000b	2022	Temple City	2	Temple City	3.453	0	0	3.453
+432101	2022	Temple City	2	Temple City	0	0	0	0
+432102a	2022	Temple City	2	Temple City	1	0	0	1
+432102b	2022	Temple City	2	Temple City	0	0	0	0
+432201	2022	Rosemead	2	Rosemead	3	0	0	3
+432202	2022	Rosemead	2	Rosemead	1	0	0	1
+432300	2022	El Monte	2	El Monte	0	0	0	0
+432401	2022	El Monte	2	El Monte	0	0	0	0
+432402	2022	El Monte	2	El Monte	0	0	0	0
+432500a	2022	Arcadia	2	Arcadia	0	0	0	0
+432500b	2022	El Monte	2	El Monte	1.951	0	0	1.951
+432500c	2022	El Monte	2	El Monte	0	0	0	0
+432601a	2022	El Monte	2	El Monte	0	0	0	0
+432601b	2022	El Monte	2	El Monte	0	0	0	0
+432602	2022	El Monte	2	El Monte	0	0	0	0
+432700a	2022	El Monte	2	El Monte	7.547	0	0	7.547
+432700b	2022	El Monte	2	El Monte	0	0	0	0
+432801a	2022	El Monte	2	El Monte	15.026	0	0	15.026
+432801b	2022	El Monte	2	El Monte	0	0	0	0
+432802a	2022	El Monte	2	El Monte	16.813	0	0	16.813
+432802b	2022	El Monte	2	El Monte	5.192	43	0	48.192
+432901	2022	Rosemead	2	Rosemead	11.459	0	0	11.459
+432902a	2022	El Monte	2	El Monte	0	0	0	0
+432902b	2022	Rosemead	2	Rosemead	1	0	0	1
+433101	2022	El Monte	2	El Monte	35.598	0	0	35.598
+433102a	2022	El Monte	2	El Monte	2.203	0	0	2.203
+433102b	2022	South El Monte	2	South El Monte	0	0	0	0
+433102c	2022	Unincorporated	2	Unincorporated El Monte	0	0	0	0
+433200a	2022	El Monte	2	El Monte	8.854	0	0	8.854
+433200b	2022	El Monte	2	El Monte	0	0	0	0
+433302a	2022	Industry	2	Industry	20.535	0	0	20.535
+433302b	2022	El Monte	2	El Monte	7.808	0	0	7.808
+433304	2022	El Monte	2	El Monte	12.479	0	0	12.479
+433305	2022	El Monte	2	El Monte	4	0	0	4
+433306	2022	El Monte	2	El Monte	1	0	0	1
+433307	2022	El Monte	2	El Monte	2.453	0	0	2.453
+433401a	2022	El Monte	2	El Monte	16.414	0	0	16.414
+433401b	2022	El Monte	2	El Monte	0	0	0	0
+433401c	2022	South El Monte	2	South El Monte	0	0	0	0
+433401d	2022	South El Monte	2	South El Monte	0	0	0	0
+433402	2022	El Monte	2	El Monte	0	0	0	0
+433403	2022	El Monte	2	El Monte	0	0	0	0
+433501a	2022	Unincorporated	2	Whittier Narrows	0	0	0	0
+433501b	2022	South El Monte	2	South El Monte	3.192	0	0	3.192
+433503	2022	South El Monte	2	South El Monte	5.539	0	0	5.539
+433504a	2022	South El Monte	2	El Monte	9.854	0	0	9.854
+433504b	2022	South El Monte	2	South El Monte	5.837	0	0	5.837
+433601	2022	Rosemead	2	Rosemead	2	0	0	2
+433602	2022	Rosemead	2	Rosemead	41.568	0	0	41.568
+433700a	2022	South El Monte	2	South El Monte	3.951	0	0	3.951
+433700b	2022	Unincorporated	2	Whittier Narrows	39.123	0	0	39.123
+433700c	2022	South El Monte	2	South El Monte	13.19	0	0	13.19
+433801a	2022	El Monte	2	El Monte	1	0	0	1
+433801b	2022	South El Monte	2	South El Monte	2	0	0	2
+433802a	2022	Unincorporated	2	Whittier Narrows	61.532	0	0	61.532
+433802b	2022	South El Monte	2	South El Monte	8.109	0	0	8.109
+433901	2022	El Monte	2	El Monte	2	0	25	27
+433902a	2022	South El Monte	2	South El Monte	1	0	0	1
+433902b	2022	El Monte	2	El Monte	0	0	0	0
+434001	2022	El Monte	2	El Monte	3.154	0	0	3.154
+434003a	2022	Unincorporated	2	Unincorporated South El Monte	3.404	0	0	3.404
+434003b	2022	El Monte	2	El Monte	6.622	0	0	6.622
+434004a	2022	South El Monte	2	South El Monte	4.406	0	0	4.406
+434004b	2022	Unincorporated	2	Unincorporated South El Monte	1.951	0	0	1.951
+460000	2022	Unincorporated	2	East Pasadena	1.192	0	0	1.192
+460100	2022	Unincorporated	2	Altadena	0	0	0	0
+460200a	2022	Unincorporated	2	Altadena	0	0	0	0
+460200b	2022	Unincorporated	2	Altadena	1.951	0	4	5.951
+460301a	2022	Unincorporated	2	Altadena	2.671	0	0	2.671
+460301b	2022	Unincorporated	2	Altadena	4.905	0	0	4.905
+460302	2022	Unincorporated	2	Altadena	1.951	1	9	11.951
+460401c	2022	Unincorporated	2	Altadena	0	0	0	0
+460501a	2022	La Canada Flintridge	2	La Canada Flintridge	0	0	0	0
+460501b	2022	La Canada Flintridge	2	La Canada Flintridge	0	0	0	0
+460502a	2022	La Canada Flintridge	2	La Canada Flintridge	0	0	0	0
+460502b	2022	La Canada Flintridge	2	La Canada Flintridge	0	0	0	0
+460600a	2022	La Canada Flintridge	2	La Canada Flintridge	0	0	0	0
+460600b	2022	La Canada Flintridge	2	La Canada Flintridge	0	0	0	0
+460700a	2022	La Canada Flintridge	2	La Canada Flintridge	0	0	0	0
+460700b	2022	La Canada Flintridge	2	La Canada Flintridge	0	0	0	0
+461000	2022	Unincorporated	2	Altadena	3	0	0	3
+461100	2022	Unincorporated	2	Altadena	4.813	12	0	16.813
+461200a	2022	Unincorporated	2	Altadena	0	0	0	0
+461200b	2022	Unincorporated	2	Altadena	0	0	0	0
+461300a	2022	Unincorporated	2	Altadena	4.539	0	0	4.539
+461300b	2022	Unincorporated	2	Altadena	3.154	0	0	3.154
+463101	2022	Unincorporated	2	East Pasadena	1.453	0	0	1.453
+463102a	2022	Unincorporated	2	East Pasadena	4.192	0	0	4.192
+463102b	2022	Unincorporated	2	East Pasadena	1.453	0	0	1.453
+463300a	2022	Unincorporated	2	San Pasqual	0	0	0	0
+463300b	2022	Unincorporated	2	San Pasqual	0	0	0	0
+464100a	2022	San Marino	2	San Marino	0	0	0	0
+464100b	2022	San Marino	2	San Marino	0	0	0	0
+464200a	2022	San Marino	2	San Marino	0	0	0	0
+464200b	2022	San Marino	2	San Marino	0	0	0	0
+480002	2022	Unincorporated	2	North San Gabriel	0	0	0	0
+480011a	2022	Unincorporated	2	North San Gabriel	0	0	15	15
+480011b	2022	Unincorporated	2	North San Gabriel	0	0	0	0
+480012a	2022	Temple City	2	Temple City	0	0	0	0
+480012b	2022	Unincorporated	2	North San Gabriel	1.951	0	0	1.951
+480101	2022	Temple City	2	Temple City	0	0	0	0
+480102a	2022	San Gabriel	2	San Gabriel	0	0	0	0
+480102b	2022	Temple City	2	Temple City	0	0	0	0
+480102c	2022	Unincorporated	2	North San Gabriel	0	0	0	0
+480201	2022	San Gabriel	2	San Gabriel	0	0	0	0
+480202	2022	San Gabriel	2	San Gabriel	3.527	0	0	3.527
+480302	2022	Alhambra	2	Alhambra	1	0	0	1
+480303	2022	Alhambra	2	Alhambra	0	0	0	0
+480304	2022	Alhambra	2	Alhambra	0	0	0	0
+480400a	2022	Alhambra	2	Alhambra	0	0	0	0
+480400b	2022	Alhambra	2	Alhambra	0	0	0	0
+480500a	2022	South Pasadena	2	South Pasadena	2	0	0	2
+480500b	2022	South Pasadena	2	South Pasadena	7.336	0	0	7.336
+480600a	2022	South Pasadena	2	South Pasadena	15.006	0	0	15.006
+480600b	2022	South Pasadena	2	South Pasadena	14.55	0	0	14.55
+480702	2022	South Pasadena	2	South Pasadena	0	0	0	0
+480703	2022	South Pasadena	2	South Pasadena	1.203	0	0	1.203
+480704	2022	South Pasadena	2	South Pasadena	10.336	0	0	10.336
+480802a	2022	Alhambra	2	Alhambra	11.143	0	0	11.143
+480802b	2022	Alhambra	2	Alhambra	0	0	0	0
+480803	2022	Alhambra	2	Alhambra	0	0	0	0
+480804	2022	Alhambra	2	Alhambra	0	0	0	0
+480901	2022	Alhambra	2	Alhambra	6.124	0	0	6.124
+480902	2022	Alhambra	2	Alhambra	4.539	0	0	4.539
+480903	2022	Alhambra	2	Alhambra	0	0	0	0
+481001	2022	Alhambra	2	Alhambra	1	10	0	11
+481002	2022	Alhambra	2	Alhambra	10.007	0	12	22.007
+481101	2022	San Gabriel	2	San Gabriel	1	0	0	1
+481102	2022	San Gabriel	2	San Gabriel	0	0	0	0
+481103a	2022	San Gabriel	2	San Gabriel	0	0	0	0
+481103b	2022	San Gabriel	2	San Gabriel	0	0	0	0
+481201	2022	Temple City	2	Temple City	0	0	0	0
+481202a	2022	Unincorporated	2	North San Gabriel	0	0	0	0
+481202b	2022	San Gabriel	2	San Gabriel	3.903	0	0	3.903
+481300	2022	Rosemead	2	Rosemead	10.779	0	0	10.779
+481401	2022	San Gabriel	2	San Gabriel	1.951	0	0	1.951
+481402a	2022	San Gabriel	2	San Gabriel	0	0	0	0
+481402b	2022	San Gabriel	2	San Gabriel	0	0	0	0
+481500a	2022	Alhambra	2	Alhambra	2.203	0	0	2.203
+481500b	2022	Alhambra	2	Alhambra	3.903	0	0	3.903
+481603	2022	Alhambra	2	Alhambra	0	0	0	0
+481604	2022	Alhambra	2	Alhambra	0	0	0	0
+481605	2022	Alhambra	2	Alhambra	2	0	0	2
+481606	2022	Alhambra	2	Alhambra	0	0	0	0
+481711	2022	Monterey Park	2	Monterey Park	22.816	0	0	22.816
+481712	2022	Monterey Park	2	Monterey Park	32.268	0	0	32.268
+481713	2022	Monterey Park	2	Monterey Park	8.21	0	0	8.21
+481714	2022	Monterey Park	2	Monterey Park	0	0	0	0
+481800	2022	Alhambra	2	Alhambra	0	0	0	0
+481901a	2022	Alhambra	2	Alhambra	3.951	22	0	25.951
+481901b	2022	Alhambra	2	Alhambra	0	0	0	0
+481902	2022	Alhambra	2	Alhambra	0	0	0	0
+482001a	2022	Monterey Park	2	Monterey Park	0	0	0	0
+482001b	2022	Monterey Park	2	Monterey Park	6.287	0	0	6.287
+482002a	2022	Monterey Park	2	Monterey Park	1	0	0	1
+482002b	2022	Monterey Park	2	Monterey Park	0	0	0	0
+482101	2022	Monterey Park	2	Monterey Park	2	0	0	2
+482102	2022	Monterey Park	2	Monterey Park	0	0	0	0
+482201	2022	Monterey Park	2	Monterey Park	0	0	0	0
+482202	2022	Monterey Park	2	Monterey Park	6	0	0	6
+482301	2022	San Gabriel	2	San Gabriel	0	0	0	0
+482303	2022	Rosemead	2	Rosemead	3	0	0	3
+482304	2022	Rosemead	2	Rosemead	2.453	0	0	2.453
+482401	2022	Rosemead	2	Rosemead	3.951	0	0	3.951
+482402a	2022	Unincorporated	2	South San Gabriel	0	9	0	9
+482402b	2022	Rosemead	2	Rosemead	1	0	0	1
+482402c	2022	Unincorporated	2	South San Gabriel	55.484	0	0	55.484
+482502	2022	Rosemead	2	Rosemead	0	0	0	0
+482503	2022	Rosemead	2	Rosemead	2	0	0	2
+482521a	2022	Unincorporated	2	South San Gabriel	0	0	0	0
+482521b	2022	Rosemead	2	Rosemead	0	0	0	0
+482522a	2022	Unincorporated	2	South San Gabriel	0	0	0	0
+482522b	2022	Montebello	2	Montebello	0	0	0	0
+482522c	2022	Rosemead	2	Rosemead	0	0	0	0
+482600a	2022	Monterey Park	2	Monterey Park	0	0	0	0
+482600b	2022	Monterey Park	2	Monterey Park	0	0	0	0
+482701a	2022	Monterey Park	2	Monterey Park	8	0	0	8
+482701b	2022	Monterey Park	2	Monterey Park	1	0	0	1
+482702	2022	Monterey Park	2	Monterey Park	4	0	0	4
+482800a	2022	Monterey Park	2	Monterey Park	1	0	0	1
+482800b	2022	Monterey Park	2	Monterey Park	0	0	0	0
+500100a	2022	La Habra Heights	2	La Habra Heights	0	0	0	0
+500100b	2022	La Habra Heights	2	La Habra Heights	0	0	0	0
+500100c	2022	Unincorporated	2	La Habra Heights	4.105	0	0	4.105
+500201a	2022	La Habra Heights	2	La Habra Heights	0	0	0	0
+500201b	2022	La Habra Heights	2	La Habra Heights	0	0	0	0
+500201c	2022	Whittier	2	Whittier	0	0	0	0
+500202a	2022	Whittier	2	Whittier	0	0	0	0
+500202b	2022	Whittier	2	Whittier	0	0	0	0
+500300a	2022	Pico Rivera	2	Pico Rivera	8.618	0	0	8.618
+500300b	2022	Unincorporated	2	Whittier Narrows	1.303	0	0	1.303
+500300c	2022	Industry	2	Industry	11.978	0	0	11.978
+500300d	2022	Unincorporated	2	Unincorporated Whittier	9.759	0	0	9.759
+500402	2022	Pico Rivera	2	Pico Rivera	9.633	0	0	9.633
+500403a	2022	Pico Rivera	2	Pico Rivera	25.957	0	0	25.957
+500403b	2022	Pico Rivera	2	Pico Rivera	20.568	0	0	20.568
+500403c	2022	Unincorporated	2	Sunrise Village	3.549	0	0	3.549
+500404	2022	Pico Rivera	2	Pico Rivera	0	0	0	0
+500500	2022	Pico Rivera	2	Pico Rivera	7.549	0	0	7.549
+500600	2022	Pico Rivera	2	Pico Rivera	7.526	0	0	7.526
+500700a	2022	Pico Rivera	2	Pico Rivera	11.405	0	0	11.405
+500700b	2022	Pico Rivera	2	Pico Rivera	4.551	0	0	4.551
+500700c	2022	Pico Rivera	2	Pico Rivera	0	0	0	0
+500800	2022	Pico Rivera	2	Pico Rivera	3	0	0	3
+500900	2022	Pico Rivera	2	Pico Rivera	18.508	0	0	18.508
+501001a	2022	Unincorporated	2	West Whittier/Los Nietos	3	0	0	3
+501001b	2022	Whittier	2	Whittier	0	0	0	0
+501001c	2022	Pico Rivera	2	Pico Rivera	0	0	0	0
+501002a	2022	Unincorporated	2	West Whittier/Los Nietos	2	0	0	2
+501002b	2022	Unincorporated	2	West Whittier/Los Nietos	2	0	0	2
+501002c	2022	Whittier	2	Whittier	1	0	0	1
+501200a	2022	Unincorporated	2	West Whittier/Los Nietos	2	0	0	2
+501200b	2022	Whittier	2	Whittier	0	0	0	0
+501200c	2022	Unincorporated	2	Unincorporated Whittier	0	0	0	0
+501200e	2022	Pico Rivera	2	Pico Rivera	2	0	0	2
+501300a	2022	Whittier	2	Whittier	0	0	0	0
+501300b	2022	Whittier	2	Whittier	0	0	0	0
+501400a	2022	Whittier	2	Whittier	11.852	0	0	11.852
+501400b	2022	Unincorporated	2	West Whittier/Los Nietos	0	0	0	0
+501501a	2022	Whittier	2	Whittier	3.331	0	0	3.331
+501501b	2022	Unincorporated	2	Unincorporated Whittier	0	0	0	0
+501503	2022	Whittier	2	Whittier	0	0	0	0
+501504	2022	Whittier	2	Whittier	14.551	0	0	14.551
+501600a	2022	Unincorporated	2	Unincorporated Whittier	0	0	0	0
+501600b	2022	Whittier	2	Whittier	0	0	0	0
+501600c	2022	Whittier	2	Whittier	0	0	0	0
+501700	2022	Whittier	2	Whittier	2.263	0	0	2.263
+501802	2022	Whittier	2	Whittier	0	0	0	0
+501803	2022	Whittier	2	Whittier	16.105	0	0	16.105
+501804	2022	Whittier	2	Whittier	6.105	2	0	8.105
+501900	2022	Whittier	2	Whittier	4.263	0	0	4.263
+502003	2022	Whittier	2	Whittier	0	0	0	0
+502004	2022	Whittier	2	Whittier	15.64	0	0	15.64
+502005a	2022	Whittier	2	Whittier	0	0	0	0
+502005b	2022	Unincorporated	2	South Whittier	0	0	0	0
+502100a	2022	Whittier	2	Whittier	11.443	10	0	21.443
+502100b	2022	Unincorporated	2	West Whittier/Los Nietos	2.526	0	0	2.526
+502200a	2022	Unincorporated	2	West Whittier/Los Nietos	0	0	0	0
+502200b	2022	Unincorporated	2	West Whittier/Los Nietos	1	0	0	1
+502200c	2022	Santa Fe Springs	2	Santa Fe Springs	7.21	0	0	7.21
+502301a	2022	Unincorporated	2	West Whittier/Los Nietos	10.759	0	0	10.759
+502301b	2022	Unincorporated	2	West Whittier/Los Nietos	0	89	0	89
+502301c	2022	Santa Fe Springs	2	Santa Fe Springs	5.549	0	0	5.549
+502302a	2022	Santa Fe Springs	2	Santa Fe Springs	0	0	0	0
+502302b	2022	Unincorporated	2	West Whittier/Los Nietos	5.924	0	0	5.924
+502401	2022	Pico Rivera	2	Pico Rivera	1	0	0	1
+502402	2022	Pico Rivera	2	Pico Rivera	1	0	0	1
+502500a	2022	Pico Rivera	2	Pico Rivera	13.415	0	0	13.415
+502500b	2022	Pico Rivera	2	Pico Rivera	0	0	0	0
+502601a	2022	Pico Rivera	2	Pico Rivera	0	0	0	0
+502601b	2022	Pico Rivera	2	Pico Rivera	9.508	0	0	9.508
+502602	2022	Pico Rivera	2	Pico Rivera	21.287	0	0	21.287
+502700a	2022	Santa Fe Springs	2	Santa Fe Springs	5.365	0	0	5.365
+502700b	2022	Santa Fe Springs	2	Santa Fe Springs	35.363	50	0	85.363
+502801a	2022	Santa Fe Springs	2	Santa Fe Springs	74.66	0	0	74.66
+502801b	2022	Santa Fe Springs	2	Santa Fe Springs	0	0	0	0
+502802a	2022	Santa Fe Springs	2	Santa Fe Springs	0	33	0	33
+502802b	2022	Santa Fe Springs	2	Santa Fe Springs	0	0	0	0
+502901a	2022	Santa Fe Springs	2	Santa Fe Springs	0	0	0	0
+502901b	2022	Unincorporated	2	South Whittier	0	0	0	0
+502902a	2022	Unincorporated	2	South Whittier	0	0	0	0
+502902b	2022	Santa Fe Springs	2	Santa Fe Springs	3.775	38	0	41.775
+502902c	2022	Whittier	2	Whittier	0	0	0	0
+503000a	2022	Santa Fe Springs	2	Santa Fe Springs	1.263	0	0	1.263
+503000b	2022	Unincorporated	2	South Whittier	11.618	0	0	11.618
+503000c	2022	Unincorporated	2	South Whittier	6.671	0	0	6.671
+503000d	2022	Santa Fe Springs	2	Santa Fe Springs	0	0	0	0
+503103	2022	Unincorporated	2	South Whittier	3.775	0	0	3.775
+503104	2022	Unincorporated	2	South Whittier	3	0	0	3
+503105	2022	Unincorporated	2	South Whittier	6.3	0	12	18.3
+503106	2022	Unincorporated	2	South Whittier	0	0	0	0
+503201	2022	Unincorporated	2	South Whittier	4	0	0	4
+503202	2022	Unincorporated	2	South Whittier	0	10	0	10
+503301	2022	Whittier	2	Whittier	3.775	0	0	3.775
+503302	2022	Unincorporated	2	South Whittier	1.775	0	73	74.775
+503401a	2022	Whittier	2	Whittier	7.962	0	0	7.962
+503401b	2022	Whittier	2	Whittier	5.919	0	0	5.919
+503402	2022	Whittier	2	Whittier	8.225	0	0	8.225
+503501a	2022	Unincorporated	2	South Whittier	4	0	0	4
+503501b	2022	Unincorporated	2	South Whittier	4.857	0	0	4.857
+503501c	2022	Whittier	2	Whittier	1.331	0	0	1.331
+503502a	2022	Unincorporated	2	South Whittier	1.775	0	0	1.775
+503502b	2022	Whittier	2	Whittier	1.331	0	0	1.331
+503601	2022	La Mirada	2	La Mirada	5	0	0	5
+503602a	2022	La Mirada	2	La Mirada	1	0	0	1
+503602b	2022	La Mirada	2	La Mirada	6	0	0	6
+503701	2022	Unincorporated	2	East La Mirada	4.263	0	0	4.263
+503702a	2022	Unincorporated	2	East La Mirada	0	0	0	0
+503702b	2022	Unincorporated	2	East La Mirada	2.263	2	0	4.263
+503703a	2022	La Mirada	2	La Mirada	0	0	0	0
+503703b	2022	La Mirada	2	La Mirada	0	0	0	0
+503801	2022	La Mirada	2	La Mirada	1	0	0	1
+503802a	2022	La Mirada	2	La Mirada	0	0	0	0
+503802b	2022	La Mirada	2	La Mirada	0	0	0	0
+503901	2022	La Mirada	2	La Mirada	5.303	0	0	5.303
+503902a	2022	La Mirada	2	La Mirada	2	0	0	2
+503902b	2022	La Mirada	2	La Mirada	13.197	0	0	13.197
+504001	2022	La Mirada	2	La Mirada	0	0	0	0
+504002a	2022	La Mirada	2	La Mirada	0	0	0	0
+504002b	2022	La Mirada	2	La Mirada	0	0	0	0
+504101	2022	La Mirada	2	La Mirada	7.324	0	0	7.324
+504102	2022	Santa Fe Springs	2	Santa Fe Springs	92.099	0	0	92.099
+530003a	2022	Montebello	2	Montebello	0	0	0	0
+530003b	2022	Montebello	2	Montebello	21.967	0	0	21.967
+530003c	2022	Rosemead	2	Rosemead	0	0	0	0
+530004	2022	Montebello	2	Montebello	4.661	0	0	4.661
+530005a	2022	Montebello	2	Montebello	2	0	0	2
+530005b	2022	Montebello	2	Montebello	0	0	0	0
+530006	2022	Montebello	2	Montebello	0	0	0	0
+530101	2022	Montebello	2	Montebello	14.203	0	0	14.203
+530102	2022	Montebello	2	Montebello	6	0	0	6
+530202a	2022	Montebello	2	Montebello	1.331	0	0	1.331
+530202b	2022	Montebello	2	Montebello	0	0	0	0
+530202c	2022	Unincorporated	2	East Los Angeles	9	0	0	9
+530203	2022	Montebello	2	Montebello	0	0	0	0
+530204	2022	Montebello	2	Montebello	1	0	0	1
+530301	2022	Unincorporated	2	East Los Angeles	20.871	0	0	20.871
+530302	2022	Unincorporated	2	East Los Angeles	20.2	0	0	20.2
+530400a	2022	Monterey Park	2	Monterey Park	8.877	0	0	8.877
+530400b	2022	Unincorporated	2	East Los Angeles	33.082	0	4	37.082
+530500	2022	Unincorporated	2	East Los Angeles	82.523	0	0	82.523
+530601	2022	Unincorporated	2	East Los Angeles	13.741	0	0	13.741
+530602	2022	Unincorporated	2	East Los Angeles	15.964	0	0	15.964
+530700	2022	Unincorporated	2	East Los Angeles	30.511	0	0	30.511
+530801	2022	Unincorporated	2	East Los Angeles	15.75	0	0	15.75
+530802	2022	Unincorporated	2	East Los Angeles	0	0	0	0
+530901	2022	Unincorporated	2	East Los Angeles	10.143	0	0	10.143
+530902	2022	Unincorporated	2	East Los Angeles	6.88	0	0	6.88
+531000	2022	Unincorporated	2	East Los Angeles	17.029	0	0	17.029
+531101	2022	Unincorporated	2	East Los Angeles	44.33	0	0	44.33
+531102a	2022	Unincorporated	2	East Los Angeles	46.304	0	0	46.304
+531102b	2022	Unincorporated	2	East Los Angeles	0	0	0	0
+531201a	2022	Unincorporated	2	East Los Angeles	6.365	0	0	6.365
+531201b	2022	Unincorporated	2	East Los Angeles	0	0	0	0
+531202a	2022	Unincorporated	2	East Los Angeles	3.775	0	0	3.775
+531202b	2022	Unincorporated	2	East Los Angeles	0	0	0	0
+531301	2022	Unincorporated	2	East Los Angeles	26.812	0	0	26.812
+531302	2022	Unincorporated	2	East Los Angeles	40.292	0	0	40.292
+531502	2022	Unincorporated	2	East Los Angeles	28.575	0	0	28.575
+531503a	2022	Unincorporated	2	East Los Angeles	1.551	0	0	1.551
+531503b	2022	Unincorporated	2	East Los Angeles	16.459	0	0	16.459
+531504a	2022	Unincorporated	2	East Los Angeles	6.145	0	0	6.145
+531504b	2022	Unincorporated	2	East Los Angeles	0	0	0	0
+531602	2022	Unincorporated	2	East Los Angeles	15.308	0	0	15.308
+531603a	2022	Unincorporated	2	East Los Angeles	0	0	0	0
+531603b	2022	Unincorporated	2	East Los Angeles	6.605	0	0	6.605
+531604	2022	Unincorporated	2	East Los Angeles	48.239	0	0	48.239
+531701	2022	Unincorporated	2	East Los Angeles	5.854	0	0	5.854
+531702	2022	Unincorporated	2	East Los Angeles	13.325	0	0	13.325
+531800a	2022	Unincorporated	2	East Los Angeles	13.139	0	0	13.139
+531800b	2022	Unincorporated	2	East Los Angeles	1.775	0	0	1.775
+531901	2022	Unincorporated	2	East Los Angeles	12.115	0	0	12.115
+531902a	2022	Montebello	2	Montebello	24.073	0	0	24.073
+531902b	2022	Unincorporated	2	East Los Angeles	0	0	0	0
+532001	2022	Montebello	2	Montebello	21.264	0	0	21.264
+532002	2022	Montebello	2	Montebello	9.436	0	0	9.436
+532101	2022	Montebello	2	Montebello	49.039	0	0	49.039
+532102	2022	Montebello	2	Montebello	33.529	0	0	33.529
+532200a	2022	Montebello	2	Montebello	10.105	0	0	10.105
+532200b	2022	Montebello	2	Montebello	28.165	0	0	28.165
+532302a	2022	Commerce	2	Commerce	24.479	0	0	24.479
+532302b	2022	Commerce	2	Commerce	0	0	0	0
+532303a	2022	Commerce	2	Commerce	24.142	0	0	24.142
+532303b	2022	Commerce	2	Commerce	28.037	0	0	28.037
+532304a	2022	Vernon	2	Vernon	1.303	0	0	1.303
+532304b	2022	Bell	2	Bell	0	79	31	114
+532304c	2022	Commerce	2	Commerce	0	0	0	0
+532304d	2022	Commerce	2	Commerce	5.708	0	0	5.708
+532400a	2022	Vernon	2	Vernon	2.594	0	0	2.594
+532400b	2022	Vernon	2	Vernon	3	0	0	3
+532400c	2022	Unincorporated	2	Valinda	1	0	0	1
+532400d	2022	Vernon	2	Vernon	2	0	0	2
+532500	2022	Huntington Park	2	Huntington Park	1	0	0	1
+532603	2022	Huntington Park	2	Huntington Park	33.718	0	0	33.718
+532604a	2022	Huntington Park	2	Huntington Park	0	0	0	0
+532604b	2022	Huntington Park	2	Huntington Park	6.103	0	0	6.103
+532605a	2022	Huntington Park	2	Huntington Park	2	0	0	2
+532605b	2022	Huntington Park	2	Huntington Park	1	0	0	1
+532606	2022	Huntington Park	2	Huntington Park	17.563	0	0	17.563
+532700a	2022	Huntington Park	2	Huntington Park	4.654	0	0	4.654
+532700b	2022	Unincorporated	2	Florence-Firestone	114.75	0	0	114.75
+532800a	2022	Unincorporated	2	Florence-Firestone	44.485	0	0	44.485
+532800b	2022	Unincorporated	2	Florence-Firestone	58.944	0	0	58.944
+532900a	2022	Unincorporated	2	Florence-Firestone	37.091	0	0	37.091
+532900b	2022	Unincorporated	2	Florence-Firestone	149.36	0	0	149.36
+533001	2022	Unincorporated	2	Florence-Firestone	7.906	0	0	7.906
+533002a	2022	Huntington Park	2	Huntington Park	1.303	0	0	1.303
+533002b	2022	Unincorporated	2	Florence-Firestone	0	0	0	0
+533103a	2022	Huntington Park	2	Huntington Park	0	0	0	0
+533103b	2022	Huntington Park	2	Huntington Park	1	0	0	1
+533104a	2022	Huntington Park	2	Huntington Park	0	0	0	0
+533104b	2022	Huntington Park	2	Huntington Park	2.551	0	0	2.551
+533105	2022	Huntington Park	2	Huntington Park	1	0	0	1
+533106	2022	Huntington Park	2	Huntington Park	0	0	0	0
+533107	2022	Huntington Park	2	Huntington Park	13.077	0	0	13.077
+533201	2022	Huntington Park	2	Huntington Park	0	0	0	0
+533202	2022	Huntington Park	2	Huntington Park	0	0	0	0
+533203	2022	Huntington Park	2	Huntington Park	0	0	0	0
+533300a	2022	Unincorporated	2	Bandini Islands	0	0	0	0
+533300b	2022	Maywood	2	Maywood	1	0	0	1
+533300c	2022	Maywood	2	Maywood	0	0	0	0
+533401	2022	Maywood	2	Maywood	3	0	0	3
+533402	2022	Maywood	2	Maywood	8.368	0	0	8.368
+533403	2022	Maywood	2	Maywood	6.589	0	0	6.589
+533501	2022	Huntington Park	2	Huntington Park	0	0	0	0
+533502	2022	Huntington Park	2	Huntington Park	1	0	0	1
+533503	2022	Huntington Park	2	Huntington Park	0	0	0	0
+533601	2022	Bell	2	Bell	2	0	0	2
+533602	2022	Bell	2	Bell	1.303	0	0	1.303
+533603	2022	Bell	2	Bell	1	0	0	1
+533701	2022	Maywood	2	Maywood	0	0	0	0
+533702	2022	Maywood	2	Maywood	0	0	0	0
+533703a	2022	Maywood	2	Maywood	0	0	0	0
+533703b	2022	Commerce	2	Commerce	1	0	0	1
+533703c	2022	Bell	2	Bell	18.859	0	0	18.859
+533803	2022	Bell	2	Bell	0	0	0	0
+533804	2022	Bell	2	Bell	0	0	0	0
+533805	2022	Bell	2	Bell	1	0	0	1
+533806a	2022	Bell	2	Bell	7.854	0	0	7.854
+533806b	2022	Cudahy	2	Cudahy	12.756	0	0	12.756
+533901	2022	Bell Gardens	2	Bell Gardens	0	0	0	0
+533902	2022	Bell Gardens	2	Bell Gardens	15.587	0	0	15.587
+534001	2022	Bell Gardens	2	Bell Gardens	29.277	0	0	29.277
+534002	2022	Bell Gardens	2	Bell Gardens	0	0	0	0
+534101a	2022	Bell Gardens	2	Bell Gardens	71.682	0	0	71.682
+534101b	2022	Bell Gardens	2	Bell Gardens	0	0	0	0
+534102	2022	Bell Gardens	2	Bell Gardens	0	0	0	0
+534201a	2022	Bell Gardens	2	Bell Gardens	0	0	0	0
+534201b	2022	Bell Gardens	2	Bell Gardens	0	0	0	0
+534202	2022	Bell Gardens	2	Bell Gardens	0	0	0	0
+534203a	2022	Bell Gardens	2	Bell Gardens	16.475	0	0	16.475
+534203b	2022	Bell Gardens	2	Bell Gardens	0	0	0	0
+534301	2022	Cudahy	2	Cudahy	28.962	0	0	28.962
+534302	2022	Cudahy	2	Cudahy	1	0	0	1
+534403	2022	Cudahy	2	Cudahy	0	0	0	0
+534404	2022	Cudahy	2	Cudahy	0	0	0	0
+534405	2022	Cudahy	2	Cudahy	1.263	0	0	1.263
+534406	2022	Cudahy	2	Cudahy	2.551	0	0	2.551
+534501	2022	Huntington Park	2	Huntington Park	0	0	0	0
+534502	2022	Huntington Park	2	Huntington Park	0	0	0	0
+534700	2022	Unincorporated	2	Walnut Park	0	0	0	0
+534802	2022	Unincorporated	2	Walnut Park	1	0	0	1
+534803	2022	Unincorporated	2	Walnut Park	3.303	0	0	3.303
+534804	2022	Unincorporated	2	Walnut Park	52.273	0	0	52.273
+534900a	2022	Unincorporated	2	Florence-Firestone	68.461	0	0	68.461
+534900b	2022	Unincorporated	2	Florence-Firestone	1	0	0	1
+535001a	2022	Unincorporated	2	Florence-Firestone	22.926	0	0	22.926
+535001b	2022	Unincorporated	2	Florence-Firestone	1.529	0	0	1.529
+535002a	2022	Unincorporated	2	Florence-Firestone	9.46	0	0	9.46
+535002b	2022	Unincorporated	2	Florence-Firestone	30.136	0	0	30.136
+535101a	2022	Unincorporated	2	Florence-Firestone	0	0	0	0
+535101b	2022	Unincorporated	2	Florence-Firestone	0	0	0	0
+535102	2022	Unincorporated	2	Florence-Firestone	207.14	0	0	207.14
+535200	2022	Unincorporated	2	Florence-Firestone	7.177	0	0	7.177
+535300a	2022	Unincorporated	2	Florence-Firestone	92.141	0	0	92.141
+535300b	2022	Unincorporated	2	Florence-Firestone	276.44	0	0	276.44
+535400a	2022	Unincorporated	2	Florence-Firestone	114.08	0	0	114.08
+535400b	2022	Unincorporated	2	Florence-Firestone	82.099	14	0	96.099
+535400c	2022	Los Angeles	2	Watts	0	0	0	0
+535501	2022	South Gate	2	South Gate	34.902	0	0	34.902
+535502	2022	South Gate	2	South Gate	4.105	0	0	4.105
+535503	2022	South Gate	2	South Gate	7.551	0	0	7.551
+535603	2022	South Gate	2	South Gate	25.934	0	0	25.934
+535604	2022	South Gate	2	South Gate	2.594	0	0	2.594
+535605	2022	South Gate	2	South Gate	9.555	0	0	9.555
+535606	2022	South Gate	2	South Gate	7.563	0	0	7.563
+535607	2022	South Gate	2	South Gate	2.551	0	0	2.551
+535701	2022	South Gate	2	South Gate	0	0	0	0
+535702	2022	South Gate	2	South Gate	23.202	37	0	60.202
+535802	2022	South Gate	2	South Gate	0	0	0	0
+535803	2022	South Gate	2	South Gate	4.263	0	0	4.263
+535804	2022	South Gate	2	South Gate	0	0	0	0
+535901	2022	South Gate	2	South Gate	0	0	0	0
+535902	2022	South Gate	2	South Gate	6	0	0	6
+536000	2022	South Gate	2	South Gate	5.303	0	0	5.303
+536102	2022	South Gate	2	South Gate	79.132	0	0	79.132
+536103	2022	South Gate	2	South Gate	9.331	0	0	9.331
+536104	2022	South Gate	2	South Gate	73.554	0	0	73.554
+536200a	2022	South Gate	2	South Gate	7.457	0	0	7.457
+536200b	2022	South Gate	2	South Gate	0	0	0	0
+540000a	2022	Lynwood	2	Lynwood	9.459	0	0	9.459
+540000b	2022	Lynwood	2	Lynwood	52.348	0	0	52.348
+540000c	2022	Unincorporated	2	Lynwood	44.527	0	0	44.527
+540101a	2022	Lynwood	2	Lynwood	4.328	0	0	4.328
+540101b	2022	Lynwood	2	Lynwood	3	0	0	3
+540102a	2022	Lynwood	2	Lynwood	3.53	0	0	3.53
+540102b	2022	Lynwood	2	Lynwood	2.529	0	0	2.529
+540201a	2022	Lynwood	2	Lynwood	5.378	0	0	5.378
+540201b	2022	Lynwood	2	Lynwood	3.201	0	0	3.201
+540202	2022	Lynwood	2	Lynwood	2	0	0	2
+540203	2022	Lynwood	2	Lynwood	13.436	0	0	13.436
+540300a	2022	Lynwood	2	Lynwood	21.884	0	0	21.884
+540300b	2022	Lynwood	2	Lynwood	7.535	0	0	7.535
+540400a	2022	Unincorporated	2	Willowbrook	7.008	0	0	7.008
+540400b	2022	Unincorporated	2	Willowbrook	15.279	0	0	15.279
+540501	2022	Lynwood	2	Lynwood	4.931	0	0	4.931
+540502a	2022	Lynwood	2	Lynwood	1	0	0	1
+540502b	2022	Lynwood	2	Lynwood	0	0	0	0
+540600	2022	Unincorporated	2	Willowbrook	137.18	52	0	189.18
+540700	2022	Unincorporated	2	Willowbrook	37	46	0	83
+540800a	2022	Unincorporated	2	Willowbrook	0	0	0	0
+540800b	2022	Unincorporated	2	Willowbrook	7.682	0	0	7.682
+540901	2022	Unincorporated	2	Athens Village	26.907	32	0	58.907
+540902a	2022	Unincorporated	2	Willowbrook	239.28	0	0	239.28
+540902b	2022	Unincorporated	2	Willowbrook	60.79	0	0	60.79
+541001	2022	Unincorporated	2	Rosewood/East Gardena	690.84	0	0	690.84
+541002a	2022	Carson	2	Carson	9.078	0	0	9.078
+541002b	2022	Carson	2	Carson	12.536	0	0	12.536
+541100a	2022	Unincorporated	2	Rosewood/West Rancho Dominguez	5.733	0	0	5.733
+541100b	2022	Unincorporated	2	Rosewood/Rancho Dominguez	131.33	0	0	131.33
+541200a	2022	Unincorporated	2	Willowbrook	12.818	0	0	12.818
+541200b	2022	Compton	2	Compton	7.409	0	0	7.409
+541200c	2022	Unincorporated	2	Rosewood	0	0	0	0
+541200d	2022	Compton	2	Compton	0	0	0	0
+541300	2022	Compton	2	Compton	4.406	0	0	4.406
+541400	2022	Unincorporated	2	Willowbrook	103.82	0	0	103.82
+541500	2022	Unincorporated	2	Willowbrook	40.83	0	0	40.83
+541603	2022	Compton	2	Compton	46.18	0	0	46.18
+541604	2022	Compton	2	Compton	3.602	0	0	3.602
+541605	2022	Compton	2	Compton	28.458	0	0	28.458
+541606a	2022	Compton	2	Compton	1	0	0	1
+541606b	2022	Compton	2	Compton	1	0	0	1
+541700	2022	Lynwood	2	Lynwood	5.529	0	0	5.529
+541801a	2022	Lynwood	2	Lynwood	5.602	0	0	5.602
+541801b	2022	Compton	2	Compton	0	0	0	0
+541802a	2022	Lynwood	2	Lynwood	2.657	0	0	2.657
+541802b	2022	Compton	2	Compton	0	0	0	0
+541802c	2022	Unincorporated	2	East Rancho Dominguez	1.328	0	0	1.328
+542000a	2022	Unincorporated	2	East Rancho Dominguez	0	0	0	0
+542000b	2022	Compton	2	Compton	0	0	0	0
+542103a	2022	Unincorporated	2	East Rancho Dominguez	20.678	0	0	20.678
+542103b	2022	Compton	2	Compton	0	0	0	0
+542104a	2022	Unincorporated	2	East Rancho Dominguez	3.602	0	0	3.602
+542104b	2022	Compton	2	Compton	0	0	0	0
+542105a	2022	Compton	2	Compton	22.928	0	0	22.928
+542105b	2022	Unincorporated	2	East Rancho Dominguez	4.73	22	0	26.73
+542106a	2022	Unincorporated	2	East Rancho Dominguez	22.626	0	0	22.626
+542106b	2022	Compton	2	Compton	51.74	0	0	51.74
+542106c	2022	Unincorporated	2	East Rancho Dominguez	1.201	0	0	1.201
+542200a	2022	Compton	2	Compton	42.903	0	0	42.903
+542200b	2022	Compton	2	Compton	48.969	148	0	196.97
+542200c	2022	Unincorporated	2	East Rancho Dominguez	13.61	0	0	13.61
+542401a	2022	Compton	2	Compton	3.602	0	0	3.602
+542401b	2022	Compton	2	Compton	15.587	0	0	15.587
+542402	2022	Compton	2	Compton	6.132	0	0	6.132
+542501a	2022	Compton	2	Compton	3.205	0	0	3.205
+542501b	2022	Compton	2	Compton	16.61	0	0	16.61
+542502	2022	Compton	2	Compton	5	0	0	5
+542601	2022	Compton	2	Compton	33.737	0	0	33.737
+542602	2022	Compton	2	Compton	0	0	0	0
+542700	2022	Compton	2	Compton	6.731	1	0	7.731
+542800	2022	Compton	2	Compton	27.145	0	0	27.145
+542900	2022	Compton	2	Compton	0	0	0	0
+543000a	2022	Unincorporated	2	West Rancho Dominguez	0	0	0	0
+543000b	2022	Compton	2	Compton	3.205	0	0	3.205
+543100a	2022	Compton	2	Compton	4.205	0	0	4.205
+543100b	2022	Carson	2	Carson	0	0	0	0
+543201	2022	Compton	2	Compton	5.804	0	0	5.804
+543202a	2022	Compton	2	Compton	2.602	0	0	2.602
+543202b	2022	Compton	2	Compton	12.706	89	0	101.71
+543304a	2022	Carson	2	Carson	0	0	0	0
+543304b	2022	Carson	2	Carson	0	0	0	0
+543305a	2022	Compton	2	Compton	1.275	0	0	1.275
+543305b	2022	Unincorporated	2	Rancho Dominguez	32.113	0	0	32.113
+543306a	2022	Carson	2	Carson	9.291	0	0	9.291
+543306b	2022	Carson	2	Carson	6.151	0	0	6.151
+543306c	2022	Carson	2	Carson	5.691	0	0	5.691
+543321a	2022	Carson	2	Carson	0	0	0	0
+543321b	2022	Carson	2	Carson	1	0	0	1
+543321c	2022	Compton	2	Compton	0	0	0	0
+543322a	2022	Carson	2	Carson	0	0	0	0
+543322b	2022	Carson	2	Carson	0	0	0	0
+543400a	2022	Carson	2	Carson	3.876	0	0	3.876
+543400b	2022	Carson	2	Carson	32.982	0	0	32.982
+543501a	2022	Carson	2	Carson	3.415	0	0	3.415
+543501b	2022	Carson	2	Carson	4.275	0	0	4.275
+543501c	2022	Unincorporated	2	West Carson	10.321	0	0	10.321
+543502	2022	Unincorporated	2	West Carson	21.057	0	0	21.057
+543503a	2022	Unincorporated	2	West Carson	1.737	0	0	1.737
+543503b	2022	Unincorporated	2	West Carson	6.949	0	0	6.949
+543601	2022	Carson	2	Carson	16.07	0	0	16.07
+543602a	2022	Unincorporated	2	West Carson	14.16	0	0	14.16
+543602b	2022	Unincorporated	2	West Carson	36.158	0	0	36.158
+543603a	2022	Unincorporated	2	West Carson	4.275	55	0	59.275
+543603b	2022	Unincorporated	2	West Carson	0	0	0	0
+543604a	2022	Carson	2	Carson	1	0	0	1
+543604b	2022	Carson	2	Carson	0	0	0	0
+543701	2022	Carson	2	Carson	0	0	0	0
+543702a	2022	Carson	2	Carson	3.372	0	0	3.372
+543702b	2022	Carson	2	Carson	0	0	0	0
+543703	2022	Carson	2	Carson	11.328	0	0	11.328
+543801a	2022	Carson	2	Carson	0	0	0	0
+543801b	2022	Carson	2	Carson	0	0	0	0
+543802a	2022	Carson	2	Carson	1	0	0	1
+543802b	2022	Carson	2	Carson	5	0	0	5
+543903	2022	Carson	2	Carson	2.737	0	0	2.737
+543905a	2022	Carson	2	Carson	0	0	0	0
+543905b	2022	Carson	2	Carson	1.686	0	0	1.686
+544001a	2022	Carson	2	Carson	0	0	0	0
+544002a	2022	Carson	2	Carson	0	0	0	0
+550000	2022	Norwalk	2	Norwalk	60.288	0	0	60.288
+550100	2022	Norwalk	2	Norwalk	4	0	0	4
+550201a	2022	Santa Fe Springs	2	Santa Fe Springs	0	0	0	0
+550201b	2022	Norwalk	2	Norwalk	1.551	0	0	1.551
+550202	2022	Norwalk	2	Norwalk	0	0	0	0
+550300a	2022	Norwalk	2	Norwalk	56.511	0	0	56.511
+550300b	2022	Norwalk	2	Norwalk	51.632	0	0	51.632
+550400	2022	Downey	2	Downey	6.205	0	0	6.205
+550500a	2022	Downey	2	Downey	31.553	0	0	31.553
+550500b	2022	Downey	2	Downey	19.313	0	0	19.313
+550601a	2022	Downey	2	Downey	2	0	0	2
+550601b	2022	Downey	2	Downey	0	0	0	0
+550602a	2022	Downey	2	Downey	3.331	0	0	3.331
+550602b	2022	Downey	2	Downey	1	0	0	1
+550700a	2022	Downey	2	Downey	2.854	0	0	2.854
+550700b	2022	Downey	2	Downey	8.764	0	0	8.764
+550700c	2022	Downey	2	Downey	4.405	0	0	4.405
+550800a	2022	Downey	2	Downey	0	0	0	0
+550800b	2022	Downey	2	Downey	5.365	0	0	5.365
+550901	2022	Downey	2	Downey	0	0	0	0
+550902	2022	Downey	2	Downey	18.442	0	0	18.442
+551000a	2022	Downey	2	Downey	11.874	0	0	11.874
+551000b	2022	Downey	2	Downey	4	0	0	4
+551101	2022	Downey	2	Downey	2.331	0	0	2.331
+551102	2022	Downey	2	Downey	30.647	0	0	30.647
+551201	2022	Downey	2	Downey	5.605	0	0	5.605
+551202	2022	Downey	2	Downey	0	0	0	0
+551300a	2022	Downey	2	Downey	1.263	0	0	1.263
+551300b	2022	Downey	2	Downey	4.605	0	0	4.605
+551401	2022	Downey	2	Downey	0	0	0	0
+551402	2022	Downey	2	Downey	1	0	0	1
+551501	2022	Downey	2	Downey	1	0	0	1
+551502	2022	Downey	2	Downey	9.566	0	0	9.566
+551600	2022	Downey	2	Downey	5.88	0	0	5.88
+551700a	2022	Downey	2	Downey	4.105	0	0	4.105
+551700b	2022	Downey	2	Downey	0	0	0	0
+551800a	2022	Downey	2	Downey	28.372	0	0	28.372
+551800b	2022	Downey	2	Downey	4.38	0	0	4.38
+551900a	2022	Norwalk	2	Norwalk	2	0	0	2
+551900b	2022	Norwalk	2	Norwalk	0	0	0	0
+552001	2022	Norwalk	2	Norwalk	2	0	0	2
+552002	2022	Norwalk	2	Norwalk	15	0	0	15
+552100a	2022	Norwalk	2	Norwalk	6	0	0	6
+552100b	2022	Norwalk	2	Norwalk	0	0	0	0
+552200a	2022	Norwalk	2	Norwalk	7	0	1	8
+552200b	2022	Norwalk	2	Norwalk	0	0	0	0
+552301	2022	Norwalk	2	Norwalk	0	0	0	0
+552302	2022	Norwalk	2	Norwalk	1.551	0	0	1.551
+552400	2022	Norwalk	2	Norwalk	7.551	0	0	7.551
+552601	2022	Norwalk	2	Norwalk	1	0	0	1
+552602	2022	Norwalk	2	Norwalk	0	0	0	0
+552700a	2022	Norwalk	2	Norwalk	6.812	0	0	6.812
+552700b	2022	Norwalk	2	Norwalk	12	0	0	12
+552800	2022	Norwalk	2	Norwalk	8	0	0	8
+552900a	2022	Norwalk	2	Norwalk	1.551	10	0	11.551
+552900b	2022	Norwalk	2	Norwalk	0	0	0	0
+553000	2022	Norwalk	2	Norwalk	6.205	49	0	55.205
+553100a	2022	Bellflower	2	Bellflower	5.551	0	0	5.551
+553100b	2022	Bellflower	2	Bellflower	2	0	21	23
+553200a	2022	Bellflower	2	Bellflower	0	0	0	0
+553200b	2022	Bellflower	2	Bellflower	5	0	0	5
+553300	2022	Bellflower	2	Bellflower	9.143	0	0	9.143
+553400	2022	Downey	2	Downey	0	0	0	0
+553502	2022	Paramount	2	Paramount	0	0	0	0
+553503	2022	Paramount	2	Paramount	15.592	0	0	15.592
+553504	2022	Paramount	2	Paramount	10.245	0	0	10.245
+553601a	2022	Paramount	2	Paramount	0	0	0	0
+553601b	2022	Paramount	2	Paramount	9.328	0	0	9.328
+553602	2022	Paramount	2	Paramount	0	0	0	0
+553701	2022	Paramount	2	Paramount	5.058	0	0	5.058
+553702	2022	Paramount	2	Paramount	75.109	0	0	75.109
+553801	2022	Paramount	2	Paramount	34.552	0	0	34.552
+553802a	2022	Paramount	2	Paramount	6.259	0	0	6.259
+553802b	2022	Paramount	2	Paramount	17.866	0	0	17.866
+553901a	2022	Paramount	2	Paramount	2	0	0	2
+553901b	2022	Paramount	2	Paramount	1	0	0	1
+553902	2022	Paramount	2	Paramount	3.201	0	0	3.201
+554001	2022	Bellflower	2	Bellflower	1	0	0	1
+554002a	2022	Bellflower	2	Bellflower	1	0	0	1
+554002b	2022	Bellflower	2	Bellflower	3.331	0	0	3.331
+554101	2022	Bellflower	2	Bellflower	5.551	0	0	5.551
+554103	2022	Bellflower	2	Bellflower	1	0	0	1
+554104a	2022	Bellflower	2	Bellflower	2.331	0	0	2.331
+554104b	2022	Bellflower	2	Bellflower	1.775	0	0	1.775
+554105a	2022	Bellflower	2	Bellflower	2	0	0	2
+554105b	2022	Bellflower	2	Bellflower	0	0	0	0
+554201	2022	Bellflower	2	Bellflower	5.105	0	0	5.105
+554203	2022	Bellflower	2	Bellflower	3	0	0	3
+554204a	2022	Bellflower	2	Bellflower	3.331	0	0	3.331
+554204b	2022	Bellflower	2	Bellflower	3	0	0	3
+554301	2022	Bellflower	2	Bellflower	6	0	0	6
+554302	2022	Bellflower	2	Bellflower	11.331	45	0	56.331
+554403	2022	Bellflower	2	Bellflower	13.812	0	0	13.812
+554404	2022	Bellflower	2	Bellflower	0	0	0	0
+554405	2022	Bellflower	2	Bellflower	22.103	0	0	22.103
+554406	2022	Bellflower	2	Bellflower	2	0	0	2
+554511	2022	Cerritos	2	Cerritos	12	0	0	12
+554512a	2022	Cerritos	2	Cerritos	11.243	0	0	11.243
+554512b	2022	Cerritos	2	Cerritos	12.33	0	0	12.33
+554513	2022	Cerritos	2	Cerritos	0	0	0	0
+554514a	2022	Cerritos	2	Cerritos	0	0	0	0
+554514b	2022	Cerritos	2	Cerritos	4.566	0	0	4.566
+554515	2022	Cerritos	2	Cerritos	2	0	0	2
+554516	2022	Cerritos	2	Cerritos	0	0	0	0
+554517	2022	Cerritos	2	Cerritos	1.551	0	0	1.551
+554518	2022	Cerritos	2	Cerritos	22.615	0	0	22.615
+554519	2022	Cerritos	2	Cerritos	13.766	0	0	13.766
+554521a	2022	Cerritos	2	Cerritos	4.103	0	0	4.103
+554521b	2022	Cerritos	2	Cerritos	1	0	0	1
+554521c	2022	Cerritos	2	Cerritos	7.526	0	0	7.526
+554522a	2022	Cerritos	2	Cerritos	1.263	0	0	1.263
+554522b	2022	Cerritos	2	Cerritos	7.433	0	0	7.433
+554600a	2022	Norwalk	2	Norwalk	0	0	0	0
+554600b	2022	Unincorporated	2	Unincorporated Cerritos	0	0	0	0
+554700	2022	Norwalk	2	Norwalk	0	0	0	0
+554801a	2022	Artesia	2	Artesia	0	0	0	0
+554801b	2022	Artesia	2	Artesia	0	0	0	0
+554802	2022	Artesia	2	Artesia	0	0	0	0
+554900a	2022	Artesia	2	Artesia	0	0	0	0
+554900b	2022	Artesia	2	Artesia	0	0	0	0
+555001a	2022	Lakewood	2	Lakewood	5.551	0	0	5.551
+555001b	2022	Lakewood	2	Lakewood	5.877	0	0	5.877
+555002a	2022	Lakewood	2	Lakewood	4.303	0	0	4.303
+555002b	2022	Lakewood	2	Lakewood	18.956	0	0	18.956
+555102a	2022	Lakewood	2	Lakewood	0	0	0	0
+555102b	2022	Lakewood	2	Lakewood	0	0	0	0
+555102c	2022	Hawaiian Gardens	2	Hawaiian Gardens	2.775	0	0	2.775
+555103	2022	Lakewood	2	Lakewood	5.924	0	0	5.924
+555104a	2022	Lakewood	2	Lakewood	3.037	0	0	3.037
+555104b	2022	Hawaiian Gardens	2	Hawaiian Gardens	2.661	0	0	2.661
+555211	2022	Hawaiian Gardens	2	Hawaiian Gardens	9.581	0	0	9.581
+555212	2022	Hawaiian Gardens	2	Hawaiian Gardens	13.644	0	0	13.644
+570001	2022	Lakewood	2	Lakewood	2	0	0	2
+570002	2022	Lakewood	2	Lakewood	0	0	0	0
+570003	2022	Lakewood	2	Lakewood	5.368	0	0	5.368
+570701a	2022	Lakewood	2	Lakewood	4.594	0	0	4.594
+570701b	2022	Lakewood	2	Lakewood	2.263	0	0	2.263
+570702	2022	Lakewood	2	Lakewood	4.263	0	0	4.263
+570800a	2022	Lakewood	2	Lakewood	2.551	0	0	2.551
+570800b	2022	Lakewood	2	Lakewood	2.303	0	0	2.303
+570901a	2022	Lakewood	2	Lakewood	2	0	0	2
+570901b	2022	Lakewood	2	Lakewood	2	0	0	2
+570902	2022	Lakewood	2	Lakewood	8.894	0	0	8.894
+571000	2022	Lakewood	2	Lakewood	0	0	0	0
+571101	2022	Lakewood	2	Lakewood	1	0	0	1
+571102	2022	Lakewood	2	Lakewood	0	0	0	0
+571300a	2022	Lakewood	2	Lakewood	0	0	0	0
+571300b	2022	Lakewood	2	Lakewood	0	0	0	0
+571400a	2022	Lakewood	2	Lakewood	0	0	0	0
+571400b	2022	Lakewood	2	Lakewood	0	0	0	0
+571503	2022	Lakewood	2	Lakewood	5.103	0	0	5.103
+573401	2022	Signal Hill	2	Signal Hill	9.525	0	0	9.525
+573402a	2022	Signal Hill	2	Signal Hill	0	0	0	0
+573402b	2022	Signal Hill	2	Signal Hill	0	0	0	0
+573402c	2022	Signal Hill	2	Signal Hill	0	0	0	0
+573403	2022	Signal Hill	2	Signal Hill	17.054	0	0	17.054
+573700	2022	Unincorporated	2	Unincorporated Long Beach	0	0	0	0
+599000	2022	Avalon	2	Avalon	33.621	0	0	33.621
+599100a	2022	Unincorporated	2	Santa Catalina Island	0	0	0	0
+599100b	2022	Avalon	2	Avalon	0	0	0	0
+599100c	2022	Unincorporated	2	San Clemente Island	0	0	0	0
+600100	2022	Unincorporated	2	Athens-Westmont	49.826	0	0	49.826
+600201	2022	Unincorporated	2	Athens-Westmont	35.354	0	0	35.354
+600202	2022	Unincorporated	2	Athens-Westmont	47.593	0	0	47.593
+600302	2022	Unincorporated	2	Athens-Westmont	17.291	0	0	17.291
+600303	2022	Unincorporated	2	Athens-Westmont	8.686	0	0	8.686
+600304	2022	Unincorporated	2	Athens-Westmont	2.737	0	0	2.737
+600400	2022	Unincorporated	2	Athens-Westmont	13.143	0	0	13.143
+600501	2022	Inglewood	2	Inglewood	2.379	0	0	2.379
+600502a	2022	Inglewood	2	Inglewood	0	6	0	6
+600502b	2022	Hawthorne	2	Hawthorne	0	0	0	0
+600601	2022	Inglewood	2	Inglewood	1	0	0	1
+600602a	2022	Inglewood	2	Inglewood	1	0	0	1
+600602b	2022	Inglewood	2	Inglewood	0	0	0	0
+600702a	2022	Inglewood	2	Inglewood	1	0	0	1
+600702b	2022	Inglewood	2	Inglewood	1	0	0	1
+600703a	2022	Inglewood	2	Inglewood	0	0	0	0
+600703b	2022	Inglewood	2	Inglewood	0	0	0	0
+600704	2022	Inglewood	2	Inglewood	3.379	0	0	3.379
+600801	2022	Inglewood	2	Inglewood	0	6	0	6
+600802a	2022	Inglewood	2	Inglewood	7.795	0	0	7.795
+600802b	2022	Inglewood	2	Inglewood	5.275	0	0	5.275
+600902	2022	Inglewood	2	Inglewood	5.117	0	0	5.117
+600911	2022	Inglewood	2	Inglewood	0	0	0	0
+600912	2022	Inglewood	2	Inglewood	22.496	0	0	22.496
+601001	2022	Inglewood	2	Inglewood	4	0	0	4
+601002	2022	Inglewood	2	Inglewood	19.268	0	0	19.268
+601100	2022	Inglewood	2	Inglewood	8.415	0	0	8.415
+601202	2022	Inglewood	2	Inglewood	2	0	0	2
+601211	2022	Inglewood	2	Inglewood	20.331	0	0	20.331
+601212	2022	Inglewood	2	Inglewood	9.19	0	0	9.19
+601301	2022	Inglewood	2	Inglewood	1	0	0	1
+601302	2022	Inglewood	2	Inglewood	39.318	0	0	39.318
+601303a	2022	Inglewood	2	Inglewood	6	0	0	6
+601303b	2022	Inglewood	2	Inglewood	0	0	0	0
+601401a	2022	Inglewood	2	Inglewood	1	0	0	1
+601401b	2022	Inglewood	2	Inglewood	9.691	15	155	228.69
+601402	2022	Inglewood	2	Inglewood	9.66	0	0	9.66
+601501a	2022	Unincorporated	2	Lennox	3.474	0	0	3.474
+601501b	2022	Inglewood	2	Inglewood	314.21	0	0	314.21
+601502	2022	Unincorporated	2	Lennox	1.19	0	0	1.19
+601600	2022	Unincorporated	2	Lennox	35.283	0	0	35.283
+601700a	2022	Unincorporated	2	Lennox	5.465	0	0	5.465
+601700b	2022	Inglewood	2	Inglewood	0	0	0	0
+601700c	2022	Hawthorne	2	Hawthorne	0	0	0	0
+601801a	2022	Unincorporated	2	Lennox	0	0	0	0
+601801b	2022	Inglewood	2	Inglewood	0	0	0	0
+601802a	2022	Unincorporated	2	Lennox	0	0	0	0
+601802b	2022	Inglewood	2	Inglewood	15.355	0	0	15.355
+601900	2022	Inglewood	2	Inglewood	2	0	0	2
+602002a	2022	Hawthorne	2	Hawthorne	65.132	0	0	65.132
+602002b	2022	Hawthorne	2	Hawthorne	5.02	0	0	5.02
+602003	2022	Inglewood	2	Inglewood	1.19	0	0	1.19
+602004	2022	Inglewood	2	Inglewood	6.517	0	0	6.517
+602103	2022	Hawthorne	2	Hawthorne	21.895	0	0	21.895
+602104	2022	Hawthorne	2	Hawthorne	2.19	0	0	2.19
+602105	2022	Hawthorne	2	Hawthorne	15.016	0	10	25.016
+602106	2022	Hawthorne	2	Hawthorne	0	0	0	0
+602200a	2022	Unincorporated	2	Del Aire	2.275	0	0	2.275
+602200b	2022	Hawthorne	2	Hawthorne	0	0	0	0
+602200c	2022	Hawthorne	2	Hawthorne	0	0	0	0
+602301a	2022	Unincorporated	2	Wiseburn	0	0	0	0
+602301b	2022	Hawthorne	2	Hawthorne	0	0	0	0
+602302a	2022	Hawthorne	2	Hawthorne	1.415	0	0	1.415
+602302b	2022	Hawthorne	2	Hawthorne	11.19	0	0	11.19
+602402	2022	Hawthorne	2	Hawthorne	1	0	1	2
+602403	2022	Hawthorne	2	Hawthorne	2.379	0	0	2.379
+602404	2022	Hawthorne	2	Hawthorne	7.275	11	0	18.275
+602504a	2022	Hawthorne	2	Hawthorne	1.686	0	0	1.686
+602504b	2022	Hawthorne	2	Hawthorne	2.686	0	0	2.686
+602505a	2022	Hawthorne	2	Hawthorne	0	0	0	0
+602505b	2022	Hawthorne	2	Hawthorne	0	0	0	0
+602506a	2022	Hawthorne	2	Hawthorne	0	0	0	0
+602506b	2022	Hawthorne	2	Hawthorne	0	0	0	0
+602507a	2022	Hawthorne	2	Hawthorne	1.275	0	0	1.275
+602507b	2022	Hawthorne	2	Hawthorne	0	0	0	0
+602508	2022	Hawthorne	2	Hawthorne	2	0	0	2
+602509a	2022	Hawthorne	2	Hawthorne	4.93	0	0	4.93
+602509b	2022	Hawthorne	2	Hawthorne	2	0	0	2
+602509c	2022	Unincorporated	2	Hawthorne	0	0	0	0
+602600a	2022	Gardena	2	Gardena	4.379	0	0	4.379
+602600b	2022	Gardena	2	Gardena	4.465	0	0	4.465
+602600c	2022	Gardena	2	Gardena	1.19	0	0	1.19
+602700a	2022	Hawthorne	2	Hawthorne	2	0	0	2
+602700b	2022	Hawthorne	2	Hawthorne	0	0	0	0
+602700c	2022	Unincorporated	2	Athens-Westmont	6.966	0	0	6.966
+602801	2022	Unincorporated	2	Athens-Westmont	159.71	0	0	159.71
+602802	2022	Unincorporated	2	Athens-Westmont	19.647	8	0	27.647
+602900a	2022	Gardena	2	Gardena	5.16	0	0	5.16
+602900b	2022	Gardena	2	Gardena	9.087	0	0	9.087
+603001	2022	Gardena	2	Gardena	57.898	0	0	57.898
+603004a	2022	Gardena	2	Gardena	1	0	0	1
+603004b	2022	Gardena	2	Gardena	0	0	0	0
+603005	2022	Gardena	2	Gardena	6.854	0	0	6.854
+603006	2022	Gardena	2	Gardena	1.737	0	0	1.737
+603101	2022	Gardena	2	Gardena	1	0	0	1
+603102	2022	Gardena	2	Gardena	3.927	0	0	3.927
+603200a	2022	Gardena	2	Gardena	2.379	0	0	2.379
+603200b	2022	Gardena	2	Gardena	1.737	0	0	1.737
+603301	2022	Gardena	2	Gardena	0	0	0	0
+603302	2022	Gardena	2	Gardena	5.372	0	0	5.372
+603400	2022	Gardena	2	Gardena	8.138	0	0	8.138
+603500	2022	Gardena	2	Gardena	2	0	0	2
+603600	2022	Gardena	2	Gardena	5.372	0	0	5.372
+603702a	2022	Hawthorne	2	Hawthorne	1.275	0	0	1.275
+603702b	2022	Unincorporated	2	El Camino Village	1	0	0	1
+603702c	2022	Unincorporated	2	El Camino Village	45.53	0	0	45.53
+603703	2022	Hawthorne	2	Hawthorne	1	0	0	1
+603704a	2022	Hawthorne	2	Hawthorne	0	0	0	0
+603704b	2022	Unincorporated	2	El Camino Village	12.986	0	0	12.986
+603801a	2022	Lawndale	2	Lawndale	8.445	0	0	8.445
+603801b	2022	Lawndale	2	Lawndale	9.635	0	0	9.635
+603802	2022	Lawndale	2	Lawndale	1	0	0	1
+603900a	2022	Lawndale	2	Lawndale	6.058	0	0	6.058
+603900b	2022	Lawndale	2	Lawndale	2.876	0	0	2.876
+604001	2022	Lawndale	2	Lawndale	1	0	0	1
+604002	2022	Lawndale	2	Lawndale	2.19	0	0	2.19
+604100	2022	Lawndale	2	Lawndale	0	0	0	0
+609900	2022	Unincorporated	1	La Rambla	6.211	0	0	6.211
+620001	2022	El Segundo	2	El Segundo	3	0	0	3
+620002	2022	El Segundo	2	El Segundo	3	0	0	3
+620101	2022	El Segundo	2	El Segundo	1	0	0	1
+620102	2022	El Segundo	2	El Segundo	0	0	0	0
+620201a	2022	Manhattan Beach	2	Manhattan Beach	0	0	0	0
+620201b	2022	Manhattan Beach	2	Manhattan Beach	1	0	0	1
+620301	2022	Manhattan Beach	2	Manhattan Beach	1	0	0	1
+620303	2022	Manhattan Beach	2	Manhattan Beach	0	0	0	0
+620305a	2022	Manhattan Beach	2	Manhattan Beach	4.275	0	0	4.275
+620305b	2022	Manhattan Beach	2	Manhattan Beach	0	0	0	0
+620305c	2022	Manhattan Beach	2	Manhattan Beach	0	0	0	0
+620400a	2022	Manhattan Beach	2	Manhattan Beach	1	0	0	1
+620400b	2022	Manhattan Beach	2	Manhattan Beach	1	0	0	1
+620501a	2022	Redondo Beach	2	Redondo Beach	0	0	0	0
+620501b	2022	Redondo Beach	2	Redondo Beach	1	0	0	1
+620521	2022	Redondo Beach	2	Redondo Beach	0	0	0	0
+620522	2022	Redondo Beach	2	Redondo Beach	0	0	0	0
+620601	2022	Redondo Beach	2	Redondo Beach	35.603	15	0	50.603
+620602	2022	Redondo Beach	2	Redondo Beach	4.699	0	0	4.699
+620701	2022	Redondo Beach	2	Redondo Beach	6.058	0	0	6.058
+620702a	2022	Redondo Beach	2	Redondo Beach	5.16	0	0	5.16
+620702b	2022	Redondo Beach	2	Redondo Beach	2	0	0	2
+620800a	2022	Manhattan Beach	2	Manhattan Beach	0	0	0	0
+620800b	2022	Manhattan Beach	2	Manhattan Beach	1	0	0	1
+620901	2022	Manhattan Beach	2	Manhattan Beach	0	0	0	0
+620904	2022	Manhattan Beach	2	Manhattan Beach	0	0	0	0
+621001	2022	Hermosa Beach	2	Hermosa Beach	0	0	0	0
+621002a	2022	Hermosa Beach	2	Hermosa Beach	1	0	0	1
+621002b	2022	Hermosa Beach	2	Hermosa Beach	0	0	0	0
+621004a	2022	Hermosa Beach	2	Hermosa Beach	4.19	0	0	4.19
+621004b	2022	Hermosa Beach	2	Hermosa Beach	2	0	0	2
+621102	2022	Hermosa Beach	2	Hermosa Beach	1.737	0	0	1.737
+621104	2022	Hermosa Beach	2	Hermosa Beach	24.619	0	0	24.619
+621201	2022	Redondo Beach	2	Redondo Beach	1	0	0	1
+621204	2022	Redondo Beach	2	Redondo Beach	15.16	0	0	15.16
+621301	2022	Redondo Beach	2	Redondo Beach	1.686	0	0	1.686
+621324a	2022	Redondo Beach	2	Redondo Beach	9	0	0	9
+621324b	2022	Redondo Beach	2	Redondo Beach	0	0	0	0
+621326a	2022	Redondo Beach	2	Redondo Beach	3	0	0	3
+621326b	2022	Redondo Beach	2	Redondo Beach	0	0	0	0
+621400	2022	Redondo Beach	2	Redondo Beach	0	0	0	0
+650001a	2022	Torrance	2	Torrance	1	0	0	1
+650001b	2022	Torrance	2	Torrance	0	0	0	0
+650003b	2022	Torrance	2	Torrance	36.827	0	0	36.827
+650004	2022	Torrance	2	Torrance	1.19	0	0	1.19
+650101a	2022	Torrance	2	Torrance	1.19	0	0	1.19
+650101b	2022	Torrance	2	Torrance	2.19	0	0	2.19
+650102	2022	Torrance	2	Torrance	5.013	0	0	5.013
+650200a	2022	Torrance	2	Torrance	0	0	0	0
+650200b	2022	Torrance	2	Torrance	0	0	0	0
+650300a	2022	Torrance	2	Torrance	0	0	0	0
+650300b	2022	Torrance	2	Torrance	0	0	0	0
+650300c	2022	Torrance	2	Torrance	25.637	0	0	25.637
+650401a	2022	Torrance	2	Torrance	0	0	0	0
+650401b	2022	Torrance	2	Torrance	1	0	23	24
+650501	2022	Torrance	2	Torrance	6.058	0	0	6.058
+650502	2022	Torrance	2	Torrance	2.379	0	0	2.379
+650602	2022	Torrance	2	Torrance	16.386	0	0	16.386
+650603	2022	Torrance	2	Torrance	2	0	0	2
+650604a	2022	Torrance	2	Torrance	2	0	0	2
+650604b	2022	Torrance	2	Torrance	1	0	0	1
+650605	2022	Torrance	2	Torrance	0	0	0	0
+650701a	2022	Torrance	2	Torrance	9.211	0	0	9.211
+650701b	2022	Torrance	2	Torrance	17.678	0	0	17.678
+650702	2022	Torrance	2	Torrance	3.372	0	0	3.372
+650800a	2022	Torrance	2	Torrance	0	0	0	0
+650800b	2022	Torrance	2	Torrance	3.423	0	0	3.423
+650800c	2022	Torrance	2	Torrance	0	0	0	0
+650901a	2022	Torrance	2	Torrance	5.013	0	0	5.013
+650901b	2022	Torrance	2	Torrance	0	0	0	0
+650902a	2022	Torrance	2	Torrance	7.333	18	0	25.333
+650902b	2022	Torrance	2	Torrance	12.255	0	0	12.255
+651001a	2022	Torrance	2	Torrance	1.19	28	0	29.19
+651001b	2022	Torrance	2	Torrance	0	0	0	0
+651002	2022	Torrance	2	Torrance	0	0	0	0
+651101a	2022	Torrance	2	Torrance	14.423	0	0	14.423
+651101b	2022	Torrance	2	Torrance	17.949	0	0	17.949
+651102	2022	Torrance	2	Torrance	6.436	0	0	6.436
+651201a	2022	Torrance	2	Torrance	1.686	0	0	1.686
+651201b	2022	Torrance	2	Torrance	0	0	0	0
+651221	2022	Torrance	2	Torrance	1.686	0	0	1.686
+651222	2022	Torrance	2	Torrance	1.686	0	0	1.686
+651302a	2022	Torrance	2	Torrance	0	0	0	0
+651302b	2022	Torrance	2	Torrance	1	0	0	1
+651304a	2022	Torrance	2	Torrance	3	0	0	3
+651304b	2022	Torrance	2	Torrance	1	0	0	1
+651401a	2022	Torrance	2	Torrance	0	0	0	0
+651401b	2022	Torrance	2	Torrance	0	0	0	0
+651401c	2022	Rolling Hills Estates	2	Rolling Hills Estates	0	0	0	0
+651402a	2022	Torrance	2	Torrance	2.686	0	0	2.686
+651402b	2022	Torrance	2	Torrance	0	0	0	0
+670001	2022	Lomita	2	Lomita	5.562	0	0	5.562
+670002	2022	Lomita	2	Lomita	0	0	0	0
+670003	2022	Lomita	2	Lomita	5.211	0	6	11.211
+670100	2022	Lomita	2	Lomita	3.275	0	0	3.275
+670201a	2022	Unincorporated	2	Westfield/Academy Hills	0	0	0	0
+670201b	2022	Unincorporated	2	Palos Verdes Peninsula	0	0	0	0
+670201c	2022	Rolling Hills Estates	2	Rolling Hills Estates	0	0	0	0
+670201d	2022	Torrance	2	Torrance	0	0	0	0
+670202	2022	Rolling Hills Estates	2	Rolling Hills Estates	0	0	0	0
+670324a	2022	Palos Verdes Estates	2	Palos Verdes Estates	0	0	0	0
+670324b	2022	Palos Verdes Estates	2	Palos Verdes Estates	0	0	0	0
+670324c	2022	Palos Verdes Estates	2	Palos Verdes Estates	0	0	0	0
+670326a	2022	Palos Verdes Estates	2	Palos Verdes Estates	1	0	0	1
+670326b	2022	Palos Verdes Estates	2	Palos Verdes Estates	1	0	0	1
+670328a	2022	Palos Verdes Estates	2	Palos Verdes Estates	0	0	0	0
+670328b	2022	Palos Verdes Estates	2	Palos Verdes Estates	0	0	0	0
+670328c	2022	Palos Verdes Estates	2	Palos Verdes Estates	0	0	0	0
+670403a	2022	Rancho Palos Verdes	2	Rancho Palos Verdes	0	0	0	0
+670403b	2022	Rolling Hills Estates	2	Rolling Hills Estates	0	0	0	0
+670405a	2022	Rolling Hills Estates	2	Rolling Hills Estates	0	0	0	0
+670405b	2022	Rancho Palos Verdes	2	Rancho Palos Verdes	0	0	0	0
+670406	2022	Rolling Hills Estates	2	Rolling Hills Estates	0	0	0	0
+670407	2022	Rancho Palos Verdes	2	Rancho Palos Verdes	0	0	0	0
+670411a	2022	Rancho Palos Verdes	2	Rancho Palos Verdes	0	0	0	0
+670411b	2022	Rancho Palos Verdes	2	Rancho Palos Verdes	0	0	0	0
+670411c	2022	Rolling Hills Estates	2	Rolling Hills Estates	0	0	0	0
+670413	2022	Rancho Palos Verdes	2	Rancho Palos Verdes	0	0	0	0
+670416a	2022	Rancho Palos Verdes	2	Rancho Palos Verdes	0	0	0	0
+670416b	2022	Rancho Palos Verdes	2	Rancho Palos Verdes	0	0	0	0
+670500	2022	Rolling Hills	2	Rolling Hills	0	0	0	0
+670602a	2022	Rancho Palos Verdes	2	Rancho Palos Verdes	2	0	0	2
+670602b	2022	Rancho Palos Verdes	2	Rancho Palos Verdes	0	0	0	0
+670602c	2022	Rancho Palos Verdes	2	Rancho Palos Verdes	0	0	0	0
+670701a	2022	Rancho Palos Verdes	2	Rancho Palos Verdes	3.876	0	0	3.876
+670701b	2022	Rancho Palos Verdes	2	Rancho Palos Verdes	0	0	0	0
+670701c	2022	Lomita	2	Lomita	0	0	0	0
+670702a	2022	Rancho Palos Verdes	2	Rancho Palos Verdes	0	0	0	0
+670702b	2022	Rancho Palos Verdes	2	Rancho Palos Verdes	0	0	0	0
+670702c	2022	Rolling Hills Estates	2	Rolling Hills Estates	0	0	0	0
+700101	2022	West Hollywood	2	West Hollywood	0	0	0	0
+700102	2022	West Hollywood	2	West Hollywood	0	0	0	0
+700200	2022	West Hollywood	2	West Hollywood	9	0	0	9
+700300a	2022	West Hollywood	2	West Hollywood	3	0	0	3
+700300b	2022	West Hollywood	2	West Hollywood	4	0	0	4
+700400	2022	West Hollywood	2	West Hollywood	16.86	0	0	16.86
+700501	2022	West Hollywood	2	West Hollywood	3.492	0	0	3.492
+700502	2022	West Hollywood	2	West Hollywood	2	0	0	2
+700600a	2022	Beverly Hills	2	Beverly Hills	0	0	0	0
+700600b	2022	Beverly Hills	2	Beverly Hills	0	0	0	0
+700700a	2022	Beverly Hills	2	Beverly Hills	32.836	0	0	32.836
+700700b	2022	Beverly Hills	2	Beverly Hills	0	0	0	0
+700700c	2022	Beverly Hills	2	Beverly Hills	0	0	0	0
+700801a	2022	Beverly Hills	2	Beverly Hills	3	0	0	3
+700801b	2022	Beverly Hills	2	Beverly Hills	0	0	0	0
+700802	2022	Beverly Hills	2	Beverly Hills	0	0	0	0
+700901a	2022	Beverly Hills	2	Beverly Hills	0	0	0	0
+700901b	2022	Beverly Hills	2	Beverly Hills	0	0	0	0
+700902	2022	Beverly Hills	2	Beverly Hills	0	0	0	0
+701000a	2022	Beverly Hills	2	Beverly Hills	3	0	0	3
+701000b	2022	Beverly Hills	2	Beverly Hills	0	0	0	0
+701100a	2022	Los Angeles	2	Brentwood	27.677	0	0	27.677
+701100b	2022	Unincorporated	2	Veterans Administration	26.149	96	84	230.15
+701201d	2022	Santa Monica	2	Santa Monica	1.731	0	0	1.731
+701202a	2022	Santa Monica	2	Santa Monica	0	0	0	0
+701202b	2022	Santa Monica	2	Santa Monica	3	0	0	3
+701302a	2022	Santa Monica	2	Santa Monica	2.731	0	0	2.731
+701302b	2022	Santa Monica	2	Santa Monica	8.19	0	0	8.19
+701304a	2022	Santa Monica	2	Santa Monica	1.571	0	0	1.571
+701304b	2022	Santa Monica	2	Santa Monica	4.19	0	0	4.19
+701304bc	2022	Santa Monica	2	Santa Monica	9.571	0	0	9.571
+701304pk	2022	Santa Monica	2	Santa Monica	3	0	0	3
+701402	2022	Santa Monica	2	Santa Monica	10.891	0	0	10.891
+701402a	2022	Santa Monica	2	Santa Monica	6.394	0	0	6.394
+701402b	2022	Santa Monica	2	Santa Monica	7	0	0	7
+701402bStr	2022	Santa Monica	2	Santa Monica	2	0	0	2
+701402bc	2022	Santa Monica	2	Santa Monica	11	0	0	11
+701402c	2022	Santa Monica	2	Santa Monica	20.136	0	0	20.136
+701501a	2022	Santa Monica	2	Santa Monica	4.571	0	0	4.571
+701501b	2022	Santa Monica	2	Santa Monica	16.34	0	59	75.34
+701502a	2022	Santa Monica	2	Santa Monica	9	0	0	9
+701502b	2022	Santa Monica	2	Santa Monica	5.473	0	0	5.473
+701601a	2022	Santa Monica	2	Santa Monica	2.473	0	0	2.473
+701601b	2022	Santa Monica	2	Santa Monica	1.473	0	0	1.473
+701601c	2022	Santa Monica	2	Santa Monica	0	0	0	0
+701601d	2022	Santa Monica	2	Santa Monica	4.204	0	0	4.204
+701601e	2022	Santa Monica	2	Santa Monica	2	0	0	2
+701601f	2022	Santa Monica	2	Santa Monica	2	0	0	2
+701602a	2022	Santa Monica	2	Santa Monica	7	0	0	7
+701602b	2022	Santa Monica	2	Santa Monica	6.459	0	0	6.459
+701701a	2022	Santa Monica	2	Santa Monica	30.028	0	0	30.028
+701701b	2022	Santa Monica	2	Santa Monica	5.473	0	0	5.473
+701702a	2022	Santa Monica	2	Santa Monica	6	29	0	35
+701702b	2022	Santa Monica	2	Santa Monica	9	0	0	9
+701801a	2022	Santa Monica	2	Santa Monica	14.414	0	0	14.414
+701801b	2022	Santa Monica	2	Santa Monica	5	12	0	31
+701801c	2022	Santa Monica	2	Santa Monica	17.142	0	0	17.142
+701801cfwyS	2022	Santa Monica	2	Santa Monica	4.142	0	0	4.142
+701802a	2022	Santa Monica	2	Santa Monica	10.142	0	0	10.142
+701802afwyN	2022	Santa Monica	2	Santa Monica	14.713	0	0	14.713
+701802b	2022	Santa Monica	2	Santa Monica	15.309	0	0	15.309
+701802bfwyS	2022	Santa Monica	2	Santa Monica	10.702	0	0	10.702
+701802c	2022	Santa Monica	2	Santa Monica	27.68	0	0	27.68
+701802d	2022	Santa Monica	2	Santa Monica	0	0	0	0
+701802dfwyS	2022	Santa Monica	2	Santa Monica	0	0	0	0
+701902a	2022	Santa Monica	2	Santa Monica	38.044	0	0	38.044
+701902b	2022	Santa Monica	2	Santa Monica	23.473	0	0	23.473
+701902bc	2022	Santa Monica	2	Santa Monica	46.946	0	0	46.946
+701902c	2022	Santa Monica	2	Santa Monica	19.731	18	0	37.731
+701902cfwyN	2022	Santa Monica	2	Santa Monica	1.571	0	0	1.571
+701902cfwyS	2022	Santa Monica	2	Santa Monica	0	0	0	0
+701902d	2022	Santa Monica	2	Santa Monica	10	0	0	10
+701902dStr	2022	Santa Monica	2	Santa Monica	0	0	0	0
+701902e	2022	Santa Monica	2	Santa Monica	32	0	0	32
+701902eStr	2022	Santa Monica	2	Santa Monica	3	0	0	3
+701902f	2022	Santa Monica	2	Santa Monica	35	0	0	35
+701902pk	2022	Santa Monica	2	Santa Monica	21	0	0	21
+701902pp	2022	Santa Monica	2	Santa Monica	10	0	0	10
+702002a	2022	Santa Monica	2	Santa Monica	2	0	0	2
+702002b	2022	Santa Monica	2	Santa Monica	4	0	0	4
+702002bc	2022	Santa Monica	2	Santa Monica	39.141	0	0	39.141
+702002c	2022	Santa Monica	2	Santa Monica	4	0	0	4
+702002d	2022	Santa Monica	2	Santa Monica	1	0	0	1
+702002e	2022	Santa Monica	2	Santa Monica	7.582	0	0	7.582
+702002f	2022	Santa Monica	2	Santa Monica	3	0	0	3
+702102a	2022	Santa Monica	2	Santa Monica	6.193	0	0	6.193
+702102b	2022	Santa Monica	2	Santa Monica	0	0	0	0
+702102bc	2022	Santa Monica	2	Santa Monica	13.836	0	0	13.836
+702102c	2022	Santa Monica	2	Santa Monica	2.459	0	0	2.459
+702102d	2022	Santa Monica	2	Santa Monica	1	0	0	1
+702102e	2022	Santa Monica	2	Santa Monica	9.615	0	0	9.615
+702201a	2022	Santa Monica	2	Santa Monica	1	0	0	1
+702201b	2022	Santa Monica	2	Santa Monica	2.473	0	0	2.473
+702201c	2022	Santa Monica	2	Santa Monica	6	0	0	6
+702201d	2022	Santa Monica	2	Santa Monica	0	0	0	0
+702202a	2022	Santa Monica	2	Santa Monica	0	0	0	0
+702202b	2022	Santa Monica	2	Santa Monica	8.945	0	0	8.945
+702202c	2022	Santa Monica	2	Santa Monica	1	0	0	1
+702300a	2022	Santa Monica	2	Santa Monica	8.838	0	0	8.838
+702300b	2022	Santa Monica	2	Santa Monica	3.204	0	0	3.204
+702300c	2022	Santa Monica	2	Santa Monica	1.571	0	0	1.571
+702300d	2022	Santa Monica	2	Santa Monica	0	0	0	0
+702300e	2022	Santa Monica	2	Santa Monica	4	0	0	4
+702400a	2022	Culver City	2	Culver City	0	0	0	0
+702400b	2022	Culver City	2	Culver City	0	0	0	0
+702501	2022	Culver City	2	Culver City	39.538	0	0	39.538
+702502a	2022	Culver City	2	Culver City	11.56	0	0	11.56
+702502b	2022	Los Angeles	2	Baldwin Hills/Crenshaw	2.571	0	0	2.571
+702600a	2022	Culver City	2	Culver City	2.891	0	0	2.891
+702600b	2022	Culver City	2	Culver City	9.554	0	0	9.554
+702700	2022	Culver City	2	Culver City	37.305	0	0	37.305
+702801	2022	Culver City	2	Culver City	119.82	37	0	156.82
+702802	2022	Culver City	2	Culver City	22.032	0	0	22.032
+702803	2022	Culver City	2	Culver City	10.444	0	0	10.444
+702901a	2022	Unincorporated	1	Marina del Rey	1	0	0	1
+702901b	2022	Unincorporated	1	Marina del Rey	0	0	0	0
+702901c	2022	Unincorporated	1	Marina del Rey	0	0	0	0
+702901d	2022	Unincorporated	1	Marina del Rey	0	0	0	0
+703001a	2022	Culver City	2	Culver City	37.693	0	0	37.693
+703001b	2022	Unincorporated	2	Ladera Heights	2.473	0	0	2.473
+703002a	2022	Unincorporated	2	Ladera Heights	0	0	0	0
+703002b	2022	Unincorporated	2	Ladera Heights	0	0	0	0
+703002c	2022	Inglewood	2	Inglewood	0	0	0	0
+703100a	2022	Unincorporated	2	View Park-Windsor Hills	1	0	0	1
+703100b	2022	Unincorporated	2	View Park-Windsor Hills	2	0	0	2
+703200a	2022	Unincorporated	2	View Park-Windsor Hills	1.177	0	0	1.177
+703200b	2022	Unincorporated	2	View Park-Windsor Hills	3.205	0	0	3.205
+800101a	2022	Calabasas	2	Calabasas	0	0	0	0
+800101b	2022	Calabasas	2	Calabasas	0	0	0	0
+800101c	2022	Unincorporated	2	Santa Monica Mountains	0	0	0	0
+800102a	2022	Unincorporated	2	Santa Monica Mountains	0	0	0	0
+800102b	2022	Unincorporated	2	Santa Monica Mountains	4.37	0	0	4.37
+800202a	2022	Calabasas	2	Calabasas	0	0	0	0
+800202b	2022	Unincorporated	2	Santa Monica Mountains	0	0	0	0
+800203a	2022	Calabasas	2	Calabasas	0	0	0	0
+800203b	2022	Unincorporated	2	Santa Monica Mountains	0	0	0	0
+800203c	2022	Unincorporated	2	Santa Monica Mountains	0	0	0	0
+800203d	2022	Hidden Hills	2	Hidden Hills	0	0	0	0
+800204a	2022	Calabasas	2	Calabasas	0	0	0	0
+800204b	2022	Calabasas	2	Calabasas	0	0	0	0
+800324a	2022	Agoura Hills	2	Agoura Hills	0	0	0	0
+800324b	2022	Agoura Hills	2	Agoura Hills	0	0	0	0
+800324c	2022	Westlake Village	2	Westlake Village	0	0	0	0
+800325a	2022	Westlake Village	2	Westlake Village	0	0	0	0
+800325b	2022	Westlake Village	2	Westlake Village	0	0	0	0
+800326a	2022	Westlake Village	2	Westlake Village	0	0	0	0
+800326b	2022	Westlake Village	2	Westlake Village	0	0	0	0
+800326c	2022	Unincorporated	2	Santa Monica Mountains	4.367	0	0	4.367
+800326d	2022	Agoura Hills	2	Agoura Hills	1	0	0	1
+800327a	2022	Agoura Hills	2	Agoura Hills	0	0	0	0
+800327b	2022	Agoura Hills	2	Agoura Hills	0	0	0	0
+800328a	2022	Calabasas	2	Calabasas	0	0	0	0
+800328b	2022	Calabasas	2	Calabasas	0	0	0	0
+800328c	2022	Calabasas	2	Calabasas	0	0	0	0
+800328d	2022	Unincorporated	2	Santa Monica Mountains	0	0	0	0
+800329a	2022	Agoura Hills	2	Agoura Hills	0	0	0	0
+800329b	2022	Unincorporated	2	Santa Monica Mountains	0	0	0	0
+800329c	2022	Unincorporated	2	Santa Monica Mountains	0	0	0	0
+800329d	2022	Calabasas	2	Calabasas	0	0	0	0
+800329e	2022	Calabasas	2	Calabasas	0	0	0	0
+800330	2022	Unincorporated	2	Santa Monica Mountains	0	0	0	0
+800331	2022	Westlake Village	2	Westlake Village	0	0	0	0
+800332a	2022	Agoura Hills	2	Agoura Hills	0	0	0	0
+800332b	2022	Agoura Hills	2	Agoura Hills	0	0	0	0
+800406a	2022	Unincorporated	2	Santa Monica Mountains	0	0	0	0
+800406b	2022	Malibu	2	Malibu	0	0	0	0
+800406c	2022	Malibu	2	Malibu	1.459	0	0	1.459
+800406d	2022	Malibu	2	Malibu	0	0	0	0
+800406e	2022	Malibu	2	Malibu	0	0	0	0
+800408a	2022	Malibu	2	Malibu	0	0	0	0
+800408b	2022	Malibu	2	Malibu	13.945	0	0	13.945
+800408c	2022	Malibu	2	Malibu	22.689	0	0	22.689
+800408d	2022	Malibu	2	Malibu	1	0	0	1
+800410a	2022	Unincorporated	2	Santa Monica Mountains	0	0	0	0
+800410b	2022	Malibu	2	Malibu	21.397	0	0	21.397
+800504a	2022	Unincorporated	2	Santa Monica Mountains	0	0	0	0
+800504b	2022	Malibu	2	Malibu	11.676	0	0	11.676
+800506a	2022	Unincorporated	2	Santa Monica Mountains	0	0	0	0
+800506b	2022	Malibu	2	Malibu	8.407	0	0	8.407
+900102a	2022	Unincorporated	2	Hi Vista	2.816	0	0	2.816
+900102b	2022	Unincorporated	2	Hi Vista	11.989	0	0	11.989
+900102c	2022	Unincorporated	2	Hi Vista	5.631	0	0	5.631
+900102d	2022	Unincorporated	2	Hi Vista	8.555	0	0	8.555
+900102e	2022	Unincorporated	2	Hi Vista	25.174	0	0	25.174
+900102f	2022	Unincorporated	2	Hi Vista	5.631	0	0	5.631
+900102g	2022	Unincorporated	2	Hi Vista	5.739	0	0	5.739
+900102h	2022	Unincorporated	2	Hi Vista	58.167	0	0	58.167
+900102i	2022	Unincorporated	2	Hi Vista	68.497	0	0	68.497
+900102j	2022	Unincorporated	2	Hi Vista	32.059	0	0	32.059
+900103a	2022	Unincorporated	2	Lake Los Angeles	68.217	0	0	68.217
+900103b	2022	Unincorporated	2	Lake Los Angeles	39.873	0	0	39.873
+900103c	2022	Unincorporated	2	Lake Los Angeles	40.315	0	0	40.315
+900104a	2022	Unincorporated	2	Lake Los Angeles	32.188	0	0	32.188
+900104b	2022	Unincorporated	2	Lake Los Angeles	91.482	0	0	91.482
+900201a	2022	Unincorporated	2	Lake Los Angeles	0	0	0	0
+900201b	2022	Lancaster	2	Lancaster	5.461	0	0	5.461
+900201c	2022	Palmdale	2	Palmdale	0	0	0	0
+900201d	2022	Unincorporated	2	Roosevelt	0	0	0	0
+900201e	2022	Unincorporated	2	Roosevelt	36.631	0	0	36.631
+900201f	2022	Unincorporated	2	Roosevelt	24.307	0	0	24.307
+900201g	2022	Unincorporated	2	Roosevelt	103.77	0	0	103.77
+900300a	2022	Lancaster	2	Lancaster	14.372	0	0	14.372
+900300b	2022	Unincorporated	2	North Lancaster	6.208	0	0	6.208
+900501a	2022	Lancaster	2	Lancaster	9.916	0	0	9.916
+900501b	2022	Lancaster	2	Lancaster	9.665	0	0	9.665
+900504a	2022	Lancaster	2	Lancaster	5.202	0	0	5.202
+900504b	2022	Lancaster	2	Lancaster	1.115	0	5	6.115
+900505	2022	Lancaster	2	Lancaster	0	0	0	0
+900506	2022	Lancaster	2	Lancaster	3.816	0	0	3.816
+900507a	2022	Lancaster	2	Lancaster	9.589	0	4	13.589
+900507b	2022	Lancaster	2	Lancaster	0	0	0	0
+900508a	2022	Lancaster	2	Lancaster	1.408	0	0	1.408
+900508b	2022	Lancaster	2	Lancaster	24.261	0	0	24.261
+900602a	2022	Lancaster	2	Lancaster	15.406	0	0	15.406
+900602b	2022	Lancaster	2	Lancaster	6.719	0	0	6.719
+900602c	2022	Lancaster	2	Lancaster	0	0	0	0
+900605a	2022	Lancaster	2	Lancaster	0	0	0	0
+900605b	2022	Lancaster	2	Lancaster	1.408	0	0	1.408
+900606a	2022	Lancaster	2	Lancaster	2	0	6	8
+900606b	2022	Lancaster	2	Lancaster	13.41	0	0	13.41
+900607a	2022	Lancaster	2	Lancaster	17.791	0	0	17.791
+900607b	2022	Lancaster	2	Lancaster	11.97	0	0	11.97
+900608	2022	Lancaster	2	Lancaster	2.088	0	0	2.088
+900609a	2022	Lancaster	2	Lancaster	3	0	0	3
+900609b	2022	Lancaster	2	Lancaster	0	0	0	0
+900701a	2022	Lancaster	2	Lancaster	4.176	0	0	4.176
+900701b	2022	Lancaster	2	Lancaster	12.29	0	0	12.29
+900703a	2022	Lancaster	2	Lancaster	8.407	0	0	8.407
+900703b	2022	Lancaster	2	Lancaster	38.672	0	0	38.672
+900704a	2022	Lancaster	2	Lancaster	3.238	0	0	3.238
+900704b	2022	Lancaster	2	Lancaster	22.159	0	0	22.159
+900705a	2022	Lancaster	2	Lancaster	53.92	0	0	53.92
+900705b	2022	Lancaster	2	Lancaster	41.504	0	0	41.504
+900803a	2022	Lancaster	2	Lancaster	0	0	0	0
+900803b	2022	Lancaster	2	Lancaster	0	0	0	0
+900804	2022	Lancaster	2	Lancaster	20.269	0	0	20.269
+900805a	2022	Lancaster	2	Lancaster	0	2	0	2
+900805b	2022	Lancaster	2	Lancaster	0	12	0	12
+900806a	2022	Lancaster	2	Lancaster	4.462	0	0	4.462
+900806b	2022	Lancaster	2	Lancaster	17.045	0	0	17.045
+900900a	2022	Unincorporated	2	Del Sur	2.645	0	0	2.645
+900900b	2022	Lancaster	2	Lancaster	0	0	0	0
+900900c	2022	Unincorporated	2	North Lancaster	22.612	0	0	22.612
+900900d	2022	Lancaster	2	Lancaster	2.176	0	0	2.176
+901003	2022	Lancaster	2	Lancaster	2	43	0	45
+901004a	2022	Lancaster	2	Lancaster	0	0	0	0
+901004b	2022	Lancaster	2	Lancaster	4.223	31	0	35.223
+901004c	2022	Unincorporated	2	Quartz Hill	0	0	0	0
+901007a	2022	Lancaster	2	Lancaster	3.904	0	0	3.904
+901007b	2022	Lancaster	2	Lancaster	0	0	0	0
+901008a	2022	Lancaster	2	Lancaster	14.94	0	0	14.94
+901008b	2022	Lancaster	2	Lancaster	3.584	0	0	3.584
+901009a	2022	Lancaster	2	Lancaster	0	31	0	31
+901009b	2022	Lancaster	2	Lancaster	0	0	0	0
+901010a	2022	Lancaster	2	Lancaster	0	0	0	0
+901010b	2022	Lancaster	2	Lancaster	0	26	0	26
+901011a	2022	Lancaster	2	Lancaster	0	0	0	0
+901011b	2022	Lancaster	2	Lancaster	0	0	0	0
+901101a	2022	Unincorporated	2	Quartz Hill	0	0	0	0
+901101b	2022	Lancaster	2	Lancaster	4.223	0	0	4.223
+901102a	2022	Unincorporated	2	Quartz Hill	3.816	0	0	3.816
+901102b	2022	Unincorporated	2	Quartz Hill	2.816	0	0	2.816
+901102c	2022	Lancaster	2	Lancaster	0	0	0	0
+901205a	2022	Unincorporated	2	Del Sur	1.408	0	0	1.408
+901205b	2022	Lancaster	2	Lancaster	49.7	0	0	49.7
+901205c	2022	Lancaster	2	Lancaster	5.11	0	0	5.11
+901209a	2022	Unincorporated	2	West Antelope Valley	2.496	0	0	2.496
+901209b	2022	Unincorporated	2	West Antelope Valley	0	0	0	0
+901209c	2022	Unincorporated	2	West Antelope Valley	0	0	0	0
+901209d	2022	Unincorporated	2	West Antelope Valley	0	0	0	0
+901209e	2022	Unincorporated	2	West Antelope Valley	0	0	0	0
+901209f	2022	Unincorporated	2	West Antelope Valley	0	0	0	0
+901209g	2022	Unincorporated	2	West Antelope Valley	10.118	0	0	10.118
+901209h	2022	Unincorporated	2	West Antelope Valley	7.291	0	0	7.291
+901209i	2022	Unincorporated	2	West Antelope Valley	12.5	0	0	12.5
+901209j	2022	Unincorporated	2	West Antelope Valley	24.555	0	0	24.555
+901209p	2022	Unincorporated	2	West Antelope Valley	0	0	0	0
+901210	2022	Unincorporated	2	Elizabeth Lake	0	0	0	0
+901213a	2022	Unincorporated	2	Leona Valley	0	0	0	0
+901213b	2022	Palmdale	2	Palmdale	4.998	0	0	4.998
+910001a	2022	Unincorporated	2	Unincorporated Palmdale	0	0	0	0
+910001b	2022	Palmdale	2	Palmdale	12.628	0	0	12.628
+910001c	2022	Unincorporated	2	Sun Village	0	0	0	0
+910001d	2022	Unincorporated	2	Sun Village	65.231	0	0	65.231
+910001e	2022	Unincorporated	2	Lake Los Angeles	119.05	0	0	119.05
+910002a	2022	Unincorporated	2	Littlerock	0	0	0	0
+910002b	2022	Unincorporated	2	Littlerock	0	0	0	0
+910002c	2022	Unincorporated	2	Littlerock/Pearblossom	36.411	0	0	36.411
+910002d	2022	Unincorporated	2	Littlerock/Pearblossom	93.287	0	0	93.287
+910002e	2022	Unincorporated	2	Littlerock/Pearblossom	43.815	0	0	43.815
+910002f	2022	Unincorporated	2	Littlerock/Pearblossom	207.47	0	0	207.47
+910101a	2022	Unincorporated	2	Sun Village	0	0	0	0
+910101b	2022	Palmdale	2	Palmdale	4.223	0	0	4.223
+910101c	2022	Unincorporated	2	Unincorporated Palmdale	5	0	0	5
+910201a	2022	Palmdale	2	Palmdale	15.458	0	0	15.458
+910201b	2022	Palmdale	2	Palmdale	14.215	0	0	14.215
+910202a	2022	Lancaster	2	Lancaster	1.088	0	0	1.088
+910202b	2022	Unincorporated	2	White Fence Farms	0	0	0	0
+910202c	2022	Unincorporated	2	White Fence Farms	53.909	0	0	53.909
+910202d	2022	Palmdale	2	Palmdale	0	0	0	0
+910205a	2022	Unincorporated	2	Anaverde	0	0	0	0
+910205b	2022	Unincorporated	2	Anaverde	2.816	0	0	2.816
+910205c	2022	Unincorporated	2	Anaverde	2.816	0	0	2.816
+910205d	2022	Palmdale	2	Palmdale	8.147	0	0	8.147
+910206a	2022	Unincorporated	2	Leona Valley	0	0	0	0
+910206b	2022	Palmdale	2	Palmdale	3.468	0	0	3.468
+910207a	2022	Palmdale	2	Palmdale	1.115	0	0	1.115
+910207b	2022	Palmdale	2	Palmdale	0	0	0	0
+910207c	2022	Palmdale	2	Palmdale	0	0	0	0
+910208a	2022	Unincorporated	2	Desert View Highlands	0	0	0	0
+910208b	2022	Palmdale	2	Palmdale	2	0	0	2
+910209a	2022	Palmdale	2	Palmdale	0	0	0	0
+910209b	2022	Palmdale	2	Palmdale	0	0	0	0
+910210a	2022	Palmdale	2	Palmdale	0	0	0	0
+910210b	2022	Palmdale	2	Palmdale	0	0	0	0
+910301a	2022	Unincorporated	2	Quartz Hill	0	0	0	0
+910301b	2022	Palmdale	2	Palmdale	0	0	0	0
+910302	2022	Palmdale	2	Palmdale	0	0	0	0
+910401a	2022	Palmdale	2	Palmdale	0	0	0	0
+910401b	2022	Unincorporated	2	Anaverde	0	0	0	0
+910401c	2022	Palmdale	2	Palmdale	1.238	0	0	1.238
+910401d	2022	Unincorporated	2	Desert View Highlands	0	0	0	0
+910402	2022	Palmdale	2	Palmdale	2.088	30	7	39.088
+910403	2022	Palmdale	2	Palmdale	12.691	26	0	38.691
+910404a	2022	Palmdale	2	Palmdale	1	0	0	1
+910404b	2022	Palmdale	2	Palmdale	0	0	0	0
+910501	2022	Palmdale	2	Palmdale	7	0	0	7
+910502a	2022	Palmdale	2	Palmdale	4.231	0	0	4.231
+910502b	2022	Palmdale	2	Palmdale	1	0	0	1
+910504a	2022	Palmdale	2	Palmdale	0	0	0	0
+910504b	2022	Palmdale	2	Palmdale	0	0	0	0
+910504c	2022	Palmdale	2	Palmdale	2.088	0	0	2.088
+910505a	2022	Palmdale	2	Palmdale	0	0	0	0
+910505b	2022	Palmdale	2	Palmdale	0	0	0	0
+910601a	2022	Palmdale	2	Palmdale	0	5	0	5
+910601b	2022	Palmdale	2	Palmdale	3.816	0	0	3.816
+910601c	2022	Palmdale	2	Palmdale	2.408	0	0	2.408
+910602	2022	Palmdale	2	Palmdale	0	0	0	0
+910603a	2022	Palmdale	2	Palmdale	0	0	0	0
+910603b	2022	Palmdale	2	Palmdale	3.733	0	0	3.733
+910605a	2022	Palmdale	2	Palmdale	0	0	0	0
+910605b	2022	Palmdale	2	Palmdale	1.408	0	0	1.408
+910606	2022	Palmdale	2	Palmdale	3.733	0	0	3.733
+910705a	2022	Palmdale	2	Palmdale	8.447	0	0	8.447
+910705b	2022	Palmdale	2	Palmdale	9.854	0	0	9.854
+910706a	2022	Unincorporated	2	Sun Village	0	0	0	0
+910706b	2022	Palmdale	2	Palmdale	0	0	0	0
+910706c	2022	Palmdale	2	Palmdale	3.176	0	0	3.176
+910707a	2022	Palmdale	2	Palmdale	0	0	0	0
+910707b	2022	Palmdale	2	Palmdale	2.816	0	0	2.816
+910707c	2022	Unincorporated	2	South Antelope Valley	1.088	0	0	1.088
+910709a	2022	Palmdale	2	Palmdale	0	0	0	0
+910709b	2022	Unincorporated	2	Southeast Antelope Valley	2.496	0	0	2.496
+910711a	2022	Palmdale	2	Palmdale	5.168	0	0	5.168
+910711b	2022	Palmdale	2	Palmdale	5.311	0	0	5.311
+910712	2022	Palmdale	2	Palmdale	13.988	0	0	13.988
+910713a	2022	Palmdale	2	Palmdale	1.408	0	0	1.408
+910713b	2022	Palmdale	2	Palmdale	0	0	0	0
+910714	2022	Palmdale	2	Palmdale	2.816	0	0	2.816
+910715a	2022	Palmdale	2	Palmdale	1.408	0	0	1.408
+910715b	2022	Palmdale	2	Palmdale	5.28	0	0	5.28
+910715c	2022	Palmdale	2	Palmdale	4.228	0	0	4.228
+910716a	2022	Palmdale	2	Palmdale	1	0	0	1
+910716b	2022	Palmdale	2	Palmdale	9.859	0	0	9.859
+910804a	2022	Palmdale	2	Palmdale	0	0	0	0
+910804b	2022	Unincorporated	2	Acton	0	0	0	0
+910804c	2022	Unincorporated	2	Acton	2.203	0	0	2.203
+910804d	2022	Unincorporated	2	Acton	0	0	0	0
+910804e	2022	Unincorporated	2	Acton	0	0	0	0
+910805a	2022	Unincorporated	2	Acton	0	0	0	0
+910805b	2022	Unincorporated	2	Acton	12.269	0	0	12.269
+910807a	2022	Unincorporated	2	Canyon Country	0	0	0	0
+910807b	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+910807c	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+910808a	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+910808b	2022	Unincorporated	2	Agua Dulce	0	0	0	0
+910809a	2022	Unincorporated	2	Sand Canyon	0	0	0	0
+910809b	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+910809c	2022	Unincorporated	2	Canyon Country	0	0	0	0
+910810a	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+910810b	2022	Unincorporated	2	Agua Dulce	0	0	0	0
+910811a	2022	Unincorporated	2	Angeles National Forest	0	0	0	0
+910811p	2022	Unincorporated	2	Angeles National Forest	0	0	0	0
+910812a	2022	Palmdale	2	Palmdale	0	0	0	0
+910812b	2022	Unincorporated	2	South Antelope Valley	11.711	0	0	11.711
+910813b	2022	Unincorporated	2	Agua Dulce	0	0	0	0
+910813c	2022	Unincorporated	2	Agua Dulce	0	0	0	0
+910813d	2022	Unincorporated	2	Agua Dulce	1	0	0	1
+910813e	2022	Unincorporated	2	Agua Dulce	1	0	0	1
+910813f	2022	Palmdale	2	Palmdale	0	0	0	0
+911001a	2022	Unincorporated	2	Pearblossom/Llano	115.9	0	0	115.9
+911001b	2022	Unincorporated	2	Littlerock/Juniper Hills	66.639	0	0	66.639
+911001f	2022	Unincorporated	2	Llano	446.42	0	0	446.42
+911001g	2022	Unincorporated	2	Llano	62.667	0	0	62.667
+911001h	2022	Unincorporated	2	Llano	19.709	0	0	19.709
+911001i	2022	Unincorporated	2	Llano	455.72	0	0	455.72
+911001j	2022	Unincorporated	2	Llano	197.36	0	0	197.36
+911001k	2022	Unincorporated	2	Llano	20.926	0	0	20.926
+920011a	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920011p	2022	Unincorporated	2	San Francisquito Canyon/Bouquet Canyon	0	0	0	0
+920012p	2022	Unincorporated	2	Bouquet Canyon	0	0	0	0
+920013a	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920013b	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920013c	2022	Santa Clarita	2	Santa Clarita	1	0	0	1
+920013d	2022	Unincorporated	2	Saugus	0	0	0	0
+920015a	2022	Unincorporated	2	San Francisquito Canyon/Bouquet Canyon	0	0	0	0
+920015b	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920015c	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920015d	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920016	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920017	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920018	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920020a	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920020b	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920020c	2022	Unincorporated	2	Saugus	0	0	0	0
+920023	2022	Santa Clarita	2	Santa Clarita	9.081	0	0	9.081
+920026	2022	Unincorporated	2	Saugus/Canyon Country	0	0	0	0
+920028a	2022	Unincorporated	2	Canyon Country	0	0	0	0
+920028b	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920029	2022	Santa Clarita	2	Santa Clarita	6.259	0	0	6.259
+920030a	2022	Santa Clarita	2	Santa Clarita	5.685	0	0	5.685
+920030b	2022	Santa Clarita	2	Santa Clarita	2.749	0	0	2.749
+920031a	2022	Santa Clarita	2	Santa Clarita	4.208	0	0	4.208
+920031b	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920032a	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920032b	2022	Unincorporated	2	Canyon Country	1.49	0	0	1.49
+920033	2022	Unincorporated	2	Canyon Country	0	0	0	0
+920034a	2022	Unincorporated	2	Canyon Country	22.563	0	0	22.563
+920034b	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920035a	2022	Santa Clarita	2	Santa Clarita	1	0	0	1
+920035b	2022	Santa Clarita	2	Santa Clarita	23.191	0	0	23.191
+920036	2022	Santa Clarita	2	Santa Clarita	7.741	0	0	7.741
+920037	2022	Santa Clarita	2	Santa Clarita	5.965	0	0	5.965
+920038	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920039	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920040a	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920040b	2022	Unincorporated	2	Canyon Country	0	0	0	0
+920041	2022	Santa Clarita	2	Santa Clarita	24.836	0	0	24.836
+920042a	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920042b	2022	Santa Clarita	2	Santa Clarita	5.861	0	0	5.861
+920043a	2022	Unincorporated	2	Placerita Canyon	4.367	0	0	4.367
+920043b	2022	Santa Clarita	2	Santa Clarita	1.685	0	0	1.685
+920043c	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920043d	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920044	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920045	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920102a	2022	Unincorporated	2	Lake Hughes	0	0	0	0
+920102b	2022	Unincorporated	2	Castaic	0	0	0	0
+920102c	2022	Unincorporated	2	Castaic	1.456	0	0	1.456
+920102p	2022	Unincorporated	2	Castaic	0	0	0	0
+920104p	2022	Unincorporated	2	Castaic	0	0	0	0
+920106	2022	Unincorporated	2	Val Verde	2.456	0	0	2.456
+920107a	2022	Santa Clarita	2	Santa Clarita	4.946	0	0	4.946
+920107b	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920107c	2022	Unincorporated	2	Valencia	0	0	0	0
+920108a	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920108b	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920109a	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920109b	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920109c	2022	Unincorporated	2	Valencia	0	0	0	0
+920110	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920111	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920112a	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920112b	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920114a	2022	Santa Clarita	2	Santa Clarita	2	0	0	2
+920114b	2022	Santa Clarita	2	Santa Clarita	4	0	0	4
+920115a	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920115b	2022	Santa Clarita	2	Santa Clarita	11.259	0	0	11.259
+920116	2022	Unincorporated	2	Castaic	0	0	0	0
+920118	2022	Unincorporated	2	Castaic	0	0	0	0
+920119	2022	Unincorporated	2	Castaic	0	0	0	0
+920200	2022	Unincorporated	2	Castaic	0	0	0	0
+920303	2022	Unincorporated	2	Twin Lakes/Oat Mountain	1.456	0	0	1.456
+920312a	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920312b	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920312c	2022	Unincorporated	2	Newhall	0	0	0	0
+920313a	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920313b	2022	Santa Clarita	2	Santa Clarita	11.266	0	0	11.266
+920314a	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920314b	2022	Santa Clarita	2	Santa Clarita	13.149	22	0	35.149
+920322	2022	Santa Clarita	2	Santa Clarita	1.49	0	0	1.49
+920326a	2022	Unincorporated	2	Steveson Ranch	0	0	0	0
+920326b	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920328	2022	Santa Clarita	2	Santa Clarita	4.424	0	0	4.424
+920329a	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920329b	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920330a	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920330b	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920331	2022	Santa Clarita	2	Santa Clarita	2.685	0	0	2.685
+920332a	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920332b	2022	Santa Clarita	2	Santa Clarita	7.293	0	0	7.293
+920334a	2022	Santa Clarita	2	Santa Clarita	1.456	0	0	1.456
+920334b	2022	Santa Clarita	2	Santa Clarita	2.911	0	0	2.911
+920336a	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+920336b	2022	Santa Clarita	2	Santa Clarita	3.776	0	6	9.776
+920337a	2022	Santa Clarita	2	Santa Clarita	17	0	0	17
+920337b	2022	Santa Clarita	2	Santa Clarita	1	0	0	1
+920338	2022	Unincorporated	2	Stevenson Ranch	0	0	0	0
+920339	2022	Unincorporated	2	Steveson Ranch	4	0	0	4
+930101p	2022	Unincorporated	2	Angeles National Forest	0	0	0	0
+930200a	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+930200b	2022	Santa Clarita	2	Santa Clarita	4	0	0	4
+930200d	2022	Santa Clarita	2	Santa Clarita	0	0	0	0
+930200f	2022	Unincorporated	2	Kagel/Lopez Canyons	0	0	0	0
+930200p	2022	Unincorporated	2	Angeles National Forest	0	0	0	0
+930301a	2022	Azusa	2	Azusa	0	0	0	0
+930301b	2022	Unincorporated	2	Angeles National Forest	0	0	0	0
+930301p	2022	Unincorporated	2	Angeles National Forest	0	0	0	0
+930401	2022	Los Angeles	1	Woodland Hills	2.456	0	0	2.456
+980001	2022	Burbank	2	Burbank	20.54	0	0	20.54
+980002	2022	Carson	2	Carson	0	0	0	0
+980003a	2022	Unincorporated	2	South Edwards	0	0	0	0
+980003b	2022	Unincorporated	2	South Edwards	0	0	0	0
+980004a	2022	Palmdale	2	Palmdale	53.722	0	0	53.722
+980004b	2022	Unincorporated	2	Unincorporated Palmdale	0	0	0	0
+980005	2022	Torrance	2	Torrance	22.176	0	0	22.176
+980008	2022	Los Angeles	1	Van Nuys	13.988	0	10	23.988
+980009a	2022	Los Angeles	1	Griffith Park	49.341	53	0	102.34
+980009b	2022	Los Angeles	1	Hollywood Hills	0	0	0	0
+980009p	2022	Los Angeles	1	Hollywood Hills	0	0	0	0
+980010a	2022	Los Angeles	1	Elysian Park	26.598	0	0	26.598
+980010p	2022	Los Angeles	1	Elysian Park	16.851	0	0	16.851
+980013a	2022	El Segundo	2	El Segundo	5	0	0	5
+980013b	2022	El Segundo	2	El Segundo	3	0	0	3
+980014a	2022	Los Angeles	1	Wilmington	99.142	0	0	99.142
+980014b	2022	Los Angeles	1	Wilmington	70.296	0	0	70.296
+980015a	2022	Los Angeles	1	San Pedro	0	0	0	0
+980015b	2022	Lomita	1	Lomita	0	0	0	0
+980015c	2022	Los Angeles	1	Harbor City	3	60	0	63
+980015d	2022	Los Angeles	1	Wilmington	17.838	0	0	17.838
+980019p	2022	Los Angeles	1	Pacific Palisades	3.731	0	0	3.731
+980020	2022	Los Angeles	1	Shadow Hills	0	0	0	0
+980021a	2022	Los Angeles	1	Pacoima	0	0	0	0
+980021b	2022	Los Angeles	1	Hansen Dam	23.322	0	0	23.322
+980021c	2022	Los Angeles	1	Hansen Dam	88.067	0	0	88.067
+980021d	2022	Los Angeles	1	Lake View Terrace	31.46	0	0	31.46
+980022	2022	Los Angeles	1	Granada Hills	0	0	0	0
+980023a	2022	Los Angeles	1	Chatsworth Reservoir	0	0	0	0
+980023b	2022	Los Angeles	1	Chatsworth Reservoir	0	0	0	0
+980024	2022	Los Angeles	1	Sepulveda Basin	51.861	0	0	51.861
+980025	2022	Carson	2	Carson	2.737	0	0	2.737
+980026a	2022	Los Angeles	1	Lake View Terrace	0	0	0	0
+980026b	2022	Los Angeles	1	Sunland	0	0	0	0
+980026p	2022	Los Angeles	1	Tujunga	4	0	0	4
+980028	2022	Los Angeles	1	Westchester/Playa	23.459	0	0	23.459
+980030	2022	El Segundo	2	El Segundo	0	0	0	0
+980031a	2022	Los Angeles	1	Wilmington	0	0	0	0
+980031b	2022	Los Angeles	1	San Pedro	19.671	0	0	19.671
+980031c	2022	Los Angeles	1	San Pedro	0	0	0	0
+980031d	2022	Los Angeles	1	San Pedro	0	0	0	0
+980031e	2022	Los Angeles	1	San Pedro	4.737	0	0	4.737
+980031f	2022	Los Angeles	1	Wilmington	16.902	0	0	16.902
